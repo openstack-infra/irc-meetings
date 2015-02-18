@@ -4,13 +4,12 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
-  - time:       '0000'
-    day:        Thursday
-    irc:        openstack-meeting-alt
+  - time:       '1200'
+    day:        Wednesday
+    irc:        openstack-meeting
     frequency:  weekly
 chair:  Steve Baker
 description:  >
-  The heat Orchestration project team holds a meeting in #openstack-meeting at
-  alternating times on Wednesday at 2000 and Thursday at 0000. Everyone is
-  Welcome. The blueprints that are used as a basis for the heat project can be
+  The heat Orchestration project team holds a meeting where everyone is
+  welcome. The blueprints that are used as a basis for the heat project can be
   found at: https://blueprints.launchpad.net/heat

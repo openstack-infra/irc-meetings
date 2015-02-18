@@ -1,8 +1,8 @@
 project:  LBaaS Meeting
 schedule:
-  - time:       '1400'
-    day:        Thursday
-    irc:        openstack-meeting
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting-4
     frequency:  weekly
 chair:  Doug Wiegley
 description:  >

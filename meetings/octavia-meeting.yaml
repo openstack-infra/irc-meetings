@@ -1,0 +1,9 @@
+project:  Octavia Meeting
+schedule:
+  - time:       '2000'
+    day:        Tuesday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair:  sbalukoff
+description:  >
+  Octavia meeting.

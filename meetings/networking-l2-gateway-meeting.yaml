@@ -1,0 +1,10 @@
+project:  Networking L2 gateway meeting
+schedule:
+  - time:       '1800'
+    day:        Monday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-odd
+chair:  mestery
+description:  >
+  The OpenStack Networking Team (Neutron) holds public meetings in
+  #openstack-meeting. Everyone is encouraged to attend.

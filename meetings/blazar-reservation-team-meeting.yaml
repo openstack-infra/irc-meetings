@@ -1,4 +1,4 @@
-project:  Climate (Reservation) Team Meeting
+project:  Blazar (Reservation) Team Meeting
 schedule:
   - time:       '1500'
     day:        Friday
@@ -6,5 +6,5 @@ schedule:
     frequency:  weekly
 chair:  Sylvain Bauza / Dina Belova
 description:  |
-  The Climate project team holds a weekly team meeting in #openstack-meeting
+  The Blazar project team holds a weekly team meeting in #openstack-meeting
   on Friday at 15:00 UTC.

@@ -1,0 +1,13 @@
+project:  OpenStack Ambassadors Meeting
+schedule:
+  - time:       '0800'
+    day:        Tuesday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-odd
+  - time:       '1800'
+    day:        Friday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-even
+chair:  sarob
+description:  >
+  Ambassadors

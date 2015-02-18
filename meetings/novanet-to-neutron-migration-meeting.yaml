@@ -1,0 +1,10 @@
+project:  Nova-net to Neutron Migration Meeting
+schedule:
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  anteaya
+description:  >
+  The OpenStack Networking Team (Neutron) holds public meetings in
+  #openstack-meeting. Everyone is encouraged to attend.

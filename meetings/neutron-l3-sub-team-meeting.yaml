@@ -1,7 +1,7 @@
 project:  Neutron L3 Sub-team Meeting
 schedule:
   - time:       '1500'
-    day:        Tuesday
+    day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
 chair:  Carl Baldwin

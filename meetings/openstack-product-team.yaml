@@ -1,0 +1,9 @@
+project:  OpenStack Product Team meeting
+schedule:
+  - time:       '2300'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+chair: sarob
+description:  >
+  Product

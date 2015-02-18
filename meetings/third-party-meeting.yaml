@@ -1,0 +1,12 @@
+project:  Third Party Meeting
+schedule:
+  - time:       '1500'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  weekly
+  - time:       '0800'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  anteaya
+description:

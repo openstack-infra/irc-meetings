@@ -1,0 +1,9 @@
+project:  Documentation HA Guide update Meeting
+schedule:
+  - time:       '2100'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair: Matt Griffin
+description:  >
+  HA Guide update meeting.

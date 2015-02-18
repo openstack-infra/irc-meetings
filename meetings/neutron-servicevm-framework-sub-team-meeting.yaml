@@ -1,8 +1,8 @@
 project:  Neutron ServiceVM Framework Sub-team Meeting
 schedule:
-  - time:       '0500'
-    day:        Tuesday
-    irc:        openstack-meeting
+  - time:       '1700'
+    day:        Wednesday
+    irc:        openstack-meeting-4
     frequency:  weekly
 chair:  Isaku Yamahata
 description:  |

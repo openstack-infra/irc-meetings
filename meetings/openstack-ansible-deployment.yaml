@@ -1,0 +1,9 @@
+project:  OpenStack Ansible Deployment Meeting
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair: cloudnull
+description:  >
+  OpenStack+Ansible

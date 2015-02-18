@@ -1,0 +1,9 @@
+project:  Puppet OpenStack Team Meeting
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair: crinkle
+description:  >
+  Puppet+OpenStack

@@ -1,0 +1,10 @@
+project:  Trainers Team Meeting
+schedule:
+  - time:       '1800'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  sarob
+description:  >
+  The training-guides team meets weekly on Monday at 1700 UTC on
+  #openstack-meeting.

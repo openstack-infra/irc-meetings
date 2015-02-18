@@ -1,7 +1,7 @@
 project:  PCI Passthrough Meeting
 schedule:
   - time:       '1300'
-    day:        Wednesday
+    day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
 chair:  Robert Li

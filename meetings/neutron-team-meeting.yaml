@@ -3,7 +3,11 @@ schedule:
   - time:       '2100'
     day:        Monday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-even
+  - time:       '1400'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
 chair:  Mark McClain
 description:  >
   The OpenStack Networking Team (Neutron) holds public meetings in

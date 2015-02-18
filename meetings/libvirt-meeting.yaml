@@ -1,0 +1,9 @@
+project:  Libvirt Meeting
+schedule:
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  danpb
+description:  >
+  This is a weekly meeting to discuss libvirt in Nova.

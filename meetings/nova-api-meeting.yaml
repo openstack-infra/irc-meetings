@@ -1,0 +1,9 @@
+project:  Nova API Meeting
+schedule:
+  - time:       '0000'
+    day:        Friday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Chris Yeoh
+description:  >
+  This is a weekly meeting to discuss Nova API.

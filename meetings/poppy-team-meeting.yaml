@@ -1,0 +1,9 @@
+project:  Poppy Team Meeting
+schedule:
+  - time:       '1900'
+    day:        Thursday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair: amitgandhinz
+description:  >
+  Poppy!

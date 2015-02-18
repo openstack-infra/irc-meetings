@@ -1,9 +1,9 @@
 project:  StoryBoard Meeting
 schedule:
   - time:       '1600'
-    day:        Thursday
-    irc:        openstack-meeting
+    day:        Monday
+    irc:        openstack-meeting-3
     frequency:  weekly
-chair:  cody-somerville / ttx
+chair:  krotscheck
 description:  >
   Storyboard is a task tracker for OpenStack.

@@ -1,8 +1,8 @@
-project:  Neutron Advanced Services Common Requirements Team Meeting
+project:  Neutron Advanced Services Team Meeting
 schedule:
-  - time:       '1730'
-    day:        Wednesday
-    irc:        openstack-meeting-3
+  - time:       '1700'
+    day:        Tuesday
+    irc:        openstack-meeting-4
     frequency:  weekly
 chair:  Sumit Naiksatam
 description:  >

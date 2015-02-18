@@ -3,7 +3,11 @@ schedule:
   - time:       '1900'
     day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  weekly
+    frequency:  biweekly-odd
+  - time:       '0800'
+    day:        Wednesday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-even
 chair:  Robert Collins
 description:  >
   Weekly meeting every Tuesday at 1900 UTC in openstack-meeting-alt

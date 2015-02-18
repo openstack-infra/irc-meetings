@@ -1,0 +1,10 @@
+project:  Neutron VPNaaS Meeting
+schedule:
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  pc_m
+description:  >
+  The OpenStack Networking Team (Neutron) holds public meetings in
+  #openstack-meeting. Everyone is encouraged to attend.

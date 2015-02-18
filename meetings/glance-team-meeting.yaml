@@ -2,11 +2,11 @@ project:  Glance Team Meeting
 schedule:
   - time:       '1400'
     day:        Thursday
-    irc:        openstack-meeting-alt
-    frequency:  weekly
-  - time:       '2000'
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+  - time:       '1500'
     day:        Thursday
-    irc:        openstack-meeting-alt
-    frequency:  weekly
-chair:  Mark Washenberger
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+chair:  Nikhil Komawar
 description:

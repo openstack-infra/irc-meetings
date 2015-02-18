@@ -1,8 +1,12 @@
-project:  Third Party OpenStack CI Workshop and QA Meeting
+project:  Third Party Working Group Meeting
 schedule:
-  - time:       '1800'
-    day:        Monday
-    irc:        openstack-meeting
-    frequency:  weekly
-chair:  JayPipes
+  - time:       '1500'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+  - time:       '0400'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+chair:  krtaylor
 description:

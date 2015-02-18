@@ -1,6 +1,6 @@
 project:  Solum Team Meeting
 schedule:
-  - time:       '1600'
+  - time:       '2100'
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
