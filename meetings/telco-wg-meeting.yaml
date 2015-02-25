@@ -2,7 +2,7 @@ project:  Telco Working Group meeting
 schedule:
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-alt-should-not-conflict
+    irc:        openstack-meeting-alt
     frequency:  biweekly-odd
   - time:       '2200'
     day:        Wednesday
