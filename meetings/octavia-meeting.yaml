@@ -1,7 +1,7 @@
 project:  Octavia Meeting
 schedule:
   - time:       '2000'
-    day:        Tuesday
+    day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
 chair:  sbalukoff

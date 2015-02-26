@@ -3,7 +3,7 @@ schedule:
   - time:       '2300'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
 chair: sarob
 description:  >
   Product

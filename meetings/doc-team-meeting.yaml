@@ -3,11 +3,11 @@ schedule:
   - time:       '0300'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-alt
-    frequency:  biweekly-even
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
 chair: Anne Gentle
 description:  >
   If you are interested in documentation and the web content for OpenStack, we

@@ -3,11 +3,11 @@ schedule:
   - time:       '2000'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-odd
   - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-even
 chair:  Steve Baker
 description:  >
   The heat Orchestration project team holds a meeting where everyone is

@@ -3,11 +3,11 @@ schedule:
   - time:       '2100'
     day:        Monday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
   - time:       '1500'
     day:        Monday
     irc:        openstack-meeting-3
-    frequency:  biweekly-even
+    frequency:  biweekly-odd
 chair:  Flavio Percoco
 description:  >
   The Zaqar project team holds a weekly team meeting.

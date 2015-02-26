@@ -4,11 +4,11 @@ schedule:
   - time:       '1700'
     day:        Thursday
     irc:        openstack-meeting
-    frequency:  biweekly-even
+    frequency:  biweekly-odd
   - time:       '2200'
     day:        Thursday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
 chair:  Matt Treinish
 description:  |
   * The OpenStack QA Team holds public weekly meetings in #openstack-meeting,
