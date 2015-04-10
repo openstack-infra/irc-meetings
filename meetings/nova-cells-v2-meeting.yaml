@@ -4,7 +4,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
-  - time:       '2200'
+  - time:       '2100'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
