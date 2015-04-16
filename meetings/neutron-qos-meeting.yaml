@@ -1,0 +1,9 @@
+project:  Neutron QoS Meeting
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Sean Collins (sc68cal), Miguel Ángel Ajo (ajo)
+description:  >
+  Weekly meeting to discuss QoS in Neutron.
