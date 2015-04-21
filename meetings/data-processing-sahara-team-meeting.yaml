@@ -3,8 +3,11 @@ schedule:
   - time:       '1800'
     day:        Thursday
     irc:        openstack-meeting-alt
-    frequency:  weekly
+    frequency:  biweekly-even
+  - time:       '1400'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
 chair:  Sergey Lukjanov
 description:  >
-  The Sahara project team holds a weekly team meeting in #openstack-meeting-alt
-  on Thursday at 18:00 UTC.
+  The Sahara project team holds a weekly team meeting.
