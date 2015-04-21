@@ -1,0 +1,11 @@
+project: OpenStack Community Infrastructure Meetings
+schedule:
+  - time:       '1700'
+    day:        Monday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair:  Stefano Maffulli (reed)
+description:  >
+  The Community team is responsible for quite a lot of software, from Ask
+  OpenStack to Groups Portal to Activity Board and other systems. This meeting is
+  to coordinate the development and maintenance of such services.
