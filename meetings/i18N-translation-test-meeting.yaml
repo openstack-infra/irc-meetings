@@ -1,0 +1,9 @@
+project:  I18N Translation test meeting
+schedule:
+  - time:       '0000'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  daisy
+description:  >
+  The Translation test team meet weekly.
