@@ -3,10 +3,6 @@ schedule:
   - time:       '1400'
     day:        Thursday
     irc:        openstack-meeting-4
-    frequency:  biweekly-odd
-  - time:       '1500'
-    day:        Thursday
-    irc:        openstack-meeting-4
-    frequency:  biweekly-even
+    frequency:  weekly
 chair:  Nikhil Komawar
 description:
