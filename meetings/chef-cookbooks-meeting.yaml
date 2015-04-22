@@ -1,0 +1,13 @@
+project:  Chef Cookbook meeting
+schedule:
+  - time:       '1530'
+    day:        Thursday
+    irc:        openstack-chef
+    frequency:  weekly
+  - time:       '1530'
+    day:        Monday
+    irc:        Google hangout
+    frequency:  weekly
+chair: JJ Asghar (j^2)
+description:  >
+  The Chef Cookbooks project team holds weekly team meetings in google hangout and #openstack-chef
