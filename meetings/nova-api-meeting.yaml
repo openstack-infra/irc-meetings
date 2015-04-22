@@ -4,6 +4,6 @@ schedule:
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Chris Yeoh
+chair:  Kenichi Oomichi (oomichi)
 description:  >
   This is a weekly meeting to discuss Nova API.
