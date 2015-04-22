@@ -1,8 +1,8 @@
 project:  Puppet OpenStack Team Meeting
 schedule:
-  - time:       '1400'
-    day:        Monday
-    irc:        openstack-meeting
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting-4
     frequency:  weekly
 chair: crinkle
 description:  >
