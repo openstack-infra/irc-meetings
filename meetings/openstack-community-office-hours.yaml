@@ -1,0 +1,15 @@
+project:  OpenStack Community Office Hours
+schedule:
+  - time:       '0800'
+    day:        Tuesday
+    irc:        openstack-community
+    frequency:  weekly
+  - time:       '1800'
+    day:        Friday
+    irc:        openstack-community
+    frequency:  weekly
+chair:  Tom Fifield (fifieldt), Stefano Maffulli (reed)
+description:  >
+  The Community team offers two spots weekly to welcome new people, offer help,
+  listen to users and developers for suggestions, ideas and anything going around
+  OpenStack.
