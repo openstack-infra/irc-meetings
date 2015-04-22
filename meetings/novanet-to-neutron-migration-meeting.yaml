@@ -6,5 +6,5 @@ schedule:
     frequency:  weekly
 chair:  anteaya
 description:  >
-  The OpenStack Networking Team (Neutron) holds public meetings in
-  #openstack-meeting. Everyone is encouraged to attend.
+  (ON HOLD) Weekly meeting to discuss the migration strategy for the nova-net
+  to Neutron transition.
