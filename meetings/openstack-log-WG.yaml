@@ -1,0 +1,9 @@
+project:  OpenStack Log Working Group Meeting
+schedule:
+  - time:       '2000'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Rochelle Grober (RockG)
+description:  >
+  Log WG Weekly Meeting.
