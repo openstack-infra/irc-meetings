@@ -1,0 +1,11 @@
+project:  OpenStackClient Team Meeting
+schedule:
+  - time:       '1900'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Dean Troyer (dtroyer)
+description:  >
+  The OpenStackClient Team holds public weekly meetings in #openstack-meeting
+  on Thursdays at 19:00 UTC.  Everyone who uses an OpenStack command-line
+  interface is invited to attend.
