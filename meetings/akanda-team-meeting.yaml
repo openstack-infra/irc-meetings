@@ -1,0 +1,9 @@
+project:  Akanda Team Meeting
+schedule:
+  - time:       '1500'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Sean Roberts (sarob)
+description:  >
+  Weekly Akanda Team Meeting.
