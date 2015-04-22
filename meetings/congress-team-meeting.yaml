@@ -5,7 +5,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Pete Balland
+chair:  Pete Balland (pballand), Tim Hinrichs (thinrichs)
 description:  >
   If you're interested in Congress, we hold public meetings weekly in
   #openstack-meeting-3 on freenode, on every other Tuesday at 17:00 UTC.

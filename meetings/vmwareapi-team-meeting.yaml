@@ -4,7 +4,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Shan Hartsock
+chair:  Tracy Jones
 description:  >
   This is a weekly meeting to discuss blueprints and bugs related to VMwareAPI
   integrations ith OpenStack. At present, this one meeting will cover all

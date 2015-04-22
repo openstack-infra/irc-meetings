@@ -8,6 +8,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  biweekly-even
-chair:  Robert Collins
+chair:  Clint Byrum (spamaps)
 description:  >
-  Weekly meeting every Tuesday at 1900 UTC in openstack-meeting-alt
+  Alternating meeting for the TripleO team.
