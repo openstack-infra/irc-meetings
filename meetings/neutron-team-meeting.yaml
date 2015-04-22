@@ -8,7 +8,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
-chair:  Mark McClain
+chair:  Kyle Mestery (mestery)
 description:  >
   The OpenStack Networking Team (Neutron) holds public meetings in
   #openstack-meeting. Everyone is encouraged to attend.

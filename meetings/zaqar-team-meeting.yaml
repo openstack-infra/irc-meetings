@@ -8,6 +8,6 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
-chair:  Flavio Percoco
+chair:  Flavio Percoco / Kurt Griffiths
 description:  >
   The Zaqar project team holds a weekly team meeting.

@@ -4,6 +4,6 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  krotscheck
+chair:  krotscheck, ttx, or NikitaKonovalov
 description:  >
   Storyboard is a task tracker for OpenStack.

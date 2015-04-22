@@ -4,7 +4,7 @@ schedule:
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  vishy
+chair:  vishy, schwicke
 description:  >
   We have regular meetings on Friday at 1600 UTC in #openstack-meeting.
   OpenStack needs to grow support for hierarchical ownership of objects. This

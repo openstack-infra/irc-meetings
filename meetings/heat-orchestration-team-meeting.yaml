@@ -8,7 +8,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-even
-chair:  Steve Baker
+chair:  Zane Bitter (zaneb)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is
   welcome. The blueprints that are used as a basis for the heat project can be
