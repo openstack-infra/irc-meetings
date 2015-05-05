@@ -1,6 +1,6 @@
 project:  Nova API Meeting
 schedule:
-  - time:       '0000'
+  - time:       '1200'
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
