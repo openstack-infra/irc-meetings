@@ -1,8 +1,8 @@
 project:  Networking L2 gateway meeting
 schedule:
-  - time:       '1800'
+  - time:       '1700'
     day:        Monday
-    irc:        openstack-meeting-alt
+    irc:        openstack-meeting-4
     frequency:  biweekly-odd
 chair:  mestery
 description:  >
