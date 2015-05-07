@@ -1,8 +1,8 @@
 project:  Rally Team Meeting
 schedule:
   # Note(jmching): need to change this to biweekly in the future
-  - time:       '1700'
-    day:        Tuesday
+  - time:       '1400'
+    day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
 chair:  Boris Pavlovic
