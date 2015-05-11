@@ -1,9 +1,13 @@
 project:  Kolla Team Meeting
 schedule:
-  - time:       '2000'
-    day:        Monday
-    irc:        openstack-meeting
-    frequency:  weekly
+  - time:       '2200'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+  - time:       '1600'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
 chair: Steven Dake
 description:  >
   If you're interested in Kolla, join this meeting.
