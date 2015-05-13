@@ -1,9 +1,9 @@
 project:  Neutron Service Chaining meeting
 schedule:
   - time:       '1800'
-    day:        Tuesday
+    day:        Thursday
     irc:        openstack-meeting-4
-    frequency:  biweekly-even
+    frequency:  weekly
 chair: Cathy Hong Zhang (cathy-h-zhang), Louis Fourie (louis-fourie)
 description:  >
   This is the weekly Neutron Service Chaining meeting.
