@@ -1,0 +1,14 @@
+project:  Search Team Meeting
+schedule:
+  - time:       '1500'
+    day:        Thursday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Travis Tripp (TravT) & Nikhil Komawar (nikhil_k)
+description: >
+  Search is a new project being split out of Glance based on the
+  Catalog Index Service, which was developed and released in Kilo.
+  At the Liberty Summit we decided to broaden the scope and pursue
+  making it its own project with a goal to provide advanced and scalable
+  search across multi-tenant cloud resources. The final name for the search
+  project is still being finalized. Everyone is welcome to attend.
