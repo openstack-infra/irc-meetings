@@ -6,8 +6,7 @@ schedule:
     frequency:  weekly
 chair:  James E. Blair
 description:  >
-  The OpenStack Project Infrastructure Team holds public weekly team meetings
-  in openstack-meeting, Tuesdays at 1900 UTC. Everyone interested in
-  infrastructure and process surrounding automated testing and deployment
-  is encouraged to attend. Please feel free to add agenda items (and your IRC
-  nick in parenthesis).
+  The OpenStack Project Infrastructure Team holds public weekly team meetings.
+  Everyone interested in infrastructure and process surrounding automated
+  testing and deployment is encouraged to attend. Please feel free to add
+  agenda items (and your IRC nick in parenthesis).

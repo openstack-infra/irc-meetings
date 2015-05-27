@@ -7,6 +7,5 @@ schedule:
     frequency:  biweekly-even
 chair:  daisy
 description:  >
-  If you're interested in internationalisation, we hold bi-weekly public
-  meetings on Thursdays in #openstack-meeting, alternating between two different
-  times.
+  If you're interested in internationalisation, we hold regular public
+  meetings on IRC.

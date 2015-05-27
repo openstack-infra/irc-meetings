@@ -9,4 +9,5 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
 chair:  krtaylor
-description:
+description: >
+  This is the Third Party Working Group Meeting.

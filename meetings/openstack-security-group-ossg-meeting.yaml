@@ -6,5 +6,5 @@ schedule:
     frequency:  weekly
 chair:  Rob Clark
 description:  >
-  The OpenStack Security Group will begin holding public meetings in
-  #openstack-meeting on 24 Jan 2013. Everyone is encouraged to attend.
+  The OpenStack Security Group holds public meetings on IRC.
+  Everyone is encouraged to attend.

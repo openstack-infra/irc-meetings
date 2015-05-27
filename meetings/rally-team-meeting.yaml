@@ -7,5 +7,4 @@ schedule:
     frequency:  weekly
 chair:  Boris Pavlovic
 description:  >
-  The Rally project team holds a be-weekly (starting from Oct 29st) team
-  meeting in #openstack-meeting: Weekly on Tuesdays at 1700 UTC
+  The Rally project team holds an IRC team meeting.

@@ -5,12 +5,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
 chair:  jraim
-description:  |
-  The Barbican project team holds a weekly team meeting in
-  #openstack-meeting-alt:
-  * Weekly on Mondays at 2000 UTC
-  * The blueprints that are used as a basis for the Barbican project can be
-    found at https://blueprints.launchpad.net/barbican
-  * Notes for previous meetings can be found here.
-  * Chair (to contact for more information): jraim (#openstack-barbican @
-    Freenode)
+description:  >
+  The Barbican project team holds a weekly team meeting on IRC.
+  The blueprints that are used as a basis for the Barbican project can be
+  found at https://blueprints.launchpad.net/barbican .

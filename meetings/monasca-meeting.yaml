@@ -1,9 +1,0 @@
-project:  Monasca (MONaaS) Meeting
-schedule:
-  - time:       '1600'
-    day:        Tuesday
-    irc:        (nil)
-    frequency:  weekly
-chair:  Roland Hochmuth
-description:  >
-  Weekly MONaaS meeting held via Vidyo.  See https://wiki.openstack.org/wiki/Meetings/Monasca for details.

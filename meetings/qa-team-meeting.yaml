@@ -10,15 +10,10 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-even
 chair:  Matt Treinish
-description:  |
-  * The OpenStack QA Team holds public weekly meetings in #openstack-meeting,
-    Thursday alternating every week between 17:00 UTC and 22:00 UTC.
-  * Everyone interested in testing, quality assurance, performance engineering,
-    etc, should attend!
-  * The meeting minutes of can be found here: meeting minutes on everdrop
-  * Rules for adding to the agenda:
-  ** Anyone is free to add to proposed agenda, please do so by 1 hr before the
-     meeting
-  ** If you add an item to the agenda, please include your ircnick (i.e. sdague)
-     to the end of your item, so we know who did, and who should lead the
-     discussion
+description:  >
+  The OpenStack QA Team holds public weekly meetings. Everyone interested in
+  testing, quality assurance, performance engineering, etc, should attend!
+  Rules for adding to the agenda: Anyone is free to add to proposed agenda,
+  please do so by 1 hr before the meeting. If you add an item to the agenda,
+  please include your ircnick (i.e. sdague) to the end of your item, so we
+  know who did, and who should lead the discussion.

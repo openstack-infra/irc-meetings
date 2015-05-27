@@ -10,5 +10,5 @@ schedule:
     frequency:  biweekly-odd
 chair:  Kyle Mestery (mestery)
 description:  >
-  The OpenStack Networking Team (Neutron) holds public meetings in
-  #openstack-meeting. Everyone is encouraged to attend.
+  The OpenStack Networking Team (Neutron) holds public meetings in IRC.
+  Everyone is encouraged to attend.

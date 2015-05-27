@@ -6,6 +6,5 @@ schedule:
     frequency:  weekly
 chair:  Dean Troyer (dtroyer)
 description:  >
-  The OpenStackClient Team holds public weekly meetings in #openstack-meeting
-  on Thursdays at 19:00 UTC.  Everyone who uses an OpenStack command-line
-  interface is invited to attend.
+  The OpenStackClient Team holds public weekly meetings. Everyone who uses an
+  OpenStack command-line interface is invited to attend.

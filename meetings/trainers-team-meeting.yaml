@@ -6,5 +6,4 @@ schedule:
     frequency:  weekly
 chair:  sarob
 description:  >
-  The training-guides team meets weekly on Monday at 1700 UTC on
-  #openstack-meeting.
+  The training-guides team meets weekly on IRC.

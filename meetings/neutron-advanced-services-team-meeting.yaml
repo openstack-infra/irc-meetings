@@ -7,7 +7,6 @@ schedule:
 chair:  Sumit Naiksatam
 description:  >
   It was felt that we should have a separate meeting to discuss the topics
-  common to all services. Hence the OpenStack Networking Team (Neutron) holds
-  public meetings in ##openstack-meeting-3. Everyone is encouraged to attend.
+  common to all services.
   This meeting will discuss the common requirements for FWaaS, LBaaS, VPNaaS,
-  L3/routers, Group Policy. The meetings are on Wednesdays at 1730 UTC.
+  L3/routers, Group Policy.

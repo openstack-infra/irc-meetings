@@ -9,4 +9,5 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
 chair:  anteaya
-description:
+description: >
+  This is the 3rd-party testing meeting.

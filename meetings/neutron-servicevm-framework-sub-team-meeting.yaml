@@ -5,9 +5,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
 chair:  Isaku Yamahata
-description:  |
-  * ServiceVM/DeviceManager subteam
-  ** Project page: https://wiki.openstack.org/wiki/ServiceVM
-  ** Meeting log:
-     http://eavesdrop.openstack.org/meetings/neutron_servicevm/
-  ** http://eavesdrop.openstack.org/meetings/neutron_servicevm/2014/
+description:  >
+  See meeting logs for the ServiceVM/DeviceManager meeting
+  (https://wiki.openstack.org/wiki/ServiceVM) at
+  http://eavesdrop.openstack.org/meetings/neutron_servicevm/

@@ -6,7 +6,4 @@ schedule:
     frequency:  weekly
 chair:  Summit Naiksatam
 description:  >
-  This page tracks Neutron Firewall as a Service (FWaaS) meeting information.
-  The OpenStack Networking Team (Neutron) holds public meetings in
-  #openstack-meeting-3 on Wednesdays at 1830 UTC. Everyone is encouraged to
-  attend.
+  This is the Neutron Firewall as a Service (FWaaS) meeting.
