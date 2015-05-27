@@ -1,6 +1,6 @@
 project:  Documentation Team Meeting
 schedule:
-  - time:       '0300'
+  - time:       '0030'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-even
@@ -8,7 +8,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
-chair: Anne Gentle
+chair: Lana Brindley (loquacities)
 description:  >
   If you are interested in documentation and the web content for OpenStack, we
   hold public meetings weekly in #openstack-meeting or #openstack-meeting-alt,
