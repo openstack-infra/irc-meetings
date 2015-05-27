@@ -10,4 +10,5 @@ schedule:
     frequency:  weekly
 chair:  anteaya
 description: >
-  This is the 3rd-party testing meeting.
+  The meeting for operators of third-party CI systems.
+  Agenda https://wiki.openstack.org/wiki/Meetings/ThirdParty .
