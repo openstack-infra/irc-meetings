@@ -1,0 +1,10 @@
+project:  Group Based Policy Team Meeting
+schedule:
+  - time:       '1800'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Sumit Naiksatam
+description:  >
+  Weekly meeting page for the Group Based Policy Sub-team. The group wiki
+  page can be accessed at https://wiki.openstack.org/wiki/GroupBasedPolicy
