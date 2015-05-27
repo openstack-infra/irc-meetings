@@ -1,6 +1,6 @@
 project:  Swift Team Meeting
 schedule:
-  - time:       '1900'
+  - time:       '2100'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
