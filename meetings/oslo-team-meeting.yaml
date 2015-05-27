@@ -1,10 +1,12 @@
 project:  Oslo Team Meeting
+meeting_id: oslo
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Oslo
 schedule:
   - time:       '1600'
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
-chair:  Doug Hellmann
+chair:  Davanum Srinivas
 description:  >
   Oslo will hold IRC meetings on demand at the time scheduled below.
   If there's an Oslo topic you think warrants a project meeting, please add it
