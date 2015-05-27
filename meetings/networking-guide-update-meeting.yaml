@@ -1,9 +1,0 @@
-project:  Networking Guide Update Meeting
-schedule:
-  - time:       '1500'
-    day:        Friday
-    irc:        https://plus.google.com/hangouts/_/mirantis.com/networking?authuser=0
-    frequency:  weekly
-chair:  Nick Chase
-description:  >
-  Weekly meeting to discuss priorities for updating the networking guide.
