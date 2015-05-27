@@ -1,0 +1,10 @@
+project: Ironic/neutron Integration team meeting
+schedule:
+  - time:       '1600'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair: Sukhdev Kapur (Sukhdev)
+description:  >
+  In this meeting we will discuss the integration between Ironic and Neutron
+  (ML2)
