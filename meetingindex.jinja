@@ -1,13 +1,32 @@
 <h1>OpenStack IRC meetings</h1>
 
-<p>
-<a href="irclogs/">Channel Logs</a><br/>
-<a href="meetings/">Meeting Logs</a><br/>
-<a href="irc-meetings.ical">iCalendar Meeting Schedule</a><br/>
-</p>
+<h2>Logging</h2>
+<p>OpenStack IRC channels and meetings are logged. You can find them here:</p>
+<ul>
+<li><a href="irclogs/">Channel Logs</a></li>
+<li><a href="meetings/">Meeting Logs</a></li>
+</ul>
 
-{% for meeting in meetings %}
-<h3>{{ meeting.project }}</h3>
+<h2>Meeting schedule</h2>
+<p>
+<p>The IRC meetings schedule is driven by the
+<a href=http://git.openstack.org/cgit/openstack-infra/irc-meetings/tree/>openstack-infra/irc-meetings</a> repository.
+To propose a change, please submit a change to that repository in Gerrit.</p>
+<p>Here is the link to an ICS file containing all OpenStack IRC meetings, for
+use in your favorite calendaring app:</p>
+<ul>
+<li><a href="irc-meetings.ical">iCalendar Meeting Schedule</a><br/></li>
+</ul>
+<p>Here is a list of current meetings with their descriptions:</p>
+<ul>
+{% for meeting in meetings|sort(attribute='project') %}
+<li><a href="#{{ meeting.project }}">{{ meeting.project }}</a></li>
+{% endfor %}
+</ul>
+
+
+{% for meeting in meetings|sort(attribute='project') %}
+<a name="{{ meeting.project }}"><h3>{{ meeting.project }}</h3></a>
 
 <ul>
 {% for schedule in meeting.schedules %}
