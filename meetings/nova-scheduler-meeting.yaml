@@ -1,0 +1,9 @@
+project:  Nova Scheduler (ex. Gantt) Team Meeting
+schedule:
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Don Dugger & Sylvain Bauza
+description: >
+  This is the meeting for all scheduler related efforts in Nova, and was formerly called the Gantt meeting.
