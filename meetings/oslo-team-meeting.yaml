@@ -1,4 +1,6 @@
 project:  Oslo Team Meeting
+meeting_id: oslo
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Oslo
 schedule:
   - time:       '1600'
     day:        Monday
