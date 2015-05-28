@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>OpenStack IRC meetings</title>
+</head>
+<body>
+
 <h1>OpenStack IRC meetings</h1>
 
 <h2>Logging</h2>
@@ -20,18 +28,18 @@ use in your favorite calendaring app:</p>
 <p>Here is a list of current meetings with their descriptions:</p>
 <ul>
 {% for meeting in meetings|sort(attribute='project') %}
-<li><a href="#{{ meeting.project }}">{{ meeting.project }}</a></li>
+<li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
 {% endfor %}
 </ul>
 
 
 {% for meeting in meetings|sort(attribute='project') %}
-<a name="{{ meeting.project }}"><h3>{{ meeting.project }}</h3></a>
+<a id="{{ meeting.project|replace(' ', '_') }}"><h3>{{ meeting.project }}</h3></a>
 
 <ul>
 {% for schedule in meeting.schedules %}
 <li>{{ schedule.recurrence }} on {{ schedule.day }} at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&min={{ schedule.utc[2:] }}&sec=0">{{ schedule.utc }} UTC</a>
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
 in #{{ schedule.irc }}</li>
 {% endfor %}
 <li>Chair (to contact for more information): {{ meeting.chair }}</li>
@@ -39,3 +47,6 @@ in #{{ schedule.irc }}</li>
 </ul>
 
 {% endfor %}
+</body>
+</html>
+
