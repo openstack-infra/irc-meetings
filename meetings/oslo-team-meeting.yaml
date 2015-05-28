@@ -4,7 +4,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
-chair:  Doug Hellmann
+chair:  Davanum Srinivas
 description:  >
   Oslo will hold IRC meetings on demand at the time scheduled below.
   If there's an Oslo topic you think warrants a project meeting, please add it
