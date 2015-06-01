@@ -1,0 +1,10 @@
+project:  Tacker (Virtual Network Function Manager) Team Meeting
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Stephen Wong
+description:  >
+  Tacker team weekly meeting
+  <https://wiki.openstack.org/wiki/Tacker>
