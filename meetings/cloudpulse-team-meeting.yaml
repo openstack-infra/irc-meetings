@@ -1,11 +1,11 @@
 project:  Cloudpulse Team Meeting
 schedule:
   - time:       '2300'
-    day:        Thursday 
+    day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
   - time:       '1600'
-    day:        Thursday 
+    day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
 chair: Vinod Pandarinathan
