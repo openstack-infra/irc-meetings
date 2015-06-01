@@ -16,6 +16,9 @@ YAML Meeting File Format
 Each meeting consists of:
 
 * ``project``: the name of the project
+* ``meeting_id``: the name given to the ``#startmeeting`` meetbot command
+* ``agenda_url`` the URL to the page with the agenda for the meeting,
+  usually in the wiki
 * ``schedule``: a list of schedule each consisting of
 
   * ``time``: time string in UTC
