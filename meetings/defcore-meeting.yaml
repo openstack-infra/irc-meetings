@@ -2,11 +2,11 @@ project:  DefCore Committee Meeting
 schedule:
   - time:       '0100'
     day:        Thursday
-    irc:        openstack-meeting-3
+    irc:        openstack-meeting-4
     frequency:  biweekly-even
   - time:       '1500'
     day:        Wednesday
-    irc:        openstack-defcore
+    irc:        openstack-meeting-4
     frequency:  biweekly-odd
 chair: Rob Hirschfeld (zehicle), Egle Sigler (egle)
 description:  >
