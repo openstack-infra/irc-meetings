@@ -1,9 +1,0 @@
-project:  MagnetoDB Team meeting
-schedule:
-  - time:       '1400'
-    day:        Thursday
-    irc:        magnetodb
-    frequency:  biweekly-even
-chair:  aostapenko, isviridov, dukhlov
-description:  >
-  MagnetoDB Team meeting
