@@ -1,6 +1,6 @@
 project:  Neutron Service Chaining meeting
 schedule:
-  - time:       '1800'
+  - time:       '1700'
     day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
