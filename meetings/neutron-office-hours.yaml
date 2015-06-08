@@ -1,0 +1,14 @@
+project:  Neutron PTL Office Hours
+schedule:
+  - time:       '1500'
+    day:        Monday
+    irc:        openstack-neutron-release
+    frequency:  weekly
+  - time:       '2000'
+    day:        Monday
+    irc:        openstack-neutron-release
+    frequency:  weekly
+chair:  Kyle Mestery (mestery)
+description:  >
+  This reserves time for PTL to Lieutenant weekly syncs. Note we will
+  not run this as a meeting but more as open office hours slots.
