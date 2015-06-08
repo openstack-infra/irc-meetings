@@ -1,0 +1,11 @@
+project:  Networking BGPVPN meeting
+schedule:
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair:  Mathieu Rohon (matrohon), Thomas Morin (tmorin)
+description:  >
+  This is the Neutron Networking BGPVPN meeting. Everyone is encouraged
+  to attend.
+  https://wiki.openstack.org/wiki/Meetings/BGPVPN
