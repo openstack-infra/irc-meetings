@@ -8,3 +8,4 @@ chair:  Thierry Carrez
 description:  >
   The whole OpenStack Team holds a public weekly Project & Release Status
   meeting to discuss cross-project issues. Everyone is encouraged to attend.
+agenda_url: https://wiki.openstack.org/wiki/Meetings/CrossProjectMeeting
