@@ -1,0 +1,9 @@
+project:  Third Party Working Group Meeting
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+chair:  krtaylor
+description: >
+  This is the Third Party Working Group Meeting.
