@@ -1,0 +1,9 @@
+project:  Senlin Team Meeting
+schedule:
+  - time:       '1400'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair: Qiming Teng 
+description:  >
+  The Senlin project team holds a weekly team meeting.
