@@ -1,9 +1,13 @@
 project:  OpenStack Product Team meeting
 schedule:
-  - time:       '2300'
-    day:        Wednesday
+  - time:       '1900'
+    day:        Monday
     irc:        openstack-meeting
-    frequency:  biweekly-even
+    frequency:  weekly
 chair: sarob
 description:  >
-  Product
+  Product working group is made of managers, people,
+  functions, groups that own "products" based on OpenStack
+  who aim to improve the quality of the delivery process,
+  the delivered product, and the product experience for
+  operators and end users
