@@ -1,7 +1,7 @@
 project:  OpenStack Product Team meeting
 schedule:
-  - time:       '2300'
-    day:        Wednesday
+  - time:       '1900'
+    day:        Monday
     irc:        openstack-meeting
     frequency:  biweekly-even
 chair: sarob
