@@ -1,4 +1,6 @@
 project:  QA Team Meeting
+meeting_id: qa
+agenda_url: https://wiki.openstack.org/wiki/Meetings/QATeamMeeting
 schedule:
   # Note(jmching): need to change this to biweekly in the future
   - time:       '1700'
