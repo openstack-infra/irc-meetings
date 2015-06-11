@@ -1,4 +1,6 @@
 project:  Technical Committee Meeting
+meeting_id: tc
+agenda_url: https://wiki.openstack.org/wiki/Meetings/TechnicalCommittee
 schedule:
   - time:       '2000'
     day:        Tuesday
