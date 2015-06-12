@@ -1,4 +1,6 @@
 project:  OpenStack Product Team meeting
+meeting_id: product_team
+agenda_url: https://wiki.openstack.org/wiki/Meetings/product-team
 schedule:
   - time:       '1900'
     day:        Monday
