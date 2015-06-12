@@ -1,4 +1,6 @@
 project:  OpenStackClient Team Meeting
+meeting_id: openstackclient
+agenda_url: https://wiki.openstack.org/wiki/Meetings/OpenStackClient
 schedule:
   - time:       '1900'
     day:        Thursday
