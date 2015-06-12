@@ -9,8 +9,9 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  biweekly-even
 chair:  Devananda van der Veen
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic
 description:  >
-  If you're interested in bare metal deployments with openstack, please join us.
-  This meeting is whre we'll talk about the Ironic project, an evolution of the
+  If you're interested in bare metal deployments with Openstack, please join us.
+  This meeting is where we'll talk about the Ironic project, an evolution of the
   Nova Baremetal driver. Anyone is welcome to add items to the agenda below, or
   bring up their topic during the open discussion at the end of each meeting.
