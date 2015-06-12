@@ -1,4 +1,6 @@
 project:  Training-guides Team Meeting
+meeting_id: training-guides
+agenda_url: https://wiki.openstack.org/wiki/Meetings/training-guides
 schedule:
   - time:       '1700'
     day:        Monday
