@@ -1,4 +1,6 @@
 project:  Heat (Orchestration) Team Meeting
+meeting_id: heat
+agenda_url: https://wiki.openstack.org/wiki/Meetings/HeatAgenda
 schedule:
   - time:       '2000'
     day:        Wednesday
