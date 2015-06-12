@@ -1,4 +1,6 @@
 project:  Keystone Team Meeting
+meeting_id: keystone
+agenda_url: https://wiki.openstack.org/wiki/Meetings/KeystoneMeeting
 schedule:
   - time:       '1800'
     day:        Tuesday
