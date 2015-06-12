@@ -1,4 +1,6 @@
 project:  Swift Team Meeting
+meeting_id: swift
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Swift
 schedule:
   - time:       '2100'
     day:        Wednesday
