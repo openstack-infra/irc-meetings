@@ -1,0 +1,16 @@
+project:  OpenStack Diversity Work Group Meeting
+meeting_id: diversity
+agenda_url: https://wiki.openstack.org/wiki/Diversity
+schedule:
+  - time:       '1800'
+    day:        Friday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair: Carol Barrett
+description:  >
+  This work group will work to insire that the OpenStack community is an
+  inclusive and welcoming place for all people to collaborate to drive
+  innovation and design cutting-edge data center capabilities, while finding
+  the best answers to our most pressing challenges. They wil determine what
+  actions are required to achieve this mission and bring proposals to the Board
+  for discussion and action.
