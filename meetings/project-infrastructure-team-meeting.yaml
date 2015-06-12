@@ -1,4 +1,6 @@
 project:  Project Infrastructure Team Meeting
+meeting_id: infra
+agenda_url: https://wiki.openstack.org/wiki/Meetings/InfraTeamMeeting
 schedule:
   - time:       '1900'
     day:        Tuesday
