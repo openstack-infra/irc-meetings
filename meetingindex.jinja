@@ -42,6 +42,10 @@ use in your favorite calendaring app:</p>
 <a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
 in #{{ schedule.irc }}</li>
 {% endfor %}
+<li>ICS file of meeting, for use in your favorite calendaring app:</li>
+<ul>
+    <li><a href="meetings/{{ meeting.outfile }}">iCalendar Meeting</a><br/></li>
+</ul>
 <li>Chair (to contact for more information): {{ meeting.chair }}</li>
 <li>{{ meeting.description|urlize }}</li>
 {% if meeting.extras.meeting_id %}
