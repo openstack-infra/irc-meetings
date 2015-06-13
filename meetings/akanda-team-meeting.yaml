@@ -1,4 +1,6 @@
 project:  Akanda Meeting
+meeting_id: akanda
+agenda_url: https://wiki.openstack.org/wiki/Meetings/akanda
 schedule:
   - time:       '1800'
     day:        Monday
