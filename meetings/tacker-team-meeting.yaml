@@ -1,4 +1,6 @@
 project:  Tacker (Virtual Network Function Manager) Team Meeting
+meeting_id: tacker
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Tacker
 schedule:
   - time:       '1600'
     day:        Thursday
