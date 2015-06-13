@@ -1,1 +1,1 @@
-yaml2ical>=0.4.0
+yaml2ical>=0.5.0
