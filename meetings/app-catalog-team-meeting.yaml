@@ -1,0 +1,12 @@
+project:  App Catalog Team Meeting
+schedule:
+  - time:       '1700'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  docaedo
+description:  >
+  The OpenStack Community App Catalog is a collection of ready-to-use
+  applications, Heat templates and machine images that you can immediately
+  deploy into your OpenStack cloud. If you are interested in helping to
+  expand and improve the App Catalog, please join us!
