@@ -1,0 +1,10 @@
+project:  Glance Drivers Meeting
+schedule:
+  - time:       '1500'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Nikhil Komawar (nikhil_k)
+description:  >
+  We will discuss, review and prioritize glance-specs; project priorities and code prototype can be discussed to get more feedback. Everyone is welcome to attend. 30 min meeting.
+agenda_url: https://etherpad.openstack.org/p/glance-drivers-meeting-agenda
