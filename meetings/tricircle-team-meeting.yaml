@@ -1,0 +1,9 @@
+project:  Tricircle Meeting
+schedule:
+  - time:       '1300'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Zhipeng Huang (zhipengh)
+description:  >
+  Weekly Tricircle Team Meeting.
