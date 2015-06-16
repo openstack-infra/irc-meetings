@@ -1,4 +1,6 @@
 project:  Nova Team Meeting
+meeting_id: nova
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Nova
 schedule:
   - time:       '1400'
     day:        Thursday
