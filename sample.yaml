@@ -1,0 +1,15 @@
+project:  Nova Team Meeting
+meeting_id: nova
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Nova
+schedule:
+  - time:       '1400'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+  - time:       '2100'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+chair:  Mikal Still & John Garbutt
+description:  >
+  This is the weekly Nova team meeting.
