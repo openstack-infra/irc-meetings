@@ -78,3 +78,9 @@ will be import into Python as a dictionary.
         This meeting is a weekly gathering of developers working on OpenStack.
         Compute (Nova). We cover topics such as release planning and status,
         bugs, reviews, and other current topics worthy of real-time discussion.
+
+sample.yaml
+-----------
+
+If creating a new yaml meeting file please consider using ``sample.yaml`` and
+editing as appropriate.
