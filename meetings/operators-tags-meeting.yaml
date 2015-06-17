@@ -1,0 +1,13 @@
+project:  Operators Tagg Group Meeting
+meeting_id: operator-tags
+agenda_url: https://wiki.openstack.org/wiki/Operations/Tags
+schedule:
+  - time:       '1400'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+chair:  Tom Fifield
+description:  >
+  This is the bi-weekly Openstack Tags team meeting.
+  The Ops-tag Team purpose is to define tags for Operators, allowing them to make better 
+  decisions by providing useful information about OpenStack software projects.
