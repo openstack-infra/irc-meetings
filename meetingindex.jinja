@@ -40,7 +40,9 @@ use in your favorite calendaring app:</p>
 {% for schedule in meeting.schedules %}
 <li>{{ schedule.recurrence }} on {{ schedule.day }} at
 <a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
-in #{{ schedule.irc }}</li>
+in <a href="ircs://irc.freenode.net:6697/{{ schedule.irc }}">#{{ schedule.irc }}</a>
+<a href="https://webchat.freenode.net/?randomnick=1&channels=%23{{ schedule.irc }}&prompt=1&uio=d4">(IRC webclient)</a>
+</li>
 {% endfor %}
 <li>Chair (to contact for more information): {{ meeting.chair }}</li>
 <li>{{ meeting.description|urlize }}</li>
