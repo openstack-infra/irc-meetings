@@ -46,7 +46,7 @@ in <a href="ircs://irc.freenode.net:6697/{{ schedule.irc }}">#{{ schedule.irc }}
 {% endfor %}
 <li>ICS file of meeting, for use in your favorite calendaring app:</li>
 <ul>
-    <li><a href="meetings/{{ meeting.outfile }}">iCalendar Meeting</a><br/></li>
+    <li><a href="calendars/{{ meeting.outfile }}">iCalendar Meeting</a><br/></li>
 </ul>
 <li>Chair (to contact for more information): {{ meeting.chair }}</li>
 <li>{{ meeting.description|urlize }}</li>
