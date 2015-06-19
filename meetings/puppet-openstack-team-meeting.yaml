@@ -4,6 +4,6 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
-chair: crinkle
+chair: EmilienM
 description:  >
   Puppet+OpenStack
