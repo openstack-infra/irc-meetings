@@ -1,0 +1,17 @@
+project:  Container Networking Team Meeting
+meeting_id: container-networking
+agenda_url: https://wiki.openstack.org/w/index.php?title=Meetings/Containers
+schedule:
+  - time:       '1600'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+  - time:       '2200'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Daneyon Hansen
+description:  >
+  This is the weekly Magnum networking team meeting. The meetings
+  will focus on the problems and solutions in the container
+  networking space.
