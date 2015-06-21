@@ -1,0 +1,11 @@
+project:  Glance Artifacts Sub-Team Meeting
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+    duration:   30
+chair:  Alexander Tivelkov (ativelkov) and Nikhil Komawar (nikhil_k)
+description:  >
+  We will discuss, review and plan Artifacts development in Glance. Everyone is welcome to attend. 30 min meeting.
+agenda_url: https://etherpad.openstack.org/p/glance-artifacts-sub-team-meeting-agenda
