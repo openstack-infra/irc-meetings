@@ -1,4 +1,5 @@
 project:  Neutron L3 Sub-team Meeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-L3-Subteam
 schedule:
   - time:       '1500'
     day:        Thursday

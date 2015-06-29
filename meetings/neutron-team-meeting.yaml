@@ -1,4 +1,5 @@
 project:  Neutron Team Meeting
+agenda_url: https://wiki.openstack.org/wiki/Network/Meetings
 schedule:
   - time:       '2100'
     day:        Monday
