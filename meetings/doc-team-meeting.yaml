@@ -1,4 +1,6 @@
 project:  Documentation Team Meeting
+meeting_id: docteam
+agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
   - time:       '0030'
     day:        Wednesday
