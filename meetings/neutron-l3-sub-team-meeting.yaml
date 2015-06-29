@@ -6,5 +6,6 @@ schedule:
     frequency:  weekly
 chair:  Carl Baldwin
 description:  >
+  https://wiki.openstack.org/wiki/Meetings/Neutron-L3-Subteam
   Meetings, with their notes and logs, will be found under
   http://eavesdrop.openstack.org/meetings/neutron_l3
