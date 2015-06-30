@@ -1,4 +1,6 @@
 project: RefStack Development Meeting
+meeting_id:     refstack
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Refstack
 schedule:
   - time:       '1900'
     day:        Monday
