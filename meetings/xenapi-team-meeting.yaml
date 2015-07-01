@@ -1,10 +1,12 @@
 project:  XenAPI Team Meeting
+meeting_id: xenapi
+agenda_url: https://wiki.openstack.org/wiki/Meetings/XenAPI
 schedule:
-  - time:       '1500'
+  - time:       '0930'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
-chair:  John Garbutt
+    frequency:  biweekly-even
+chair:  Bob Ball
 description:  >
   Meeting to discuss the status of Blueprints and bugs relating to the XenAPI
   layer.
