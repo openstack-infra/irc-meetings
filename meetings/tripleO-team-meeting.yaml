@@ -4,10 +4,6 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  biweekly-odd
-  - time:       '0800'
-    day:        Wednesday
-    irc:        openstack-meeting-alt
-    frequency:  biweekly-even
-chair:  Clint Byrum (spamaps)
+chair:  James Slagle (slagle)
 description:  >
-  Alternating meeting for the TripleO team.
+  Meeting for the TripleO team.
