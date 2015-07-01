@@ -1,4 +1,6 @@
 project:  Puppet OpenStack Team Meeting
+meeting_id: puppet-openstack
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Puppet
 schedule:
   - time:       '1500'
     day:        Tuesday
@@ -6,4 +8,5 @@ schedule:
     frequency:  weekly
 chair: EmilienM
 description:  >
-  Puppet+OpenStack
+  Team meeting for discussing Puppet OpenStack modules that help to bring
+  scalable and reliable IT automation to OpenStack cloud deployments.
