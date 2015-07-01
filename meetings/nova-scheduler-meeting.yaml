@@ -1,8 +1,8 @@
 project:  Nova Scheduler (ex. Gantt) Team Meeting
 schedule:
-  - time:       '1500'
-    day:        Tuesday
-    irc:        openstack-meeting
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting-alt
     frequency:  weekly
 chair:  Don Dugger & Sylvain Bauza
 description: >
