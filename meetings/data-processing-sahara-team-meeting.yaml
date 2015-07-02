@@ -1,4 +1,6 @@
 project:  OpenStack Data Processing (Sahara) Team Meeting
+meeting_id: sahara
+agenda_url: https://wiki.openstack.org/wiki/Meetings/SaharaAgenda
 schedule:
   - time:       '1800'
     day:        Thursday
