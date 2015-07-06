@@ -1,4 +1,6 @@
 project:  Third Party Meeting
+meeting_id: third-party
+agenda_url: https://wiki.openstack.org/wiki/Meetings/ThirdParty
 schedule:
   - time:       '1500'
     day:        Monday
@@ -11,4 +13,3 @@ schedule:
 chair:  anteaya
 description: >
   The meeting for operators of third-party CI systems.
-  Agenda https://wiki.openstack.org/wiki/Meetings/ThirdParty .
