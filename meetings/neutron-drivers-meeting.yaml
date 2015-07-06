@@ -1,9 +1,15 @@
 project:  Neutron drivers Meeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/NeutronDrivers
 schedule:
-  - time:       '1530'
-    day:        Wednesday
-    irc:        openstack-meeting-3
-    frequency:  weekly
+  - time:       '1900'
+    day:        Tuesday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-even
+  - time:       '0000'
+    day:        Tuesday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-odd
 chair:  mestery
 description:  >
+  This meeting is for the neutron-drivers team to discuss RFE bugs.
   Everyone is encouraged to attend.
