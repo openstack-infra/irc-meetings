@@ -1,5 +1,5 @@
 project:  Operators Tag Group Meeting
-meeting_id: operator-tags
+meeting_id: ops_tags
 agenda_url: https://wiki.openstack.org/wiki/Operations/Tags
 schedule:
   - time:       '1400'
