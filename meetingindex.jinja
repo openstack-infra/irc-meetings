@@ -2,63 +2,76 @@
 <html>
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+<style>
+h2,h3 {margin-top: 30px;}
+.masterheader {position:relative;padding:15px 30px;color:white;background-color:#760000;}
+</style>
 <title>OpenStack IRC meetings</title>
 </head>
 <body>
+<div class="masterheader">
+  <h1>OpenStack IRC meetings</h1>
+</div>
+<div class="container">
 
-<h1>OpenStack IRC meetings</h1>
+ <h2>Logging</h2>
+ <p>OpenStack IRC channels and logged. You can find them here:</p>
+<div class="well"><span class="glyphicon glyphicon-fast-backward"></span>&nbsp;
+<a href="irclogs/">IRC Channel Logs</a></div>
+ <p>Links to specific meeting logs can be found on meeting descriptions below.</p>
 
-<h2>Logging</h2>
-<p>OpenStack IRC channels and meetings are logged. You can find them here:</p>
-<ul>
-<li><a href="irclogs/">Channel Logs</a></li>
-<li><a href="meetings/">Meeting Logs</a></li>
-</ul>
-
-<h2>Meeting schedule</h2>
-<p>
-<p>The IRC meetings schedule is driven by the
+ <h2>Meeting schedule</h2>
+ <p>The IRC meetings schedule is driven by the
 <a href=http://git.openstack.org/cgit/openstack-infra/irc-meetings/tree/>openstack-infra/irc-meetings</a> repository.
 To propose a change, please submit a change to that repository in Gerrit.</p>
-<p>Here is the link to an ICS file containing all OpenStack IRC meetings, for
+ <p>Here is the link to an ICS file containing all OpenStack IRC meetings, for
 use in your favorite calendaring app:</p>
-<ul>
-<li><a href="irc-meetings.ical">iCalendar Meeting Schedule</a><br/></li>
-</ul>
-<p>Here is a list of current meetings with their descriptions:</p>
-<ul>
+<div class="well"><span class="glyphicon glyphicon-download"></span>&nbsp;
+<a href="irc-meetings.ical">iCalendar Complete Meeting Schedule</a>
+</div>
+ <h2>Meeting details</h2>
+ <small>
+  <ul class="list-inline">
 {% for meeting in meetings|sort(attribute='project') %}
-<li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
+   <li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
 {% endfor %}
-</ul>
-
+  </ul>
+ </small>
 
 {% for meeting in meetings|sort(attribute='project') %}
-<a id="{{ meeting.project|replace(' ', '_') }}"><h3>{{ meeting.project }}</h3></a>
-
-<ul>
+ <a id="{{ meeting.project|replace(' ', '_') }}"></a>
+ <h3>{{ meeting.project }}</h3>
+ <div class="panel panel-default">
+  <div class="panel-heading"><small>{{ meeting.description|urlize }}</small>
+  </div>
+  <div class="panel-body">
 {% for schedule in meeting.schedules %}
-<li>{{ schedule.recurrence }} on {{ schedule.day }} at
+   <div><span class="glyphicon glyphicon-time"></span>&nbsp;
+{{ schedule.recurrence }} on {{ schedule.day }} at
 <a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
 in <a href="ircs://irc.freenode.net:6697/{{ schedule.irc }}">#{{ schedule.irc }}</a>
-<a href="https://webchat.freenode.net/?randomnick=1&channels=%23{{ schedule.irc }}&prompt=1&uio=d4">(IRC webclient)</a>
-</li>
+(IRC <a href="https://webchat.freenode.net/?randomnick=1&channels=%23{{ schedule.irc }}&prompt=1&uio=d4">webclient</a>)
+   </div>
 {% endfor %}
-<li>ICS file of meeting, for use in your favorite calendaring app:</li>
-<ul>
-    <li><a href="calendars/{{ meeting.outfile }}">iCalendar Meeting</a><br/></li>
-</ul>
-<li>Chair (to contact for more information): {{ meeting.chair }}</li>
-<li>{{ meeting.description|urlize }}</li>
+   <div><span class="glyphicon glyphicon-calendar"></span>&nbsp;
+<a href="calendars/{{ meeting.outfile }}">ICS file</a> for this specific
+meeting</div>
+   <div><span class="glyphicon glyphicon-user"></span>&nbsp;
+Chair (to contact for more information): {{ meeting.chair }}</div>
 {% if meeting.extras.meeting_id %}
-<li><a href="http://eavesdrop.openstack.org/meetings/{{meeting.extras.meeting_id}}/">Logs from past meetings</a>
+   <div><span class="glyphicon glyphicon-fast-backward"></span>&nbsp;
+Logs from <a href="http://eavesdrop.openstack.org/meetings/{{meeting.extras.meeting_id}}/">past meetings</a></div>
 {% endif %}
 {% if meeting.extras.agenda_url %}
-<li><a href="{{meeting.extras.agenda_url}}">Agenda</a>
+   <div><span class="glyphicon glyphicon-list-alt"></span>&nbsp;
+<a href="{{meeting.extras.agenda_url}}">Agenda</a> for next meeting</div>
 {% endif %}
-</ul>
-
+  </div>
+ </div>
 {% endfor %}
-<small>Page generated on {{ timestamp }} UTC</small>
+ <small>Page generated on {{ timestamp }} UTC</small>
+</div>
 </body>
 </html>
