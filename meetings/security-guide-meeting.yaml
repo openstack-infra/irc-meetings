@@ -1,0 +1,11 @@
+project:  Security Guide Team Meeting
+meeting_id: security-guide
+agenda_url: https://wiki.openstack.org/wiki/Documentation/SecurityGuide
+schedule:
+  - time:       '1700'
+    day:        Monday
+    irc:        openstack-security
+    frequency:  weekly
+chair:  Nathaniel Dillon (sicarie) & Mike McCune (elmiko)
+description:  >
+  This is the weekly Security Guide team meeting.
