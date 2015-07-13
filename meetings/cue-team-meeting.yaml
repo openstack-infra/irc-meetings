@@ -1,7 +1,7 @@
 project:  Cue (Message Broker as a Service) team meeting
 schedule:
   - time:       '1800'
-    day:        Monday
+    day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
 chair:  Vipul Sabhaya (vipul)
