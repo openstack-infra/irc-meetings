@@ -1,11 +1,11 @@
 project:  Congress Team Meeting
 schedule:
   # Note(jmching): need to change this to biweekly in the future
-  - time:       '1700'
+  - time:       '2300'
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Pete Balland (pballand), Tim Hinrichs (thinrichs)
+chair:  Tim Hinrichs (thinrichs), Pete Balland (pballand)
 description:  >
   If you're interested in Congress, we hold public meetings weekly on IRC.
   We use the logs of previous meetings to record action items, and we do a
