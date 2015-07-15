@@ -1,0 +1,11 @@
+project:  StoryBoard Meeting
+meeting_id: storyboard
+agenda_url: https://wiki.openstack.org/wiki/Meetings/StoryBoard
+schedule:
+  - time:       '1500'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  SotK or Zara_
+description:  >
+  This is the weekly StoryBoard team meeting.
