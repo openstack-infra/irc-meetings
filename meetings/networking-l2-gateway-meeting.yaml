@@ -1,10 +1,12 @@
 project:  Networking L2 gateway meeting
+agenda_url:  https://wiki.openstack.org/wiki/Meetings/L2Gateway
 schedule:
   - time:       '1700'
     day:        Monday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
-chair:  mestery
+chair:  Sukhdev Kapur (Sukhdev), Armando Migliaccio (armax)
+meeting_id: networking_l2gw
 description:  >
   This is the Neutron Networking L2 gateway meeting. Everyone is encouraged
   to attend.
