@@ -1,4 +1,6 @@
 project:  Rally Team Meeting
+meeting_id: rally
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Rally
 schedule:
   # Note(jmching): need to change this to biweekly in the future
   - time:       '1400'
