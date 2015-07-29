@@ -1,4 +1,4 @@
-project:  Search Team Meeting
+project:  Searchlight Team Meeting
 schedule:
   - time:       '1500'
     day:        Thursday
@@ -6,9 +6,7 @@ schedule:
     frequency:  weekly
 chair:  Travis Tripp (TravT) & Nikhil Komawar (nikhil_k)
 description: >
-  Search is a new project being split out of Glance based on the
-  Catalog Index Service, which was developed and released in Kilo.
-  At the Liberty Summit we decided to broaden the scope and pursue
-  making it its own project with a goal to provide advanced and scalable
-  search across multi-tenant cloud resources. The final name for the search
-  project is still being finalized. Everyone is welcome to attend.
+  Searchlight has a mission to provide advanced and scalable indexing and
+  search across multi-tenant cloud resources. Everyone is welcome to attend
+  our meetings and add agenda items. The agenda may be found at:
+  https://etherpad.openstack.org/p/search-team-meeting-agenda
