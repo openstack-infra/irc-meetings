@@ -1,5 +1,5 @@
 project:  Puppet OpenStack Team Meeting
-meeting_id: puppet-openstack
+meeting_id: puppet
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Puppet
 schedule:
   - time:       '1500'
