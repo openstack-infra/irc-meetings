@@ -1,6 +1,6 @@
 project:  Documentation HA Guide update Meeting
 schedule:
-  - time:       '2100'
+  - time:       '2000'
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
