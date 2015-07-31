@@ -2,9 +2,8 @@ project:  Congress Team Meeting
 meeting_id:  congressteammeeting
 agenda_url:  https://wiki.openstack.org/wiki/Meetings/Congress
 schedule:
-  # Note(jmching): need to change this to biweekly in the future
-  - time:       '2300'
-    day:        Tuesday
+  - time:       '0000'
+    day:        Wednesday 
     irc:        openstack-meeting-3
     frequency:  weekly
 chair:  Tim Hinrichs (thinrichs), Pete Balland (pballand)
