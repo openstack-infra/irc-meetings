@@ -1,4 +1,6 @@
 project:  Telco Working Group meeting
+meeting_id: telcowg
+agenda_url: https://etherpad.openstack.org/p/nfv-meeting-agenda
 schedule:
   - time:       '1400'
     day:        Wednesday
