@@ -1,4 +1,6 @@
 project:  Horizon Team Meeting
+meeting_id: horizon
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Horizon
 schedule:
   - time:       '2000'
     day:        Wednesday
