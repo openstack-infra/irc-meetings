@@ -5,6 +5,8 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
 chair: Sukhdev Kapur (Sukhdev)
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic-neutron
+meeting_id: ironic_neutron
 description:  >
   In this meeting we will discuss the integration between Ironic and Neutron
   (ML2)
