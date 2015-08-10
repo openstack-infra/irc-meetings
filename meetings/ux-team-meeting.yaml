@@ -1,9 +1,0 @@
-project:  User experience (UX) Team meeting
-schedule:
-  - time:       '1700'
-    day:        Monday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
-chair:  jcoufal
-description:  >
-  UX.
