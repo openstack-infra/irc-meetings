@@ -1,9 +1,9 @@
 project:  Nova API Meeting
 schedule:
   - time:       '1200'
-    day:        Friday
+    day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Kenichi Oomichi (oomichi)
+chair:  Alex Xu (alex_xu)
 description:  >
   This is a weekly meeting to discuss Nova API.
