@@ -1,0 +1,12 @@
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Anne Gentle <anne@openstack.org>
+Code-Review+1: Ed Leafe <ed@leafe.com>
+Code-Review+1: Alex Xu <hejie.xu@intel.com>
+Code-Review+1: jichenjc <jichenjc@cn.ibm.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Aug 2015 03:54:12 +0000
+Reviewed-on: https://review.openstack.org/211104
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
