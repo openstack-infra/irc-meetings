@@ -1,7 +1,7 @@
 project:  Compass developers' meeting
 schedule:
-  - time:       '1700'
-    day:        Wednesday
+  - time:       '0100'
+    day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
 chair:  Weidong Shao(wshao), Shuo Yang(shuo-yang)
