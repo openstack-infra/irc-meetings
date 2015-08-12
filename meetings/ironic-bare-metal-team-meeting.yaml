@@ -3,11 +3,7 @@ schedule:
   - time:       '1700'
     day:        Monday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
-  - time:       '0500'
-    day:        Tuesday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
+    frequency:  weekly
 chair:  Devananda van der Veen
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic
 meeting_id: ironic
