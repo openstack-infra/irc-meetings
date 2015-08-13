@@ -4,6 +4,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Sumit Naiksatam
+chair:  Sean M. Collins and Sridhar Kandaswamy
 description:  >
   This is the Neutron Firewall as a Service (FWaaS) meeting.
