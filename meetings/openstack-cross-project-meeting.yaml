@@ -2,7 +2,7 @@ project:  OpenStack Cross-Project Meeting
 meeting_id: crossproject
 agenda_url: https://wiki.openstack.org/wiki/Meetings/CrossProjectMeeting
 schedule:
-  - time:       '2100'
+  - time:       '1800'
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
