@@ -1,0 +1,13 @@
+project:  OpenStack Product WG
+meeting_id: productwgmeeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/
+schedule:
+  - time:       '2000'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Carol Barrett
+description:  >
+  The OpenStack Product WG meets weekly to discuss progress on user stories
+  and any other group related topics.  Everyone is welcome to attend.
+agenda_url: https://wiki.openstack.org/wiki/Meetings/product-team
