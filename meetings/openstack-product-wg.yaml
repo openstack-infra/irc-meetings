@@ -1,5 +1,5 @@
 project:  OpenStack Product WG
-meeting_id: productwgmeeting
+meeting_id: product_working_group
 agenda_url: https://wiki.openstack.org/wiki/Meetings/
 schedule:
   - time:       '2000'
