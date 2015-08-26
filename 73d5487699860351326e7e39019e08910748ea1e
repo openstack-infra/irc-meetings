@@ -1,0 +1,16 @@
+Verified+2: Jenkins
+Code-Review+1: Roland Hochmuth <roland.hochmuth@hp.com>
+Code-Review+1: Bradley Klein <bradley.klein@twcable.com>
+Code-Review+1: Ildiko Vancsa <ildiko.vancsa@ericsson.com>
+Code-Review+1: Jim Baker <jim.baker@rackspace.com>
+Code-Review+1: Ryan Bak <ryan.bak@twcable.com>
+Code-Review+1: Deklan Dieterly <deklan.dieterly@hp.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Ben Motz <bmotz@cray.com>
+Code-Review+1: Martin Roderus <martin.roderus@est.fujitsu.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 26 Aug 2015 22:42:56 +0000
+Reviewed-on: https://review.openstack.org/216904
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
