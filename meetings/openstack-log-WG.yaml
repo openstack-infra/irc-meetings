@@ -1,4 +1,5 @@
 project:  OpenStack Log Working Group Meeting
+meeting_id: log_wg
 schedule:
   - time:       '2000'
     day:        Wednesday
