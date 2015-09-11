@@ -1,0 +1,9 @@
+project:  CloudKitty Team Meeting
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Stephane Albert
+description:  >
+  CloudKitty weekly team meeting.
