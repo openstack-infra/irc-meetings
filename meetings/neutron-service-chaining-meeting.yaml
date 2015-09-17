@@ -1,4 +1,6 @@
 project:  Neutron Service Chaining meeting
+meeting_id: service_chaining
+agenda_url: https://wiki.openstack.org/wiki/Meetings/ServiceFunctionChainingMeeting
 schedule:
   - time:       '1700'
     day:        Thursday
