@@ -1,0 +1,12 @@
+
+project: OpenStack UX Working Group Meeting
+meeting_id: ux
+agenda_url: https://wiki.openstack.org/wiki/Meetings/UX
+schedule:
+  - time:       '1500'
+    day:        Friday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+chair:  Piet Kruithof
+description:  >
+  This is the biweekly OpenStack UX working group meeting to discuss all things UX, which include design efforts, design reviews, user research, usability studies, and other UX-related activities.  Everyone is welcome to attend.
