@@ -1,4 +1,6 @@
 project:  Networking BGPVPN meeting
+meeting_id: bgpvpn
+agenda_url: https://wiki.openstack.org/wiki/Meetings/BGPVPN
 schedule:
   - time:       '1500'
     day:        Tuesday
