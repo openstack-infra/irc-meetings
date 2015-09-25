@@ -1,4 +1,4 @@
-project:  Nova Scheduler (ex. Gantt) Team Meeting
+project:  Nova Scheduler Team Meeting
 schedule:
   - time:       '1400'
     day:        Monday
@@ -6,5 +6,4 @@ schedule:
     frequency:  weekly
 chair:  Don Dugger & Sylvain Bauza
 description: >
-  This is the meeting for all scheduler related efforts in Nova, and was
-  formerly called the Gantt meeting.
+  This is the meeting for all scheduler related efforts in Nova.
