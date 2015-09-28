@@ -1,0 +1,11 @@
+project:  Kosmos (Global LBaaS) Meeting
+schedule:
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Graham Hayes
+description:  >
+  The Kosmos team holds a weekly IRC meeting. Meeting logs are available at
+  http://eavesdrop.openstack.org/meetings/kosmos/ and the agenda is
+  maintained at https://wiki.openstack.org/wiki/Meetings/Kosmos

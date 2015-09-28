@@ -1,9 +1,0 @@
-project:  LBaaS Meeting
-schedule:
-  - time:       '1600'
-    day:        Tuesday
-    irc:        openstack-meeting-4
-    frequency:  weekly
-chair:  Kyle Mestery (mestery)
-description:  >
-  This is the Neutron Loadbalancer as a Service (LBaaS) meeting.
