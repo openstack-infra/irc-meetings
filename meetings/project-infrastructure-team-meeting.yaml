@@ -6,7 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  James E. Blair
+chair:  Jeremy Stanley
 description:  >
   The OpenStack Project Infrastructure Team holds public weekly team meetings.
   Everyone interested in infrastructure and process surrounding automated
