@@ -1,9 +1,11 @@
 project:  Third Party Working Group Meeting
+meeting_id: third_party
+agenda_url: https://wiki.openstack.org/wiki/Meetings/ThirdParty
 schedule:
   - time:       '1700'
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-even
-chair:  krtaylor
+chair:  Ramy Asselin (asselin)
 description: >
   This is the Third Party CI Working Group Meeting.
