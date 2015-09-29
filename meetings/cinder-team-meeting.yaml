@@ -1,10 +1,12 @@
 project:  Cinder Team Meeting
+meeting_id: cinder
+agenda_url: https://wiki.openstack.org/wiki/CinderMeetings
 schedule:
   - time:       '1600'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  John Griffith
+chair:  Sean McGinnis (smcginnis)
 description:  >
   If you're interested in Cinder or Block Storage in general for OpenStack,
   we have a weekly meeting on IRC. Please feel free to add items to the
