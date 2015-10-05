@@ -5,11 +5,7 @@ schedule:
   - time:       '1400'
     day:        Wednesday
     irc:        openstack-meeting-alt
-    frequency:  biweekly-odd
-  - time:       '1900'
-    day:        Wednesday
-    irc:        openstack-meeting-alt
-    frequency:  biweekly-even
+    frequency:  weekly
 chair:  Stephen Gordon
 description:  >
   Telco WG
