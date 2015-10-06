@@ -3,11 +3,7 @@ schedule:
   - time:       '1600'
     day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  biweekly-even
-  - time:       '2200'
-    day:        Tuesday
-    irc:        openstack-meeting-alt
-    frequency:  biweekly-odd
+    frequency:  weekly
 chair:  adrian_otto
 description:  >
   The Containers project team holds a weekly team meeting.
