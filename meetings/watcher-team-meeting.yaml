@@ -1,0 +1,12 @@
+project:  Watcher Team Meeting
+meeting_id: watcher
+agenda_url: https://wiki.openstack.org/wiki/Watcher_Meeting_Agenda
+schedule:
+  - time:       '1600'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Antoine Cabot (acabot)
+description:  >
+  OpenStack Watcher provides a flexible and scalable resource
+  optimization service for multi-tenant OpenStack-based clouds.
