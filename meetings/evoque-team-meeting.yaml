@@ -1,0 +1,11 @@
+project:  Evoque Team Meeting
+meeting_id: evoque
+project_url: https://wiki.openstack.org/wiki/Evoque
+schedule:
+  - time:       '1300'
+    day:        Wednesday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair:  gongysh
+description:  >
+  Evoque is a ticket service for OpenStack.
