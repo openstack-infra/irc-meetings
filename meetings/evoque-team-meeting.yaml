@@ -1,0 +1,11 @@
+project:  Evoque Team Meeting
+meeting_id: evoque
+schedule:
+  - time:       '1300'
+    day:        Wednesday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+chair:  gongysh
+description:  >
+  The OpenStack Evoque Team holds public meetings on IRC.
+  Everyone is encouraged to attend.
