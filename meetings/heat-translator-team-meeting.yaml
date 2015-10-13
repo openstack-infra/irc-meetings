@@ -1,0 +1,11 @@
+project:  Heat-Translator Team Meeting
+meeting_id: heat-translator
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Heat-Translator
+schedule:
+  - time:       '1500'
+    day:        Thursday
+    irc:        openstack-heat-translator
+    frequency:  weekly
+chair:  Sahdev Zala
+description:  >
+  Weekly meeting for the Heat-Translator and TOSCA-Parser development team.
