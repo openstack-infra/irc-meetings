@@ -6,6 +6,6 @@ schedule:
     day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  sarob
+chair:  Matjaz Pancur (matjazp)
 description:  >
   The training-guides team meets weekly on IRC.
