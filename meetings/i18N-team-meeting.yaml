@@ -1,11 +1,15 @@
 project:  I18N Team Meeting
+meeting_id: i18nteam
+agenda_url: https://wiki.openstack.org/wiki/Meetings/I18nTeamMeeting
 schedule:
-  # Note(jmching): need to change this to biweekly in the future
-  - time:       '0800'
+  - time:       '0600'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
+  - time:       '1300'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
 chair:  daisy
 description:  >
-  If you're interested in internationalisation, we hold regular public
-  meetings on IRC.
+  Discuss translation/i18n/l10n related topics here.
