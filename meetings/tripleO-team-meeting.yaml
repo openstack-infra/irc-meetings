@@ -3,7 +3,7 @@ schedule:
   - time:       '1400'
     day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  biweekly-odd
-chair:  James Slagle (slagle)
+    frequency:  weekly
+chair:  Dan Prince (dprince)
 description:  >
   Meeting for the TripleO team.
