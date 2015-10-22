@@ -1,10 +1,12 @@
 project:  Ceilometer Team Meeting
+meeting_id: ceilometer
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Ceilometer
 schedule:
   - time:       '1500'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  eglynn (Eoghan Glynn)
+chair:  gordc (Gordon Chung)
 description:  >
   Everyone is welcome. The blueprints that are used as a basis for the
   ceilometer project can be found at
