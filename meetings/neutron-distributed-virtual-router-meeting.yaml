@@ -1,9 +1,10 @@
 project:  Neutron Distributed Virtual Router Meeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-DVR
 schedule:
   - time:       '1500'
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-chair:  Swaminathan Vasudevan
+chair:  Brian Haley
 description:  >
-  The Distributed Virtual Router project team holds weekly IRC team meetings.
+  Weekly meeting to discuss Distributed Virtual Router status and issues.
