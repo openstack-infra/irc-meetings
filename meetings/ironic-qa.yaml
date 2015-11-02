@@ -1,0 +1,13 @@
+project:  Ironic (Bare Metal) QA Team Meeting
+schedule:
+  - time:       '1700'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  John L. Villalovos
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic-QA
+meeting_id: ironic-qa
+description:  >
+  If you're interested in QA, testing, or 3rd party CI for Ironic, please join
+  us. This meeting is where we'll talk about QA, testing, and 3rd party CI as
+  it relates to the Ironic project
