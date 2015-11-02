@@ -1,5 +1,4 @@
 project:  I18N Team Meeting
-meeting_id: i18nteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/I18nTeamMeeting
 schedule:
   - time:       '0600'
