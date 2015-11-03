@@ -2,11 +2,11 @@ project:  Tacker (NFV Orchestrator and VNF Manager) Team Meeting
 meeting_id: tacker
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Tacker
 schedule:
-  - time:       '1600'
-    day:        Thursday
-    irc:        openstack-meeting
+  - time:       '1700'
+    day:        Tuesday
+    irc:        openstack-meeting-4
     frequency:  weekly
-chair:  Stephen Wong and Sridhar Ramaswamy
+chair:  Sridhar Ramaswamy
 description:  >
   Tacker team weekly meeting
   <https://wiki.openstack.org/wiki/Tacker>
