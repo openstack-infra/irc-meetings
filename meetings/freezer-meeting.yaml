@@ -1,0 +1,14 @@
+project:  Freezer Meeting
+meeting_id: freezer
+agenda_url: https://etherpad.openstack.org/p/freezer_meetings
+schedule:
+  - time:       '1700'
+    day:        Thursday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair: m3m0
+description:  >
+  The Freezer project team holds a weekly team meeting on IRC.
+  The blueprints that are used as a basis for the Freezer project can be
+  found at https://blueprints.launchpad.net/freezer .
+
