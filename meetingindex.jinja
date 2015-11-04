@@ -32,13 +32,19 @@ use in your favorite calendaring app:</p>
 <a href="irc-meetings.ical">iCalendar Complete Meeting Schedule</a>
 </div>
  <h2>Meeting details</h2>
- <small>
-  <ul class="list-inline">
-{% for meeting in meetings|sort(attribute='project') %}
-   <li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
-{% endfor %}
-  </ul>
- </small>
+  <small>
+  <div class="container-fluid">
+  {% for column in meetings|sort(attribute='project')|batch(4) %}
+   <div class="row">
+   {% for meeting in column %}
+    <div class="col-md-3 col-xs-6">
+     <a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a>
+    </div>
+   {% endfor %}
+   </div>
+  {% endfor %}
+  </div>
+  </small>
 
 {% for meeting in meetings|sort(attribute='project') %}
  <a id="{{ meeting.project|replace(' ', '_') }}"></a>
