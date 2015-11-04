@@ -1,5 +1,5 @@
 project:  Container Networking Team Meeting
-meeting_id: container-networking
+meeting_id: container_networking
 agenda_url: https://wiki.openstack.org/w/index.php?title=Meetings/Containers
 schedule:
   - time:       '1800'

@@ -1,5 +1,5 @@
 project:  Nova Notification Meeting
-meeting_id: nova-notification
+meeting_id: nova_notification
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaNotification
 schedule:
   - time:       '2000'
