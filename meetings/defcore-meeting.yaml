@@ -1,6 +1,6 @@
 project:  DefCore Committee Meeting
 schedule:
-  - time:       '1500'
+  - time:       '1600'
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
