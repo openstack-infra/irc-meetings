@@ -1,11 +1,11 @@
 project:  Release Team Meeting
 meeting_id: releaseteam
 schedule:
-  - time:       '1300'
-    day:        Monday
+  - time:       '1400'
+    day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Thierry Carrez
+chair:  Doug Hellmann (dhellmann)
 description:  >
   The release team (part of the Release Management project team) will hold
   weekly IRC meetings for team coordination at the start of each week.
