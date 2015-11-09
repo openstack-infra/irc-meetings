@@ -2,8 +2,8 @@ project:  Kuryr Project Meeting
 meeting_id: kuryr
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Kuryr
 schedule:
-  - time:       '1500'
-    day:        Monday
+  - time:       '0300'
+    day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
 chair:  apuimedo
