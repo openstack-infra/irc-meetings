@@ -1,0 +1,11 @@
+project:  Tap as a Service Meeting
+meeting_id: taas
+agenda_url: https://wiki.openstack.org/wiki/Meetings/taas
+schedule:
+  - time:       '0630'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Anil Rao & Vinay Yadhav
+description:  >
+  IRC chat meeting for TaaS, Everyone is welcome.
