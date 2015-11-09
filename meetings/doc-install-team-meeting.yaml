@@ -1,0 +1,16 @@
+project:  Documentation Install Team Meeting
+meeting_id: docinstallteam
+agenda_url: https://wiki.openstack.org/wiki/Meetings/DocInstallTeamMeeting
+schedule:
+  - time:       '0100'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+  - time:       '1300'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
+chair: Christian Berendt (berendt)
+description:  >
+  If you are interested in the OpenStack Install Guide we hold public meetings
+  weekly on IRC at alternating times for different timezones.
