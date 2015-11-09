@@ -1,11 +1,11 @@
-project:  Akanda Meeting
-meeting_id: akanda
+project:  Astara Meeting
+meeting_id: astara
 agenda_url: https://wiki.openstack.org/wiki/Meetings/akanda
 schedule:
   - time:       '1800'
     day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Sean Roberts (sarob)
+chair: Adam Gandelman (adam_g)
 description:  >
-  Weekly Akanda Team Meeting.
+  Weekly Astara Team Meeting.
