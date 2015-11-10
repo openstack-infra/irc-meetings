@@ -4,6 +4,6 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
-chair:  Nikhil Komawar
+chair:  PTL
 description: >
   This is the Glance meeting.
