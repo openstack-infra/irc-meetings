@@ -1,0 +1,14 @@
+project:  High Availability Meeting
+meeting_id: ha
+agenda_url: https://wiki.openstack.org/wiki/Meetings/HATeamMeeting
+schedule:
+  - time:       '0900'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Adam Spiers (aspiers)
+description:  >
+  If you're interested in High Availability within OpenStack,
+  we have a weekly meeting on IRC. Please feel free to add items to the
+  agenda. NOTE: When adding topics please include your IRC name so we know
+  whose topic it is and how to get more info.
