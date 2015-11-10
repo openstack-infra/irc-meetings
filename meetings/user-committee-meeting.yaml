@@ -1,0 +1,14 @@
+project:  User Committee Meeting
+meeting_id: user_committee
+agenda_url: https://wiki.openstack.org/wiki/Governance/Foundation/UserCommittee
+schedule:
+  - time:       '1900'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+chair:  Shilla Saebi
+description:  >
+  This is the bi-weekly User Committee team meeting.
+  The user committee's role is to represent the needs of the diverse range of OpenStack users.
+  The user committee mission includes consolidating user requirements, providing user feedback to dev teams, tracking OpenStack usage and deployment,
+  and working with the user groups worldwide to keep the OpenStack community vibrant and informed.
