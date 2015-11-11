@@ -6,6 +6,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Anil Rao & Vinay Yadhav
+chair: Anil Rao (anil_rao) & Vinay Yadhav (vnyyad)
 description:  >
   IRC chat meeting for TaaS, Everyone is welcome.
