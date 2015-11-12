@@ -5,11 +5,11 @@ schedule:
   - time:       '0100'
     day:        Wednesday
     irc:        openstack-meeting-3
-    frequency:  biweekly-even
+    frequency:  biweekly-odd
   - time:       '1300'
     day:        Tuesday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
 chair: Christian Berendt (berendt)
 description:  >
   If you are interested in the OpenStack Install Guide we hold public meetings
