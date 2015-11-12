@@ -1,0 +1,12 @@
+project:  Documentation User Guides Team Meeting
+meeting_id: docuserguides
+agenda_url: https://wiki.openstack.org/wiki/Meetings/DocUserGuidesTeamMeeting
+schedule:
+  - time:       '2330'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair: Joseph Robinson (JRobinson)
+description:  >
+  If you are interested in the OpenStack User Guides we hold public meetings
+  weekly on IRC.
