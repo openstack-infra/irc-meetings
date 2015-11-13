@@ -1,0 +1,12 @@
+project:  Operations Guide and Architecture Design Guide Team Meeting
+meeting_id: ops-guide
+agenda_url: https://wiki.openstack.org/wiki/Documentation/OpsGuide
+schedule:
+  - time:       '2130'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
+chair:  Shilla Saebi (ShillaSaebi)
+description:  >
+  If you are interested in the OpenStack Operations Guide or the Architecture
+  Design Guide, we hold public meetings bi-weekly on IRC.
