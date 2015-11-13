@@ -3,10 +3,14 @@ meeting_id: diversity
 agenda_url: https://wiki.openstack.org/wiki/Diversity
 schedule:
   - time:       '1800'
-    day:        Friday
-    irc:        openstack-meeting
-    frequency:  weekly
-chair: Carol Barrett
+    day:        Thursday
+    irc:        openstack-diversity
+    frequency:  biweekly-even
+  - time:       '0500'
+    day:        Thursday
+    irc:        openstack-diversity
+    frequency:  biweekly-odd
+chair: Carol Barrett, Egle Sigler, Kavit Munshi, Roland Chan.
 description:  >
   This work group will work to insire that the OpenStack community is an
   inclusive and welcoming place for all people to collaborate to drive
