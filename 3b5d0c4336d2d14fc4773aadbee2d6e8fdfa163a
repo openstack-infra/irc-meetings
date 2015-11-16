@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+1: Jay Faulkner <jay@jvf.cc>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 Nov 2015 23:54:23 +0000
+Reviewed-on: https://review.openstack.org/245927
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
