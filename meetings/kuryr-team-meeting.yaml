@@ -5,9 +5,14 @@ schedule:
   - time:       '0300'
     day:        Tuesday
     irc:        openstack-meeting-4
-    frequency:  weekly
+    frequency:  biweekly-even
+  - time:       '1500'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
 chair:  apuimedo
 description:  >
-  Kuryr is a Docker network plugin that uses Neutron to provide networking services to Docker containers.
-  It is available standalone and in a containerized way,
-  making it possible to use the common Neutron plugins to plug the containers into the Neutron networking.
+  Kuryr is a Docker network plugin that uses Neutron to provide networking
+  services to Docker containers. It is available standalone and in a
+  containerized way, making it possible to use the common Neutron plugins
+  to plug the containers into the Neutron networking.
