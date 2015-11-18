@@ -1,9 +1,0 @@
-project:  Operators Monitoring/Ops Tools Working Group
-schedule:
-  - time:       '1900'
-    day:        Wednesday
-    irc:        openstack-meeting-4
-    frequency:  biweekly-odd
-chair: Joseph Bajin
-description:  >
-  Bi-Weekly Operators Working Group to discuss Monitoring and Tools used to manage clouds.
