@@ -1,9 +1,0 @@
-project:  OpenStack Operators Team Meeting
-schedule:
-  - time:       '1800'
-    day:        Wednesday
-    irc:        openstack-meeting-4
-    frequency:  weekly
-chair: mfisch
-description:  >
-  Ops
