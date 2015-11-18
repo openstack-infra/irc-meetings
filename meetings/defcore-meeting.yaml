@@ -1,10 +1,10 @@
 project:  DefCore Committee Meeting
 schedule:
-  - time:       '1630'
+  - time:       '1600'
     day:        Wednesday
-    irc:        openstack-meeting-2
+    irc:        openstack-meeting-3
     frequency:  weekly
-chair: Rob Hirschfeld (zehicle), Egle Sigler (egle)
+chair: Rob Hirschfeld (zehicle), Egle Sigler (eglute)
 description:  >
   This is the weekly meeting of the DefCore Committee.  During this meeting we
   will cover DefCore process changes as well as capabilities scoring per agendas
