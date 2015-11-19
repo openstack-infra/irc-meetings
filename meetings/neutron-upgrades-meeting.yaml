@@ -1,9 +1,11 @@
 project:  Neutron Upgrades Meeting
+meeting_id: neutron_upgrages
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-Upgrades-Subteam
 schedule:
   - time:       '1500'
     day:        Monday
-    irc:        openstack-meeting-2
-    frequency:  weekly
+    irc:        openstack-meeting-3
+    frequency:  biweekly-even
 chair:  Ihar Hrachyshka (ihrachyshka)
 description:  >
   Weekly meeting to discuss all things upgrade in Neutron.
