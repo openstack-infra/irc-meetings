@@ -1,0 +1,11 @@
+project:  Vahana Team Meeting
+schedule:
+  - time:       '1500'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Jay Clark / Chris Jones
+description:  >
+  The Vahana project team weekly public meetings on IRC to review
+  blueprints, bugs and priorities. This meeting is open to all everyone is
+  encouraged to attend.
