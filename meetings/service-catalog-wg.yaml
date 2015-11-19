@@ -1,0 +1,15 @@
+project:  Service Catalog TNG Working Group Virtual Standup
+meeting_id:  service_catalog_tng
+agenda_url:  https://wiki.openstack.org/wiki/Meetings/ServiceCatalogTNG
+schedule:
+  - time:       '1500'
+    day:        Thursday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+chair:  Sean Dague (sdague), Anne Gentle (annegentle)
+description:  >
+  This is a weekly 30 minute virtual standup to see where our progress
+  is for the overall effort. It is assumed most folks won't attend the
+  meeting but will instead update our virtual standup etherpad before
+  the meeting. This will just be a checkpoint and point at the top
+  issue that needs to be focussed on for the next week.
