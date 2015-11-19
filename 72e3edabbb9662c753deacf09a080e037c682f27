@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+1: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 19 Nov 2015 22:58:01 +0000
+Reviewed-on: https://review.openstack.org/247818
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
