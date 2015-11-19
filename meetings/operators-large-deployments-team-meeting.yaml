@@ -1,0 +1,15 @@
+project: Operators Large Deployment Team Meeting
+meeting_id: Large Deployments Team Monthly Meeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/LDT
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-operators
+    frequency:  monthly
+  - time:       '0300'
+    day:        Friday
+    irc:        openstack-operators
+    frequency:  monthly
+chair: Matt Van Winkle
+description: >
+  If you are running OpenStack at scale, we meet once a month to discuss issues and instigate change.
