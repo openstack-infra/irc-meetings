@@ -1,4 +1,6 @@
 project:  OpenStack OSOps/Monitoring and Tools Working Group
+meeting_id: operators_ops_tools_monitoring
+agenda_url: https://wiki.openstack.org/wiki/Osops/Osops-agenda
 schedule:
   - time:       '1900'
     day:        Wednesday
