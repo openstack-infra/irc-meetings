@@ -1,9 +1,0 @@
-project:  Chef Cookbook meeting
-schedule:
-  - time:       '1600'
-    day:        Monday
-    irc:        openstack-meeting-3
-    frequency:  weekly
-chair: JJ Asghar (j^2)
-description:  >
-  The Chef Cookbooks project team holds weekly team meetings in IRC.
