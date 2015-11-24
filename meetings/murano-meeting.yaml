@@ -1,4 +1,6 @@
 project:  Murano Meeting
+meeting_id: murano
+agenda_url: https://wiki.openstack.org/wiki/Meetings/MuranoAgenda
 schedule:
   - time:       '1700'
     day:        Tuesday
