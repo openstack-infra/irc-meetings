@@ -1,6 +1,6 @@
 project:  Documentation Install Team Meeting
 meeting_id: docinstallteam
-agenda_url: https://wiki.openstack.org/wiki/Meetings/DocInstallTeamMeeting
+agenda_url: https://etherpad.openstack.org/p/docinstallteam-agenda
 schedule:
   - time:       '0100'
     day:        Wednesday
