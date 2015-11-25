@@ -1,4 +1,5 @@
 project:  Manila Team Meeting
+meeting_id: manila
 schedule:
   - time:       '1500'
     day:        Thursday

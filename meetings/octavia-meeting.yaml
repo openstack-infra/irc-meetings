@@ -1,4 +1,5 @@
 project:  Octavia Meeting
+meeting_id: octavia
 schedule:
   - time:       '2000'
     day:        Wednesday

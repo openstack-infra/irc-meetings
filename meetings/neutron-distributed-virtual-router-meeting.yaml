@@ -1,4 +1,5 @@
 project:  Neutron Distributed Virtual Router Meeting
+meeting_id: neutron_dvr
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-DVR
 schedule:
   - time:       '1500'
