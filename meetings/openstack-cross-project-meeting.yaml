@@ -4,10 +4,10 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/CrossProjectMeeting
 schedule:
   - time:       '2100'
     day:        Tuesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-cp
     frequency:  weekly
-chair:  Thierry Carrez
+chair: Mike Perez (thingee)
 description:  >
-  The whole OpenStack Team holds a public weekly Project & Release Status
-  meeting to discuss cross-project issues. Everyone is encouraged to attend.
+  This meeting is organized on-demand to discuss specific cross-project issues.
+  It is announced on openstack-dev and everyone is encouraged to attend.
 agenda_url: https://wiki.openstack.org/wiki/Meetings/CrossProjectMeeting
