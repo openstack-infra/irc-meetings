@@ -1,4 +1,5 @@
 project:  Mistral Meeting
+meeting_id: mistral
 schedule:
   - time:       '1600'
     day:        Monday

@@ -1,4 +1,5 @@
 project:  DefCore Committee Meeting
+meeting_id: defcore
 schedule:
   - time:       '1600'
     day:        Wednesday

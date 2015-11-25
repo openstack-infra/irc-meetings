@@ -1,4 +1,5 @@
 project:  OpenStack Ansible Deployment Meeting
+meeting_id: openstack_ansible_meeting
 schedule:
   - time:       '1600'
     day:        Thursday

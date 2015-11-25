@@ -1,4 +1,5 @@
 project:  Searchlight Team Meeting
+meeting_id: openstack_search
 agenda_url:  https://etherpad.openstack.org/p/search-team-meeting-agenda
 schedule:
   - time:       '1500'

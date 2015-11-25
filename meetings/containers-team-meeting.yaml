@@ -1,4 +1,5 @@
 project:  Containers Team Meeting
+meeting_id: containers
 schedule:
   - time:       '1600'
     day:        Tuesday
