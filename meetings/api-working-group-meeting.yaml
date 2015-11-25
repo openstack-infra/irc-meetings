@@ -1,4 +1,5 @@
 project: API Working Group
+meeting_id: api_wg
 schedule:
   - time:       '0000'
     day:        Thursday

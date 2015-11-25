@@ -1,4 +1,5 @@
 project:  Solum Team Meeting
+meeting_id: solum_team_meeting
 schedule:
   - time:       '1700'
     day:        Tuesday

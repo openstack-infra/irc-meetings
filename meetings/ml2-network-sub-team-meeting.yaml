@@ -1,4 +1,5 @@
 project:  ML2 Network Sub-team Meeting
+meeting_id: networking_ml2
 agenda_url: https://wiki.openstack.org/wiki/Meetings/ML2
 schedule:
   - time:       '1600'

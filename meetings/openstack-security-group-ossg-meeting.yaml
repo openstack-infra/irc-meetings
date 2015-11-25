@@ -1,4 +1,5 @@
 project:  Security meeting
+meeting_id: security
 schedule:
   - time:       '1700'
     day:        Thursday
