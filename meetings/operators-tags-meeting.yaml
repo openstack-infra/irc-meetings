@@ -5,9 +5,12 @@ schedule:
   - time:       '1400'
     day:        Thursday
     irc:        openstack-meeting
+    # NOTE(tonyb): This is really a monthly meeting. but yaml2ical can't do
+    # that.
     frequency:  biweekly-odd
 chair:  Tom Fifield
 description:  >
-  This is the bi-weekly Openstack Tags team meeting.
-  The Ops-tag Team purpose is to define tags for Operators, allowing them to make better
-  decisions by providing useful information about OpenStack software projects.
+  This is the Monthly Openstack Tags team meeting.
+  The Ops-tag Team purpose is to define tags for Operators, allowing them to
+  make better decisions by providing useful information about OpenStack
+  software projects.
