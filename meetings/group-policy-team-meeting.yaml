@@ -1,4 +1,5 @@
 project:  Group Based Policy Team Meeting
+meeting_id: networking_policy
 schedule:
   - time:       '1800'
     day:        Thursday

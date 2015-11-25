@@ -1,4 +1,5 @@
 project:  Glance Team Meeting
+meeting_id: glance
 schedule:
   - time:       '1400'
     day:        Thursday

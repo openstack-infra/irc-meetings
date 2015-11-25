@@ -1,4 +1,5 @@
 project:  Neutron drivers Meeting
+meeting_id: neutron_drivers
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NeutronDrivers
 schedule:
   - time:       '1500'

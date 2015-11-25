@@ -1,4 +1,5 @@
 project:  Zaqar Team Meeting
+meeting_id: zaqar
 schedule:
   - time:       '2100'
     day:        Monday
