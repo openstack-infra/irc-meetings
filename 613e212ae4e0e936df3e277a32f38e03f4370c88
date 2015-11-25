@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Paul Michali <pc@michali.net>
+Code-Review-1: Joshua Hesketh <joshua.hesketh@rackspace.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 25 Nov 2015 13:54:43 +0000
+Reviewed-on: https://review.openstack.org/249572
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
