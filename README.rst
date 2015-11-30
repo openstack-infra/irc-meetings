@@ -63,11 +63,11 @@ will be import into Python as a dictionary.
           frequency:  biweekly-odd
 
 * The chair is just a one liner. The might be left empty if there is not a
-  chair.
+  chair.  It's recommended to mention his/her IRC nick.
 
   ::
 
-    chair:  Russell Bryant
+    chair:  Russell Bryant (russellb)
 
 * The project description is as follows.  Use `>` for paragraphs where new
   lines are folded, or `|` for paragraphs where new lines are preserved.
