@@ -1,0 +1,13 @@
+project:  Dragonflow Project Meeting
+meeting_id: dragonflow
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Dragonflow
+schedule:
+  - time:       '0900'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  gsagie
+description:  >
+  This weekly meeting is about discussing Dragonflow implementation
+  progress and future feature design and requirements.
+
