@@ -1,0 +1,14 @@
+project:  Dragonflow Project Meeting
+meeting_id: dragonflow
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Dragonflow
+schedule:
+  - time:       '0900'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  gsagie
+description:  >
+  Dragonflow is a full open source Neutron implementation done the SDN way.
+  Both the implementation and the plugin are integral part of OpenStack.
+  Dragonflow aims to be lightweight and simple but still fit into intensive
+  scale and performance setups.
