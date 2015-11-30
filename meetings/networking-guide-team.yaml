@@ -1,0 +1,13 @@
+project:  Networking Guide Team Meeting
+meeting_id: doc_networking
+agenda_url: https://wiki.openstack.org/wiki/Documentation/NetworkingGuide
+schedule:
+  - time:       '1600'
+    day:        Friday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-even
+chair: Edgar Magana (emagana)
+description:  >
+  Team working on the documentation of the Networking Guide. If you are
+  interested in documentation and the web content for Neutron, we hold
+  public meetings weekly on IRC.
