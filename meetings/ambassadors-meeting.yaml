@@ -8,6 +8,6 @@ schedule:
     day:        Friday
     irc:        openstack-meeting-alt
     frequency:  biweekly-odd
-chair:  sarob
+chair:  Sean Roberts (sarob)
 description:  >
   Ambassadors

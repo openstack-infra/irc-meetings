@@ -5,6 +5,6 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
-chair:  Nikhil Komawar
+chair:  Nikhil Komawar (nikhil_k)
 description: >
   This is the Glance meeting.

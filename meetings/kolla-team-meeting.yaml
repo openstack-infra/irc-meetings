@@ -5,6 +5,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
-chair: Steven Dake
+chair: Steven Dake (sdake)
 description:  >
   If you're interested in Kolla, join this meeting.

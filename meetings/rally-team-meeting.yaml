@@ -7,6 +7,6 @@ schedule:
     day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  Boris Pavlovic
+chair:  Boris Pavlovic (boris-42)
 description:  >
   The Rally project team holds an IRC team meeting.

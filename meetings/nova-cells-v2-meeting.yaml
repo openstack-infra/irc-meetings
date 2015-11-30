@@ -8,6 +8,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
-chair:  Andrew Laski
+chair:  Andrew Laski (alaski)
 description:  >
   This is a weekly meeting to discuss Cells v2.

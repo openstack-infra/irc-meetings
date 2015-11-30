@@ -4,6 +4,6 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
-chair:  Weidong Shao(wshao), Shuo Yang(shuo-yang)
+chair:  Weidong Shao (wshao), Shuo Yang (shuo-yang)
 description:  >
   The weekly meeting for Compass project.

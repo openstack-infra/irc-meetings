@@ -4,7 +4,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Jim Rollenhagen
+chair:  Jim Rollenhagen (jroll)
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic
 meeting_id: ironic
 description:  >

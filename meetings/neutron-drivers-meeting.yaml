@@ -6,7 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  mestery
+chair:  Kyle Mestery (mestery)
 description:  >
   This meeting is for the neutron-drivers team to discuss RFE bugs.
   Everyone is encouraged to attend.

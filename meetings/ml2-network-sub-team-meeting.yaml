@@ -6,6 +6,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-chair:  Bob Kukura / Sukhdev Kapur
+chair:  Bob Kukura (rkukura), Sukhdev Kapur (Suhkdev)
 description:  >
   This is the ML2 network subteam meeting.

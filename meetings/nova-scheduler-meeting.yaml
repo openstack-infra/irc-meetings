@@ -5,6 +5,6 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
-chair:  Don Dugger & Sylvain Bauza
+chair:  Don Dugger (n0ano) & Sylvain Bauza (bauzas)
 description: >
   This is the meeting for all scheduler related efforts in Nova.

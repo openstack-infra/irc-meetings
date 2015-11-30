@@ -10,7 +10,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
-chair:  David Lyle
+chair:  David Lyle (david-lyle)
 description:  >
   The OpenStack Horizon Drivers Team holds public meetings on IRC to review
   blueprints, bugs and priorities. This meeting is open to all everyone is

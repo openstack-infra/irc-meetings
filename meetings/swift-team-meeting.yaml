@@ -6,6 +6,6 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
-chair:  John Dickinson
+chair:  John Dickinson (notmyname)
 description:  >
   This is the Swift team meeting.

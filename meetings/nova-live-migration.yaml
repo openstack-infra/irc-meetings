@@ -6,6 +6,6 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  PaulMurray
+chair:  Paul Murray (PaulMurray)
 description:  >
   This is the weekly Nova Live Migration subteam meeting.

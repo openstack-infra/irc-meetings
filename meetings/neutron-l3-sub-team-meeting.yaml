@@ -6,7 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
-chair:  Carl Baldwin
+chair:  Carl Baldwin (carl_baldwin)
 description:  >
   Meetings, with their notes and logs, will be found under
   http://eavesdrop.openstack.org/meetings/neutron_l3
