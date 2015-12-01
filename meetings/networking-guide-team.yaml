@@ -3,8 +3,8 @@ meeting_id: doc_networking
 agenda_url: https://wiki.openstack.org/wiki/Documentation/NetworkingGuide
 schedule:
   - time:       '1600'
-    day:        Friday
-    irc:        openstack-meeting-3
+    day:        Thursday
+    irc:        openstack-meeting
     frequency:  biweekly-odd
 chair: Edgar Magana (emagana)
 description:  >
