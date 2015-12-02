@@ -1,9 +1,11 @@
 project:  Documentation HA Guide update Meeting
+meeting_id: ha_guide
+agenda_url: https://wiki.openstack.org/wiki/Documentation/HA_Guide_Update
 schedule:
-  - time:       '2000'
-    day:        Thursday
-    irc:        openstack-meeting-3
-    frequency:  weekly
-chair: Matt Griffin
+  - time:       '1500'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+chair: Bogdan Dobrelya
 description:  >
   HA Guide update meeting.
