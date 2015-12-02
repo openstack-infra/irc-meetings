@@ -6,7 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-chair: Morgan Fainberg
+chair: Steve Martinelli (stevemar)
 description:  >
   If you're interested in identity for OpenStack, we hold public meetings in
   IRC. Please feel free to add items to the agenda with your name and we'll
