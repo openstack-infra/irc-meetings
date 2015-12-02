@@ -1,0 +1,12 @@
+project:  Networking Midonet meeting
+agenda_url:  https://wiki.openstack.org/wiki/Meetings/NetworkingMidoNet
+schedule:
+  - time:       '0700'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  YAMAMOTO Takashi (yamamoto), Ryu Ishimoto (ryu_ishimoto)
+meeting_id: networking_midonet
+description:  >
+  This is the Neutron Networking Midonet meeting.
+  Everyone is encouraged to attend.
