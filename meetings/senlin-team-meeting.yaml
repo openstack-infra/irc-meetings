@@ -1,4 +1,6 @@
 project:  Senlin Team Meeting
+meeting_id: senlin
+agenda_url: https://wiki.openstack.org/wiki/Meetings/SenlinAgenda
 schedule:
   - time:       '1300'
     day:        Tuesday
