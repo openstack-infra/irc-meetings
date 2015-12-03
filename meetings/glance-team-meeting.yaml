@@ -1,5 +1,6 @@
 project:  Glance Team Meeting
 meeting_id: glance
+agenda_url: https://etherpad.openstack.org/p/glance-team-meeting-agenda
 schedule:
   - time:       '1400'
     day:        Thursday
