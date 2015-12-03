@@ -1,0 +1,12 @@
+project:  Midonet meeting
+agenda_url:  https://wiki.openstack.org/wiki/Meetings/MidoNet
+schedule:
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair:  Ryu Ishimoto (ryu_ishimoto)
+meeting_id: midonet
+description:  >
+  This is the Midonet meeting.
+  Everyone is encouraged to attend.
