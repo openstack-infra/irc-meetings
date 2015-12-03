@@ -1,5 +1,6 @@
 project:  Mistral Meeting
 meeting_id: mistral
+agenda_url: https://wiki.openstack.org/wiki/Meetings/MistralAgenda
 schedule:
   - time:       '1600'
     day:        Monday
