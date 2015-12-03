@@ -1,5 +1,6 @@
 project:  Zaqar Team Meeting
 meeting_id: zaqar
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Zaqar
 schedule:
   - time:       '2100'
     day:        Monday
