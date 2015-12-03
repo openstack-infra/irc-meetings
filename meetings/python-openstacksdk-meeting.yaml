@@ -1,4 +1,6 @@
 project:  Python-openstacksdk Meeting
+meeting_id: python-openstacksdk
+agenda_url: https://wiki.openstack.org/wiki/Meetings/PythonOpenStackSDK
 schedule:
   - time:       '1900'
     day:        Tuesday
