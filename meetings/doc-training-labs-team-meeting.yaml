@@ -1,0 +1,12 @@
+project:  Documentation Install Team Meeting
+meeting_id: training_labs
+agenda_url: https://wiki.openstack.org/wiki/Meetings/training-labs
+schedule:
+  - time:       '1030'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+chair: Pranav Salunke (dguitarbite)
+description:  >
+  If you are interested in the OpenStack Training Labs feel free to join one of
+  our public meetings. We have one meeting every week.
