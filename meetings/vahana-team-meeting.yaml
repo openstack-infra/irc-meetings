@@ -1,4 +1,5 @@
 project:  Vahana Team Meeting
+meeting_id: vahana
 schedule:
   - time:       '1500'
     day:        Wednesday
