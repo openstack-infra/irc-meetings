@@ -1,4 +1,6 @@
 project:  SR-IOV/PCI Passthrough Meeting
+meeting_id: sriov
+agenda_url: https://etherpad.openstack.org/p/sriov_meeting_agenda
 schedule:
   - time:       '1300'
     day:        Tuesday
