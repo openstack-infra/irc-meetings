@@ -1,0 +1,12 @@
+project:  Neutron Library Subteam Meeting
+meeting_id: networking_lib
+agenda_url: https://wiki.openstack.org/wiki/Network/Lib/Meetings
+schedule:
+  - time:       '1730'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Doug Wiegley (dougwig)
+description:  >
+  A neutron subteam dealing with stable interfaces, neutron-lib, and
+  severing the mess of dependencies between neutron projects.
