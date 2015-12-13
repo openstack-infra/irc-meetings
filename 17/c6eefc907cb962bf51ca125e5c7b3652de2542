@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Code-Review+1: Kyle Mestery <mestery@mestery.com>
+Code-Review+1: Armando Migliaccio <armamig@gmail.com>
+Code-Review+1: Henry Gessau <HenryG@gessau.net>
+Code-Review+1: Paul Michali <pc@michali.net>
+Code-Review+1: Kevin Benton <kevinbenton@buttewifi.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Sun, 13 Dec 2015 22:44:23 +0000
+Reviewed-on: https://review.openstack.org/256004
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
