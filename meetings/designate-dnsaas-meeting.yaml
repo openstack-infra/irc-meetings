@@ -1,4 +1,6 @@
 project:  Designate (DNSaaS) Meeting
+meeting_id: designate
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Designate
 schedule:
   - time:       '1700'
     day:        Wednesday
