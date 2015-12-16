@@ -1,5 +1,6 @@
 project:  Manila Team Meeting
 meeting_id: manila
+agenda_url: https://wiki.openstack.org/wiki/Manila/Meetings
 schedule:
   - time:       '1500'
     day:        Thursday
