@@ -1,4 +1,6 @@
 project:  Barbican Meeting
+meeting_id: barbican
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Barbican
 schedule:
   - time:       '2000'
     day:        Monday
