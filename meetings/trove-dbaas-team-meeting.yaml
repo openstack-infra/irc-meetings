@@ -1,4 +1,6 @@
 project:  Trove (DBaaS) Team Meeting
+meeting_id: trove
+agenda_url: https://wiki.openstack.org/wiki/Meetings/TroveMeeting
 schedule:
   - time:       '1800'
     day:        Wednesday
