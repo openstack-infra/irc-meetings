@@ -1,5 +1,6 @@
 project:  Octavia Meeting
 meeting_id: octavia
+agenda_url: https://wiki.openstack.org/wiki/Octavia/Weekly_Meeting_Agenda#Agenda
 schedule:
   - time:       '2000'
     day:        Wednesday
