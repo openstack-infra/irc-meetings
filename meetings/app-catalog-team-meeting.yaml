@@ -1,5 +1,6 @@
 project:  App Catalog Team Meeting
 meeting_id: app_catalog
+agenda_url: https://wiki.openstack.org/wiki/Meetings/app-catalog
 schedule:
   - time:       '1700'
     day:        Thursday
