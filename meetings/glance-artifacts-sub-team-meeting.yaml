@@ -1,9 +1,9 @@
 project:  Glance Artifacts Sub-Team Meeting
 meeting_id: glance_artifacts_sub_team
 schedule:
-  - time:       '1400'
+  - time:       '1700'
     day:        Monday
-    irc:        openstack-meeting-4
+    irc:        openstack-meeting-alt
     frequency:  weekly
     duration:   30
 chair:  Alexander Tivelkov (ativelkov) and Nikhil Komawar (nikhil_k)
