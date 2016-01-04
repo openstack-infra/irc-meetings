@@ -35,7 +35,7 @@ saved under ``keystone-team-meeting.yaml``.
 Example
 -------
 
-This is an example for the yaml meeting for Nova team meeting.  The whole file
+This is an example for the yaml meeting for Nova team meeting. The whole file
 will be import into Python as a dictionary.
 
 * The project name is shown below.
