@@ -4,6 +4,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160112
 chair:  daisy
 description:  >
   The Translation test team meet weekly.

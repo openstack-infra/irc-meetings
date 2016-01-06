@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160106
 chair:  Roland Hochmuth (rhochmuth)
 description: >
     To provide a multi-tenant, highly scalable, performant, fault-tolerant

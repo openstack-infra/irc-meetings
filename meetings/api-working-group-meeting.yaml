@@ -5,10 +5,12 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
+    start_date: 20160114
   - time:       '1600'
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
+    start_date: 20160107
 chair: TBD
 description:  >
   To propose, discuss, review and advocate for API guidelines for all

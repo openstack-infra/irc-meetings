@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160107
 chair:  Carl Baldwin
 description:  >
   Meetings, with their notes and logs, will be found under

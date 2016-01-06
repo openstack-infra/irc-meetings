@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160106
 chair:  Antoine Cabot (acabot)
 description:  >
   Watcher provides a flexible and scalable resource

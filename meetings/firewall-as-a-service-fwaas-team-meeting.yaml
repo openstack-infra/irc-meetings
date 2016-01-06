@@ -4,10 +4,12 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
+    start_date: 20160106
   - time:       '0000'
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:   biweekly-even
+    start_date: 20160114
 chair:  Sean M. Collins (sc68cal) and Sridhar Kandaswamy (SridharK)
 description:  >
   This is the Neutron Firewall as a Service (FWaaS) meeting.

@@ -6,10 +6,12 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
+    start_date: 20160113
   - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
+    start_date: 20160106
 chair:  David Lyle
 description:  >
   The OpenStack Horizon Drivers Team holds public meetings on IRC to review

@@ -6,6 +6,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160111
 chair:  Carol Barrett
 description:  >
   The OpenStack Product WG meets weekly to discuss progress on user stories

@@ -6,6 +6,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160111
 chair:  gsagie
 description:  >
   This weekly meeting is about discussing Dragonflow implementation

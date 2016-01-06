@@ -6,6 +6,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160111
 chair:  Stephane Albert (sheeprine)
 description:  >
   CloudKitty is a Rating as a Service component for OpenStack. If you're

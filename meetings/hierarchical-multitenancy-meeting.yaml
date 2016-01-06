@@ -4,6 +4,7 @@ schedule:
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160108
 chair:  vishy, schwicke
 description:  >
   OpenStack needs to grow support for hierarchical ownership of objects. This

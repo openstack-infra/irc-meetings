@@ -4,6 +4,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160106
 chair:  sarob
 description:  >
   The training-guides team meets weekly on IRC.

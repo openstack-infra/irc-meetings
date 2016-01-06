@@ -5,6 +5,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160112
 chair:  Graham Hayes
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Kosmos
 description:  >

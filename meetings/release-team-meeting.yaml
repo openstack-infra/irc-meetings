@@ -5,6 +5,7 @@ schedule:
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160108
 chair:  Doug Hellmann (dhellmann)
 description:  >
   The release team (part of the Release Management project team) will hold

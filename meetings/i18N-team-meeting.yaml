@@ -6,10 +6,12 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160114
   - time:       '1300'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160107
 chair:  daisy
 description:  >
   Discuss translation/i18n/l10n related topics here.

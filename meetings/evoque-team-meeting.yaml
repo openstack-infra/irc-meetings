@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160106
 chair:  gongysh
 description:  >
   Evoque is a ticket service for OpenStack.

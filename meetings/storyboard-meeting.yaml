@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160106
 chair:  SotK or Zara_
 description:  >
   This is the weekly StoryBoard team meeting.

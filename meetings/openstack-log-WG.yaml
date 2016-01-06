@@ -5,6 +5,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160106
 chair:  Rochelle Grober (RockG)
 description:  >
   Log WG Weekly Meeting.

@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160106
 chair:  Sean McGinnis (smcginnis)
 description:  >
   If you're interested in Cinder or Block Storage in general for OpenStack,

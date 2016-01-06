@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-cp
     frequency:  weekly
+    start_date: 20160107
 chair:  Sean Dague (sdague), Anne Gentle (annegentle)
 description:  >
   This is a weekly 30 minute virtual standup to see where our progress

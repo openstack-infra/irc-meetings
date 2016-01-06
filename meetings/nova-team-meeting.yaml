@@ -6,10 +6,12 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160114
   - time:       '2100'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160107
 chair: Mikal Still (mikal), John Garbutt (johnthetubaguy)
 description:  >
   This is the weekly Nova team meeting.

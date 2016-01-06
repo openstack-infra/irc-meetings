@@ -6,6 +6,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160111
 chair:  Adam Spiers (aspiers)
 description:  >
   If you're interested in High Availability within OpenStack,

@@ -5,6 +5,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
+    start_date: 20160113
 chair:  Miguel Angel Ajo (ajo)
 description:  >
   Weekly meeting to discuss QoS in Neutron.

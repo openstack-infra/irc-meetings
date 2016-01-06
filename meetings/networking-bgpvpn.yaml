@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160112
 chair:  Mathieu Rohon (matrohon), Thomas Morin (tmorin)
 description:  >
   This is the Neutron Networking BGPVPN meeting. Everyone is encouraged

@@ -5,6 +5,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160112
 chair:  Devdatta Kulkarni (devkulkarni)
 description:  >
   If you're interested in Solum, we hold public meetings weekly on IRC.

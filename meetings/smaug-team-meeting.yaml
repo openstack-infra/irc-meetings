@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160112
 chair:  gampel
 description:  >
   This biweekly meeting is about discussing smaug implementation

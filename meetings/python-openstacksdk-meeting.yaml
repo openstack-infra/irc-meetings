@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160112
 chair:  jnoller
 description:  >
   This is a proposed OpenStack project that is designed to improve the

@@ -4,6 +4,7 @@ schedule:
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160108
 chair:  geoffarnold, davidjc
 description:  >
   Project Mercador is focussed on enabling the federation of OpenStack services.

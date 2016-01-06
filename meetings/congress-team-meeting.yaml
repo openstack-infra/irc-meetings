@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160107
 chair:  Tim Hinrichs (thinrichs), Pete Balland (pballand)
 description:  >
   If you're interested in Congress, we hold public meetings weekly on IRC.

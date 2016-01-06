@@ -4,6 +4,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160112
 chair:  Vipul Sabhaya (vipul)
 description:  >
   The Cue project holds a weekly team meeting.

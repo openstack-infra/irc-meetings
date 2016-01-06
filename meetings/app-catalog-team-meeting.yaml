@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160107
 chair:  docaedo
 description:  >
   The OpenStack Community App Catalog is a collection of ready-to-use

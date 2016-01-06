@@ -6,6 +6,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160118
 chair:  Shilla Saebi
 description:  >
   This is the bi-weekly User Committee team meeting.

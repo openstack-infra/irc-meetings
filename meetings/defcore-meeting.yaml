@@ -5,6 +5,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160106
 chair: Rob Hirschfeld (zehicle), Egle Sigler (eglute)
 description:  >
   This is the weekly meeting of the DefCore Committee.  During this meeting we

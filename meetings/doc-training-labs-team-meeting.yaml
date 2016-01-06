@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160106
 chair: Pranav Salunke (dguitarbite)
 description:  >
   If you are interested in the OpenStack Training Labs feel free to join one of

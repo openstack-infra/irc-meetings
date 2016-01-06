@@ -5,6 +5,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
+    start_date: 20160118
 chair:  Sukhdev Kapur (Sukhdev), Armando Migliaccio (armax)
 meeting_id: networking_l2gw
 description:  >

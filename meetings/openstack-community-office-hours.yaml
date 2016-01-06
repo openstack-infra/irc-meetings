@@ -4,10 +4,12 @@ schedule:
     day:        Tuesday
     irc:        openstack-community
     frequency:  weekly
+    start_date: 20160112
   - time:       '1800'
     day:        Friday
     irc:        openstack-community
     frequency:  weekly
+    start_date: 20160108
 chair:  Tom Fifield (fifieldt), Stefano Maffulli (reed)
 description:  >
   The Community team offers two spots weekly to welcome new people, offer help,

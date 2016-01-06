@@ -6,10 +6,12 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160113
   - time:       '1400'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160106
 chair: Lana Brindley (loquacities)
 description:  >
   If you are interested in documentation and the web content for OpenStack, we

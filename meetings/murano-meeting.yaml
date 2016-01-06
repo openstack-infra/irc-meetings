@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160112
 chair:  Serg Melikyan (sergmelikyan)
 description:  >
   Murano holds a weekly meeting on IRC.

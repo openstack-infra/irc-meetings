@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
+    start_date: 20160107
 chair:  Shilla Saebi (ShillaSaebi)
 description:  >
   If you are interested in the OpenStack Operations Guide or the Architecture

@@ -5,6 +5,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160112
     duration:   30
 chair:  Nikhil Komawar (nikhil_k)
 description:  >

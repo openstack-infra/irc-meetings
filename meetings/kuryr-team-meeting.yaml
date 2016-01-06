@@ -6,10 +6,12 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
+    start_date: 20160119
   - time:       '1500'
     day:        Monday
     irc:        openstack-meeting-4
     frequency:  biweekly-even
+    start_date: 20160111
 chair:  apuimedo
 description:  >
   Kuryr is a Docker network plugin that uses Neutron to provide networking

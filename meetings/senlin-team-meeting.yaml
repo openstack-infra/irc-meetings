@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160112
 chair: Qiming Teng
 description:  >
   The Senlin project team holds a weekly team meeting.

@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  biweekly-even
+    start_date: 20160113
 chair: Joseph Robinson (JRobinson)
 description:  >
   The OpenStack User Guides team holds public meetings fortnightly on IRC.

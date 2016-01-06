@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160106
 chair:  Michael Basnight / Vipul Sabhaya / Nikhil Manchanda / Tim Simpson
 description:  >
   Want to add an agenda item? Please append your item to the upcoming weekly

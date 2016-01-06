@@ -6,10 +6,12 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160106
   - time:       '0700'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160113
 chair:  Steve Baker (stevebaker)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is

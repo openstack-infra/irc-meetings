@@ -5,6 +5,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160107
 chair:  Rob Clark
 description:  >
   The OpenStack Security Group holds public meetings on IRC.

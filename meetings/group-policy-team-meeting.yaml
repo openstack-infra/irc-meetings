@@ -5,6 +5,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  weekly
+    start_date: 20160107
 chair:  Sumit Naiksatam
 description:  >
   Weekly meeting page for the Group Based Policy Sub-team. The group wiki

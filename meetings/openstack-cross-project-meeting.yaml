@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-cp
     frequency:  weekly
+    start_date: 20160112
 chair: Mike Perez (thingee)
 description:  >
   This meeting is organized on-demand to discuss specific cross-project issues.

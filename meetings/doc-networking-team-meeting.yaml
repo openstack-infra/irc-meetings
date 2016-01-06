@@ -6,10 +6,12 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160107
   - time:       '0000'
     day:        Friday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160115
 chair: Edgar Magana (emagana)
 description:  >
   Documentation team working on the Networking Guide. If you want to

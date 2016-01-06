@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160112
 chair:  Sridhar Ramaswamy
 description:  >
   Tacker team weekly meeting

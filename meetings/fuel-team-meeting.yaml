@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160107
 chair:  Dmitry Borodaenko (angdraug), Andrew Woodward (xarses), Vladimir Kozhukalov (kozhukalov)
 description:  >
   Fuel is an open source deployment and management tool for OpenStack. This

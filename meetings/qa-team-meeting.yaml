@@ -6,10 +6,12 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
+    start_date: 20160107
   - time:       '0900'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160114
 chair:  Matt Treinish
 description:  >
   The OpenStack QA Team holds public weekly meetings. Everyone interested in

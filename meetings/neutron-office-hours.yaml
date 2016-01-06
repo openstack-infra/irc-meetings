@@ -4,6 +4,7 @@ schedule:
     day:        Monday
     irc:        openstack-neutron-release
     frequency:  weekly
+    start_date: 20160111
 chair:  Armando Migliaccio (armax)
 description:  >
   This reserves time for the PTL to discuss any issue related to

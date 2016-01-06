@@ -6,10 +6,12 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
+    start_date: 20160118
   - time:       '1500'
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
+    start_date: 20160112
 chair: Matt Riedemann
 description:  >
   This is the weekly OpenStack stable branch team meeting.

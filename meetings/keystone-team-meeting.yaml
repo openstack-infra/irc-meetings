@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160112
 chair: Steve Martinelli (stevemar)
 description:  >
   If you're interested in identity for OpenStack, we hold public meetings in

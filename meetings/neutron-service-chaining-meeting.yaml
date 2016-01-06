@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160107
 chair: Cathy Hong Zhang (cathy-h-zhang), Louis Fourie (louis-fourie)
 description:  >
   This is the weekly Neutron Service Chaining meeting.

@@ -4,6 +4,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160112
 chair:  Alex Xu (alex_xu)
 description:  >
   This is a weekly meeting to discuss Nova API.

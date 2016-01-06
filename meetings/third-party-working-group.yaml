@@ -6,6 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20160112
 chair:  Ramy Asselin (asselin)
 description: >
   This is the Third Party CI Working Group Meeting.

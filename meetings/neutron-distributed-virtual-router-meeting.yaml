@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160106
 chair:  Brian Haley
 description:  >
   Weekly meeting to discuss Distributed Virtual Router status and issues.

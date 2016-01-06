@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
+    start_date: 20160106
 chair:  Doug Wiegley (dougwig)
 description:  >
   A neutron subteam dealing with stable interfaces, neutron-lib, and

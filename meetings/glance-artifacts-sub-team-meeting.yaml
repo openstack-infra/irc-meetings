@@ -5,6 +5,7 @@ schedule:
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160111
     duration:   30
 chair:  Alexander Tivelkov (ativelkov) and Nikhil Komawar (nikhil_k)
 description:  >

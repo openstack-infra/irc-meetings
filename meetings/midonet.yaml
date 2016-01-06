@@ -5,6 +5,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
+    start_date: 20160112
 chair:  Ryu Ishimoto (ryu_ishimoto)
 meeting_id: midonet
 description:  >

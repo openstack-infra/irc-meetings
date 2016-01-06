@@ -4,6 +4,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160107
 chair: amitgandhinz
 description:  >
   Poppy!
