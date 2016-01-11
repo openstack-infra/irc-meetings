@@ -1,5 +1,5 @@
 project:  User Committee Meeting
-meeting_id: user_committee
+meeting_id: uc
 agenda_url: https://wiki.openstack.org/wiki/Governance/Foundation/UserCommittee
 schedule:
   - time:       '1900'
@@ -7,6 +7,11 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160118
+  - time:       '0300'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20160120
 chair:  Shilla Saebi
 description:  >
   This is the bi-weekly User Committee team meeting.
