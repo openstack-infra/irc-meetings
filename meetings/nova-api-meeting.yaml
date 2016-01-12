@@ -1,4 +1,5 @@
 project:  Nova API Meeting
+agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaAPI
 schedule:
   - time:       '1200'
     day:        Tuesday
