@@ -1,0 +1,19 @@
+project:  Nova Bugs Team Meeting
+meeting_id: nova-bugs
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Nova/BugsTeam
+schedule:
+  - time:       '1000'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+    start_date: 20160209
+  - time:       '1800'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+    start_date: 20160216
+chair:  Markus Zoeller (markus_z)
+description:  >
+  This is the weekly Nova Bugs Team meeting to maintain Nova's bug list.
+  The mission, scope and agenda of this meeting are available at
+  https://wiki.openstack.org/wiki/Meetings/Nova/BugsTeam
