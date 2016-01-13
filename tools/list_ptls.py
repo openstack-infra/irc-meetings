@@ -50,8 +50,7 @@ def main():
         projects = project_data.keys()
 
     nick_text = ' '.join([
-        project_data[project]['ptl'].split('(')[1].split(')')[0]
-        for project in projects
+        project_data[p]['ptl']['irc'] for p in projects
     ])
 
     print(textwrap.fill(nick_text,
