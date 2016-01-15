@@ -6,7 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
-    start_date: 20160106
-chair: Joseph Bajin
+    start_date: 20160113
+chair: JJ Asghar (j^2)
 description:  >
   Bi-Weekly OSOps and Operators Working Group to discuss Monitoring and Tools used to manage clouds.
