@@ -2,8 +2,8 @@ project:  Neutron drivers Meeting
 meeting_id: neutron_drivers
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NeutronDrivers
 schedule:
-  - time:       '1500'
-    day:        Tuesday
+  - time:       '2200'
+    day:        Thursday
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160112
