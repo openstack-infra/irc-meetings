@@ -1,0 +1,11 @@
+project:  OpenStack Salt Team Meeting
+meeting_id: openstack-salt
+schedule:
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160126
+chair: Jay Clark
+description:  >
+  Team meeting on the discussion of bootstrapping and managing OpenStack infrastructure with Salt.
