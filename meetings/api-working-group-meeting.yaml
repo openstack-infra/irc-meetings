@@ -5,13 +5,13 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
-    start_date: 20160114
+    start_date: 20160107
   - time:       '1600'
     day:        Thursday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
-    start_date: 20160107
-chair: TBD
+    start_date: 20160114
+chair: Everett Toews (etoews), Michael McCune (elmiko)
 description:  >
   To propose, discuss, review and advocate for API guidelines for all
   OpenStack Programs to follow.
