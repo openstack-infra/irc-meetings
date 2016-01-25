@@ -2,10 +2,10 @@ project:  Nova Notification Meeting
 meeting_id: nova_notification
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaNotification
 schedule:
-  - time:       '2000'
+  - time:       '1700'
     day:        Tuesday
-    irc:        openstack-meeting-alt
-    frequency:  weekly
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
     start_date: 20160112
 chair:  Balazs Gibizer
 description:  >
