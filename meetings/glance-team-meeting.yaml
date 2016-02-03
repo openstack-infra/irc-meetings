@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160107
-chair:  Nikhil Komawar
+chair:  Flavio Percoco (flaper87)
 description: >
   This is the Glance meeting.
