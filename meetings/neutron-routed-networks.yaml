@@ -1,0 +1,40 @@
+project:  Neutron Routed Networks Meeting
+meeting_id: neutron_routed_networks
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-Routed-Networks
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+    start_date: 20160211
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
+    start_date: 20160216
+
+  - time:       '1400'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+    start_date: 20160223
+
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly # Or byweekly-odd combined with previous
+    start_date: 20160216
+
+  - time:       '1600'
+    day:        Friday
+    irc:        openstack-meeting-2
+    frequency:  weekly
+    start_date: 20160219
+chair:  Carl Baldwin (carl_baldwin)
+description:  >
+  A meeting to coordinate discussion and work items around Neutron's routed
+  networks feature targetted at the Newton release.  This meeting will be
+  removed when no longer needed.
+
+  Meetings, with their notes and logs, will be found under
+  http://eavesdrop.openstack.org/meetings/neutron_routed_networks
