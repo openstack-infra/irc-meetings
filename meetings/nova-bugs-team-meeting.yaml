@@ -1,5 +1,5 @@
 project:  Nova Bugs Team Meeting
-meeting_id: nova-bugs
+meeting_id: nova-bugs-team
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Nova/BugsTeam
 schedule:
   - time:       '1000'
