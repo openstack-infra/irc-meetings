@@ -5,9 +5,9 @@ schedule:
   - time:       '2130'
     day:        Thursday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
     start_date: 20160107
-chair:  Shilla Saebi (ShillaSaebi)
+chair:  Shilla Saebi (ShillaSaebi), Devon Boatwright (DevonBoatwright)
 description:  >
   If you are interested in the OpenStack Operations Guide or the Architecture
   Design Guide, we hold public meetings bi-weekly on IRC.
