@@ -1,0 +1,11 @@
+project:  RPM packaging
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-rpm-packaging
+    frequency:  weekly
+    start_date: 20160224
+chair:  Dirk Mueller (dmllr)
+description:  >
+  The RPM packaging team meets weekly to discuss the current progress, goals for
+  the next release and welcomes new people who are interested in the project.
