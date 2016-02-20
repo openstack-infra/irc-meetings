@@ -4,8 +4,13 @@ schedule:
   - time:       '1630'
     day:        Wednesday
     irc:        openstack-meeting-4
-    frequency:  weekly
-    start_date: 20160106
+    frequency:  biweekly-even
+    start_date: 20160224
+  - time:       '2300'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+    start_date: 20160302
 chair: Steven Dake
 description:  >
   If you're interested in Kolla, join this meeting.
