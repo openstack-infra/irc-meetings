@@ -1,5 +1,6 @@
 project: API Working Group
 meeting_id: api_wg
+agenda_url: https://wiki.openstack.org/wiki/Meetings/API-WG#Agenda
 schedule:
   - time:       '0000'
     day:        Thursday
