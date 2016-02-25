@@ -1,18 +1,13 @@
 project:  Networking Guide Team Meeting
 meeting_id: docnetworkingteam
-agenda_url: https://wiki.openstack.org/wiki/Documentation/NetworkingGuide
+agenda_url: https://etherpad.openstack.org/p/docnetworkingteam-agenda
 schedule:
   - time:       '1600'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-  - time:       '0000'
-    day:        Friday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160115
 chair: Edgar Magana (emagana)
 description:  >
   Documentation team working on the Networking Guide. If you want to
-  contribute to the guide, please attend the US/EU or APAC meeting.
+  contribute to the guide, please attend this meeting.
