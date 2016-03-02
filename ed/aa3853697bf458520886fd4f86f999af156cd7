@@ -1,0 +1,10 @@
+Code-Review+2: Elizabeth K. Joseph <lyz@princessleia.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Mar 2016 09:57:04 +0000
+Reviewed-on: https://review.openstack.org/278180
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
