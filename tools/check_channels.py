@@ -20,10 +20,9 @@ from yaml2ical import meeting
 channels = set(['openstack-meeting', 'openstack-meeting-alt',
                 'openstack-meeting-3', 'openstack-meeting-4',
                 'openstack-meeting-cp',
-                # NOTE(tonyb)These channels are acceptable as they're for
-                # office hours rather than offical meetings and do not require
-                # MeetBot
-                'openstack-community', 'openstack-neutron-release'])
+                # NOTE(tonyb) This channel is acceptable as it's for office
+                # hours rather than offical meetings and does not use MeetBot
+                'openstack-community'])
 
 
 def main():
