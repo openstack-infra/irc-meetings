@@ -1,11 +1,11 @@
 project:  Nova API Meeting
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaAPI
 schedule:
-  - time:       '1200'
-    day:        Tuesday
-    irc:        openstack-meeting
+  - time:       '1300'
+    day:        Wednesday
+    irc:        openstack-meeting-4
     frequency:  weekly
-    start_date: 20160112
+    start_date: 20160316
 chair:  Alex Xu (alex_xu)
 description:  >
   This is a weekly meeting to discuss Nova API.
