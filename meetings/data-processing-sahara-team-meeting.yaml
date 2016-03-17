@@ -5,12 +5,12 @@ schedule:
   - time:       '1800'
     day:        Thursday
     irc:        openstack-meeting-alt
-    frequency:  biweekly-even
+    frequency:  biweekly-odd
     start_date: 20160114
   - time:       '1400'
     day:        Thursday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
     start_date: 20160107
 chair:  Sergey Lukjanov
 description:  >
