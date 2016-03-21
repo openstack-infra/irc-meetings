@@ -2,12 +2,12 @@ project: Horizon Drivers Meeting
 meeting_id: horizondrivers
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HorizonDrivers
 schedule:
-  - time:       '2000'
+  - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160113
-  - time:       '1200'
+  - time:       '2000'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd

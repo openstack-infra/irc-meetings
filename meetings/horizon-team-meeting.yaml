@@ -2,12 +2,12 @@ project:  Horizon Team Meeting
 meeting_id: horizon
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Horizon
 schedule:
-  - time:       '2000'
+  - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
     start_date: 20160106
-  - time:       '1200'
+  - time:       '2000'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
