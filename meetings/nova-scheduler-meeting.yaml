@@ -1,11 +1,12 @@
 project:  Nova Scheduler Team Meeting
 meeting_id: nova_scheduler
+agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaScheduler
 schedule:
   - time:       '1400'
     day:        Monday
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
-chair:  Don Dugger & Sylvain Bauza
+chair:  Ed Leafe & Sylvain Bauza
 description: >
   This is the meeting for all scheduler related efforts in Nova.
