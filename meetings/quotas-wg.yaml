@@ -2,8 +2,8 @@ project:  Cross-project Quotas and Nested Quotas Working Group Virtual Standup
 meeting_id:  quotas-wg
 agenda_url:  https://etherpad.openstack.org/p/quotas-wg-meeting-agenda
 schedule:
-  - time:       '2100'
-    day:        Monday
+  - time:       '1700'
+    day:        Tuesday
     irc:        openstack-meeting-cp
     frequency:  weekly
     start_date: 20160229
