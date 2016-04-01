@@ -1,0 +1,13 @@
+project:  Non-ATC Recognition/User Committee Constituency Working Group Meeting
+meeting_id: nonATCrecognition
+agenda_url: https://wiki.openstack.org/wiki/NonATCRecognition
+schedule:
+  - time:       '1900'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+chair:  Shamail Tahir (shamail) & Maish Saidel-Keesing (maishsk)
+description:  >
+  This is the weekly meeting for the newly formed working group to assist the 
+  User Comittee to decide how to enable official recognition to those who 
+  contribute to OpenStack but do not contribute code to the projects.
