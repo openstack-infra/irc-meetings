@@ -7,7 +7,7 @@ schedule:
     frequency:  weekly
     start_date: 20160208
     duration:   30
-chair:  Mike Fedosin (mfedosin), Nikhil Komawar (nikhil)
+chair:  Mike Fedosin (mfedosin)
 description:  >
   We will discuss, review and plan Artifacts (Glare) development in Glance. Everyone is welcome to attend. 30 min meeting.
 agenda_url: https://etherpad.openstack.org/p/glance-artifacts-sub-team-meeting-agenda
