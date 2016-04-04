@@ -2,17 +2,17 @@ project:  Heat (Orchestration) Team Meeting
 meeting_id: heat
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HeatAgenda
 schedule:
-  - time:       '2000'
+  - time:       '1500'
     day:        Wednesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-4
     frequency:  biweekly-odd
     start_date: 20160106
-  - time:       '0700'
+  - time:       '0800'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-even
     start_date: 20160113
-chair:  Steve Baker (stevebaker)
+chair:  Thomas Herve (therve)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is
   welcome. The blueprints that are used as a basis for the heat project can be
