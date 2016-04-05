@@ -7,12 +7,12 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
     start_date: 20160106
-  - time:       '1200'
+  - time:       '800'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160113
-chair:  David Lyle
+chair:  Rob Cresswell (robcresswell)
 description:  >
   The OpenStack Horizon Team holds public meetings on IRC.
   Everyone is encouraged to attend.
