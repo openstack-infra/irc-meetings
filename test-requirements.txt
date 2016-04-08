@@ -1,1 +1,1 @@
-yaml2ical>=0.5.0
+git+https://git.openstack.org/openstack-infra/yaml2ical@master#egg=yaml2ical
