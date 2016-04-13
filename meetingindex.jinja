@@ -60,6 +60,19 @@ use in your favorite calendaring app:</p>
 in <a href="ircs://irc.freenode.net:6697/{{ schedule.irc }}">#{{ schedule.irc }}</a>
 (IRC <a href="https://webchat.freenode.net/?randomnick=1&channels=%23{{ schedule.irc }}&prompt=1&uio=d4">webclient</a>)
    </div>
+<!-- -->
+{% if schedule.skip_dates %}
+   <div>Upcoming skipped meetings:<br>
+{% for skip in schedule.skip_dates %}
+   <div>
+       &nbsp;&nbsp;
+       <span class="glyphicon glyphicon-remove-circle"></span>&nbsp;
+       {{ skip.date.strftime('%Y-%m-%d') }} {{skip.reason}}
+   </div>
+{% endfor %}
+   </div>
+{% endif %}
+<!-- -->
 {% endfor %}
    <div><span class="glyphicon glyphicon-calendar"></span>&nbsp;
 <a href="calendars/{{ meeting.outfile }}">ICS file</a> for this specific
