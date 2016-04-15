@@ -3,10 +3,10 @@ meeting_id: service_chaining
 agenda_url: https://wiki.openstack.org/wiki/Meetings/ServiceFunctionChainingMeeting
 schedule:
   - time:       '1700'
-    day:        Thursday
+    day:        Friday
     irc:        openstack-meeting-4
     frequency:  weekly
-    start_date: 20160107
+    start_date: 20160418
 chair: Cathy Hong Zhang (cathy-h-zhang), Louis Fourie (louis-fourie)
 description:  >
   This is the weekly Neutron Service Chaining meeting.
