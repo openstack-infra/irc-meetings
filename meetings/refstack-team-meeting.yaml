@@ -3,7 +3,7 @@ meeting_id:     refstack
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Refstack
 schedule:
   - time:       '1900'
-    day:        Monday
+    day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
