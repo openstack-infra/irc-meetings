@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160111
-chair: Adam Gandelman (adam_g)
+chair: Ryan Petrello (ryanpetrello)
 description:  >
   Weekly Astara Team Meeting.
