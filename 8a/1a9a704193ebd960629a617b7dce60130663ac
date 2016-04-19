@@ -1,0 +1,9 @@
+Code-Review+1: John L. Villalovos <openstack.org@sodarock.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 19 Apr 2016 05:08:54 +0000
+Reviewed-on: https://review.openstack.org/307002
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
