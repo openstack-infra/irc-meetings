@@ -5,8 +5,13 @@ schedule:
   - time:       '1900'
     day:        Thursday
     irc:        openstack-meeting
-    frequency:  weekly
-    start_date: 20160107
+    frequency:  biweekly-odd
+    start_date: 20160420
+  - time:       '1300'
+    day:        Thursday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-even
+    start_date: 20160512
 chair:  Dean Troyer (dtroyer)
 description:  >
   The OpenStackClient Team holds public weekly meetings. Everyone who uses an
