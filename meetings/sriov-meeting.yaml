@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  biweekly-even
     start_date: 20160112
-chair:  Robert Li, Nikola Dipanov
+chair: Moshe Levi (moshele)
 description:  >
    Discuss issues with the ongoing work to enable and improve SR-IOV support in
    Neutron and Nova.
