@@ -5,7 +5,7 @@ schedule:
   - time:       '1300'
     day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  biweekly-even
+    frequency:  weekly
     start_date: 20160112
 chair: Moshe Levi (moshele)
 description:  >
