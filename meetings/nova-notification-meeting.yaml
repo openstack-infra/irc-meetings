@@ -4,8 +4,8 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/NovaNotification
 schedule:
   - time:       '1700'
     day:        Tuesday
-    irc:        openstack-meeting
-    frequency:  biweekly-odd
+    irc:        openstack-meeting-4
+    frequency:  weekly
     start_date: 20160112
 chair:  Balazs Gibizer
 description:  >
