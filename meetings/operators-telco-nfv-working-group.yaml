@@ -1,0 +1,12 @@
+project:  OpenStack Operators Telco and NFV Working Group
+meeting_id: operators_telco_nfv
+agenda_url: https://etherpad.openstack.org/p/ops-telco-nfv-meeting-agenda
+schedule:
+  - time:       '1900'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-even
+    start_date: 20160525
+chair: Curtis Collicutt (serverascode)
+description:  >
+  Meeting for Operators to discuss managing NFV deployments.
