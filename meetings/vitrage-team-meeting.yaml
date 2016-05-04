@@ -2,9 +2,9 @@ project:  Vitrage Team Meeting
 meeting_id: vitrage
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Vitrage
 schedule:
-  - time:       '0900'
+  - time:       '0800'
     day:        Wednesday
-    irc:        openstack-meeting-3
+    irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160106
 chair:  Ifat Afek
