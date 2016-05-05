@@ -2,11 +2,6 @@ project: API Working Group
 meeting_id: api_wg
 agenda_url: https://wiki.openstack.org/wiki/Meetings/API-WG#Agenda
 schedule:
-  - time:       '0000'
-    day:        Thursday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-odd
-    start_date: 20160107
   - time:       '1600'
     day:        Thursday
     irc:        openstack-meeting-3
