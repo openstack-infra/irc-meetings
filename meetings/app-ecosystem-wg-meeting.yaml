@@ -1,0 +1,15 @@
+project: Application Ecosystem Working Group
+meeting_id: app_ecosystem_wg
+agenda_url: https://wiki.openstack.org/wiki/Application_Ecosystem_Working_Group
+schedule:
+  - time:       '2200'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+    start_date: 20160516
+chair:  Christopher Aedo (docaedo)
+description:  >
+  The Application Ecosystem Working Group is dedicated to creating an
+  ecosystem where a diverse array of applications built for OpenStack
+  can thrive. If you would like to help us build up this ecosystem please
+  join!
