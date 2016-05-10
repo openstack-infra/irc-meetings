@@ -5,8 +5,13 @@ schedule:
   - time:       '1400'
     day:        Wednesday
     irc:        openstack-meeting-4
-    frequency:  weekly
-    start_date: 20160106
+    frequency:  biweekly-even
+    start_date: 20160518
+  - time:       '0900'
+    day:        Wednesday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+    start_date: 20160525
 chair:  Antoine Cabot (acabot)
 description:  >
   Watcher provides a flexible and scalable resource
