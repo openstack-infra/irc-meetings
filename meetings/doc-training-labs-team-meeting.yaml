@@ -2,9 +2,9 @@ project:  Training Labs Team Meeting
 meeting_id: training_labs
 agenda_url: https://wiki.openstack.org/wiki/Meetings/training-labs
 schedule:
-  - time:       '1030'
+  - time:       '1700'
     day:        Wednesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160106
 chair: Pranav Salunke (dguitarbite)
