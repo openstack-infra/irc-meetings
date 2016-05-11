@@ -2,12 +2,12 @@ project:  Documentation Install Team Meeting
 meeting_id: docinstallteam
 agenda_url: https://etherpad.openstack.org/p/docinstallteam-agenda
 schedule:
-  - time:       '1600'
+  - time:       '0600'
     day:        Tuesday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
-    start_date: 20160112
-chair: Christian Berendt (berendt)
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20160517
+chair: Lana Brindley (loquacities)
 description:  >
   Documentation team working on the Installation Guide. If you want to
   contribute to the guide, please attend this meeting.
