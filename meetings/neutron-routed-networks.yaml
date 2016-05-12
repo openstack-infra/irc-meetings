@@ -1,6 +1,6 @@
 project:  Neutron Routed Networks Meeting
 meeting_id: neutron_routed_networks
-agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-Routed-Networks
+agenda_url: https://etherpad.openstack.org/p/routed-provider-networks-notes
 schedule:
   - time:       '1400'
     day:        Tuesday
