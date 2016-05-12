@@ -1,0 +1,10 @@
+Code-Review+1: Eva Balycheva <ubershy@gmail.com>
+Code-Review+1: Flavio Percoco <fpercoco@redhat.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 12 May 2016 04:12:04 +0000
+Reviewed-on: https://review.openstack.org/314848
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
