@@ -5,7 +5,7 @@ schedule:
   - time:       '1600'
     day:        Thursday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
     start_date: 20160107
 chair: Edgar Magana (emagana)
 description:  >
