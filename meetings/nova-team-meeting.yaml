@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-chair: Mikal Still (mikal), John Garbutt (johnthetubaguy)
+chair: Matt Riedemann (mriedem)
 description:  >
   This is the weekly Nova team meeting.
