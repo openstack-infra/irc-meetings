@@ -1,0 +1,12 @@
+project:  Neutron flow classifer meeting
+meeting_id: flowclassifer
+agenda_url: https://wiki.openstack.org/wiki/Meetings/neutron-flow-classifier
+schedule:
+  - time:       '1700'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160517
+chair: Cathy Zhang (Cathy)
+description:  >
+  IRC chat meeting for Neutron flow classifier
