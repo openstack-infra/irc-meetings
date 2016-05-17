@@ -16,20 +16,6 @@ schedule:
       reason: Christmas
     - skip_date: 20170102
       reason: New Year's
-  - time:       '0800'
-    day:        Tuesday
-    irc:        openstack-meeting
-    frequency:  weekly
-    start_date: 20160112
-    skip_dates:
-    - skip_date: 20160426
-      reason: Austin Summit
-    - skip_date: 20161025
-      reason: Barcelona Summit
-    - skip_date: 20161227
-      reason: Christmas
-    - skip_date: 20170103
-      reason: New Year's
 chair:  anteaya
 description: >
   The meeting for operators of third-party CI systems.
