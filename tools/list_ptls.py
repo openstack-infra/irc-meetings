@@ -22,6 +22,7 @@ import yaml
 
 PROJECTS_LIST = "http://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"  # noqa
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -57,7 +58,7 @@ def main():
                         initial_indent=args.msg + ' ',
                         subsequent_indent=args.msg + ' ',
                         width=80,
-                    ))
+                        ))
 
 
 if __name__ == '__main__':
