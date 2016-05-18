@@ -1,4 +1,5 @@
 project:  Nova Hyper-V Team Meeting
+meeting_id: hyper-v
 schedule:
   - time:       '1300'
     day:        Wednesday
