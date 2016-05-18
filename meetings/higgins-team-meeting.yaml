@@ -1,0 +1,11 @@
+project:  Higgins Team Meeting
+meeting_id: higgins
+schedule:
+  - time:       '0300'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160524
+chair:  hongbin
+description:  >
+  The Higgins project team holds a weekly team meeting.
