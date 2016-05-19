@@ -69,6 +69,9 @@ Chair (to contact for more information): {{ meeting.chair }}</div>
 {% if meeting.extras.meeting_id %}
    <div><span class="glyphicon glyphicon-fast-backward"></span>&nbsp;
 Logs from <a href="http://eavesdrop.openstack.org/meetings/{{meeting.extras.meeting_id|replace('-', '_')}}/">past meetings</a></div>
+   <div><span class="glyphicon glyphicon-tags"></span>&nbsp;
+       Start this meeting using: <tt>#startmeeting {{meeting.extras.meeting_id|replace('-', '_')}}</tt>
+   </div>
 {% endif %}
 {% if meeting.extras.agenda_url %}
    <div><span class="glyphicon glyphicon-list-alt"></span>&nbsp;
