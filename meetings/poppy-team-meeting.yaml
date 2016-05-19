@@ -6,5 +6,7 @@ schedule:
     frequency:  weekly
     start_date: 20160107
 chair: amitgandhinz
+meeting_id: poppy
 description:  >
-  Poppy!
+  Poppy! An OpenStack project designed to make CDN services easier to consume
+  with a generic vendor-neutral API.
