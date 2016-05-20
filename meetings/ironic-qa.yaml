@@ -5,7 +5,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
-chair:  John L. Villalovos
+chair:  John L. Villalovos (jlvillal)
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic-QA
 meeting_id: ironic_qa
 description:  >
