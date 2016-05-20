@@ -34,7 +34,7 @@ use in your favorite calendaring app:</p>
  <h2>Meeting details</h2>
   <small>
   <div class="container-fluid">
-  {% for column in batch_meetings(meetings, 4)|batch(4) %}
+  {% for column in meetings|batch(4) %}
    <div class="row">
    {% for meeting in column %}
     <div class="col-md-3 col-xs-6">
