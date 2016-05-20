@@ -1,0 +1,16 @@
+project: Cinder, Nova
+meeting_id: cinder_nova_api_changes
+agenda_url: https://etherpad.openstack.org/p/cinder-nova-api-changes
+schedule:
+  - time:       '1700'
+    day:        Monday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+    start_date: 20160517
+chair: Ildiko Vancsa (ildikov)
+description:  >
+  In order to provide support for the volume multi-attach feature
+  the interactions between Cinder and Nova has to be revised and
+  changed where shortcomings are identified. This meeting series is
+  to keep track of the progress and discuss issues we identify on
+  the way. This meeting series is planned to be temporary.
