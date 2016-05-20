@@ -7,6 +7,20 @@
 <style>
 h2,h3 {margin-top: 30px;}
 .masterheader {position:relative;padding:15px 30px;color:white;background-color:#760000;}
+.meeting_index ul { height: auto; width:100%; }
+.meeting_index ul li { display: block; }
+@media(min-width: 480px){
+  .meeting_index ul{-webkit-column-count:1;-moz-column-count:1;column-count:1;}
+}
+@media(min-width: 768px){
+  .meeting_index ul{-webkit-column-count:2;-moz-column-count:2;column-count:2;}
+}
+@media(min-width: 992px){
+  .meeting_index ul{-webkit-column-count:3;-moz-column-count:3;column-count:3;}
+}
+@media(min-width: 1150px){
+  .meeting_index ul{-webkit-column-count:4;-moz-column-count:4;column-count:4;}
+}
 </style>
 <title>OpenStack IRC meetings</title>
 </head>
@@ -33,16 +47,12 @@ use in your favorite calendaring app:</p>
 </div>
  <h2>Meeting details</h2>
   <small>
-  <div class="container-fluid">
-  {% for column in batch_meetings(meetings, 4)|batch(4) %}
-   <div class="row">
-   {% for meeting in column %}
-    <div class="col-md-3 col-xs-6">
-     <a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a>
-    </div>
-   {% endfor %}
-   </div>
+  <div class="meeting_index">
+  <ul>
+  {% for meeting in meetings|sort(attribute='project') %}
+    <li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
   {% endfor %}
+  </ul>
   </div>
   </small>
 
