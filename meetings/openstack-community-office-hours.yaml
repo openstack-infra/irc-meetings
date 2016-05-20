@@ -11,6 +11,7 @@ schedule:
     frequency:  weekly
     start_date: 20160108
 chair:  Tom Fifield (fifieldt), Stefano Maffulli (reed)
+meeting_id: openstack_community
 description:  >
   The Community team offers two spots weekly to welcome new people, offer help,
   listen to users and developers for suggestions, ideas and anything going around
