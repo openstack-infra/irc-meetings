@@ -4,7 +4,7 @@ schedule:
   - time:       '0700'
     day:        Tuesday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-even
     start_date: 20160112
 chair:  YAMAMOTO Takashi (yamamoto), Ryu Ishimoto (ryu_ishimoto)
 meeting_id: networking_midonet
