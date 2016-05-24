@@ -1,0 +1,12 @@
+project:  Craton Team Meeting
+meeting_id: craton
+agenda_url: https://wiki.openstack.org/wiki/Meetings/craton
+schedule:
+  - time:       '1500'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+chair:  Jim Baker (jimbaker)
+description:  >
+  This is the weekly Craton team meeting working on the
+  fleet management project
