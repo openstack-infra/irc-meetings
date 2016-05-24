@@ -2,11 +2,11 @@ project:  Nova Bugs Team Meeting
 meeting_id: nova-bugs-team
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Nova/BugsTeam
 schedule:
-  - time:       '1000'
+  - time:       '0800'
     day:        Tuesday
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
-    start_date: 20160209
+    start_date: 20160607
   - time:       '1800'
     day:        Tuesday
     irc:        openstack-meeting-4
