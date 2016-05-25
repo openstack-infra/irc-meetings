@@ -1,14 +1,11 @@
 project:  Solum Team Meeting
 meeting_id: solum_team_meeting
 schedule:
-  - time:       '1700'
-    day:        Tuesday
-    irc:        openstack-meeting-3
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160112
 chair:  Devdatta Kulkarni (devkulkarni)
 description:  >
   If you're interested in Solum, we hold public meetings weekly on IRC.
-  Because the Solum team is globally distributed, we use different meeting
-  times on alternating weeks to allow for attendance from those on the
-  opposite side of the globe.
