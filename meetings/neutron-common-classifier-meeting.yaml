@@ -1,0 +1,12 @@
+project:  Neutron Common Classifier meeting
+meeting_id: commonclassifier
+agenda_url: https://wiki.openstack.org/wiki/Neutron/CommonFlowClassifier
+schedule:
+  - time:       '1700'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20160517
+chair: Cathy Zhang (Cathy)
+description:  >
+  IRC chat meeting for Neutron Common Classifier
