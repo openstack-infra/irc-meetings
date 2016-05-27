@@ -1,0 +1,9 @@
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 27 May 2016 22:03:55 +0000
+Reviewed-on: https://review.openstack.org/322333
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
