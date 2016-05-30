@@ -2,12 +2,17 @@ project:  Smaug Project Meeting
 meeting_id: smaug
 agenda_url: https://wiki.openstack.org/wiki/Meetings/smaug
 schedule:
-  - time:       '1400'
+  - time:       '1500'
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-even
-    start_date: 20160112
-chair:  gampel
+    start_date: 20160507
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20160507
+chair:  saggi
 description:  >
-  This biweekly meeting is about discussing smaug implementation
+  This weekly meeting is about discussing smaug implementation
   progress and future feature design and requirements.
