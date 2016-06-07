@@ -1,0 +1,13 @@
+project:  Bilean Team Meeting
+meeting_id: bilean
+agenda_url: https://wiki.openstack.org/wiki/Meetings/BileanAgenda
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+    start_date: 20160613
+chair: lvdongbing (lvdongbing), Li Yingjun (yingjun)
+description:  >
+  The Bilean project team holds a biweekly team meeting. If you want to
+  contribute to Bilean, please attend this meeting.
