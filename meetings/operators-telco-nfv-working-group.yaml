@@ -2,7 +2,7 @@ project:  OpenStack Operators Telco and NFV Working Group
 meeting_id: operators_telco_nfv
 agenda_url: https://etherpad.openstack.org/p/ops-telco-nfv-meeting-agenda
 schedule:
-  - time:       '1900'
+  - time:       '1500'
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  biweekly-even
