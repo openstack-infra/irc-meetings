@@ -1,0 +1,14 @@
+project:  JavaScript SDK & Tooling Meeting
+meeting_id: javascript
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160622
+chair: Michael Krotscheck (krotscheck)
+description:  >
+  This is the weekly meeting for OpenStack JavaScript Tooling and SDK projects.
+  Here we engage in design discussions, notify each other of new initiatives,
+  collaborate on code reviews, and try to advance the state of JavaScript for
+  OpenStack.
