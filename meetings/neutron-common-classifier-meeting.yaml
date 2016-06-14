@@ -1,5 +1,5 @@
 project:  Neutron Common Classifier meeting
-meeting_id: commonclassifier
+meeting_id: network_common_flow_classifier
 agenda_url: https://wiki.openstack.org/wiki/Neutron/CommonFlowClassifier
 schedule:
   - time:       '1700'
