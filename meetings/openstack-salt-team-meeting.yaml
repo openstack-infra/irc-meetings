@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160329
-chair:  Jay Clark (jasondotstar)
+chair:  Ales Komarek (newt)
 description:  >
-  Team meeting on the discussion of bootstrapping and managing OpenStack infrastructure with Salt.
+  Team meeting on the discussion of bootstrapping and managing OpenStack infrastructures with SaltStack.
