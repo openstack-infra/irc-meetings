@@ -84,4 +84,3 @@ sample.yaml
 
 If creating a new YAML meeting file please consider using ``sample.yaml`` and
 editing as appropriate.
-
