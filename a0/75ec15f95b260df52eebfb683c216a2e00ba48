@@ -1,0 +1,11 @@
+Code-Review+1: Bruno Morel <bmorel@internap.com>
+Code-Review+1: Michael Krotscheck <krotscheck@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Craig Sterrett <craig.sterrett@intel.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Jun 2016 06:01:54 +0000
+Reviewed-on: https://review.openstack.org/331863
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
