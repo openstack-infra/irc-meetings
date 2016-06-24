@@ -5,9 +5,9 @@ schedule:
   - time:       '2200'
     day:        Monday
     irc:        openstack-meeting
-    frequency:  biweekly-even
+    frequency:  biweekly-odd
     start_date: 20160516
-chair:  John Callaghan (johncallaghan), Craig Sterrett (CraigSterrett), Christopher Aedo (docaedo)
+chair:  Craig Sterrett (CraigSterrett), Michael Krotscheck (krotscheck), Christopher Aedo (docaedo)
 description:  >
   The Application Ecosystem Working Group is dedicated to creating an
   ecosystem where a diverse array of applications built for OpenStack
