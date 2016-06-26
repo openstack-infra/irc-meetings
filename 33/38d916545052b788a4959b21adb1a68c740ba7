@@ -1,0 +1,10 @@
+Code-Review+1: Martin André <m.andre@redhat.com>
+Code-Review+1: Steven Dake <stdake@cisco.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 26 Jun 2016 23:31:59 +0000
+Reviewed-on: https://review.openstack.org/332813
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
