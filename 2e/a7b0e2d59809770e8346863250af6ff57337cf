@@ -1,0 +1,9 @@
+Code-Review+1: Stig Telfer <stig.openstack@telfer.org>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 04 Jul 2016 07:39:30 +0000
+Reviewed-on: https://review.openstack.org/336914
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
