@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160106
-chair:  Michael Basnight / Vipul Sabhaya / Nikhil Manchanda / Tim Simpson
+chair:  Amrith Kumar / Mariam John / Peter Stachowski / Craig Vyvial / Nikhil Manchanda
 description:  >
   Want to add an agenda item? Please append your item to the upcoming weekly
   agenda while keeping in mind guidelines for writing clear agenda items.
