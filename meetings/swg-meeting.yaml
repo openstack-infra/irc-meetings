@@ -1,0 +1,17 @@
+project:  OpenStack Stewardship Working Group Meeting
+meeting_id: swg
+agenda_url: https://wiki.openstack.org/wiki/Meetings/StewardshipWorkingGroupMeeting
+schedule:
+  - time:       '1800'
+    day:        Thursday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+    start_date: 20160714
+chair:  Colette Alexander (gothicmindfood) / Amrith Kumar (amrith) / Doug Hellmann (dhellmann) / Thierry Carrez (ttx)
+description:  >
+  Want to add an agenda item? Please append your item to the upcoming weekly
+  agenda while keeping in mind guidelines for writing clear agenda items.
+  
+  For more details about the SWG please see:
+  
+  https://review.openstack.org/#/c/337895/
