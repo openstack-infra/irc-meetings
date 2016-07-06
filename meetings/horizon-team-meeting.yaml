@@ -5,13 +5,8 @@ schedule:
   - time:       '2000'
     day:        Wednesday
     irc:        openstack-meeting-3
-    frequency:  biweekly-odd
+    frequency:  weekly
     start_date: 20160106
-  - time:       '800'
-    day:        Wednesday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
-    start_date: 20160113
 chair:  Rob Cresswell (robcresswell)
 description:  >
   The OpenStack Horizon Team holds public meetings on IRC.
