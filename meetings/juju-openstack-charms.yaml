@@ -1,0 +1,13 @@
+project: Juju OpenStack Charms
+meeting_id: charms
+agenda_url: https://etherpad.openstack.org/p/openstack-charms-weekly-meeting
+schedule:
+  - time:       '1700'
+    day:        Wednesday
+    irc:        openstack-meeting-2
+    frequency:  weekly
+    start_date: 20160713
+chair: Liam young (IRC gnuoy), Alex Kavanagh (IRC tinwood), David Ames (IRC thedac), James Page (IRC jamespage), Carlos Gonzales (IRC cargonza)
+description:  >
+  This is the weekly Juju OpenStack charms meeting. Everyone is welcome to join
+  and add itmes to the agenda.
