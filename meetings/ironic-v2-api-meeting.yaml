@@ -1,0 +1,12 @@
+project:  Ironic v2 API Workgroup Meeting
+schedule:
+  - time:       '1800'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+    start_date: 20160714
+chair:  Jim Rollenhagen (jroll)
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic_v2_API
+meeting_id: ironic-v2-api
+description:  >
+  Meeting of the workgroup for planning the v2 API for the Ironic project.
