@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
-chair:  Davanum Srinivas
+chair:  Joshua Harlow (harlowja)
 description:  >
   Oslo will hold IRC meetings on demand at the time scheduled below.
   If there's an Oslo topic you think warrants a project meeting, please add it
