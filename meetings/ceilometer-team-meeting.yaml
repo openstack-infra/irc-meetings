@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160107
-chair:  gordc (Gordon Chung)
+chair:  Gordon Chung (gordc)
 description:  >
   Everyone is welcome. The blueprints that are used as a basis for the
   ceilometer project can be found at

@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-even
     start_date: 20160113
-chair:  Bob Ball
+chair:  Bob Ball (BobBall)
 description:  >
   Meeting to discuss the status of Blueprints and bugs relating to the XenAPI
   layer.
