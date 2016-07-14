@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160106
-chair:  Amrith Kumar / Mariam John / Peter Stachowski / Craig Vyvial / Nikhil Manchanda
+chair:  Amrith Kumar (amrith), Mariam John(johnma), Peter Stachowski (peterstac), Craig Vyvial (cp16net), Nikhil Manchanda (slicknik)
 description:  >
   Want to add an agenda item? Please append your item to the upcoming weekly
   agenda while keeping in mind guidelines for writing clear agenda items.
