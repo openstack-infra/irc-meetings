@@ -16,6 +16,6 @@ schedule:
       reason: Christmas
     - skip_date: 20170102
       reason: New Year's
-chair:  anteaya
+chair: Anita Kuno (anteaya)
 description: >
   The meeting for operators of third-party CI systems.

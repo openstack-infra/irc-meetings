@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160111
-chair:  Renat Akhmerov
+chair:  Renat Akhmerov (rakhmerov)
 description:  >
   Mistral has weekly IRC meetings.

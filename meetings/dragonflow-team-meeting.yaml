@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160111
-chair:  gsagie
+chair:  Gal Sagie (gsagie)
 description:  >
   This weekly meeting is about discussing Dragonflow implementation
   progress and future feature design and requirements.

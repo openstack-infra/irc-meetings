@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
     start_date: 20160111
-chair:  apuimedo
+chair:  Antoni Segura Puimedon (apuimedo)
 description:  >
   Kuryr is a Docker network plugin that uses Neutron to provide networking
   services to Docker containers. It is available standalone and in a

@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-even
     start_date: 20160114
-chair:  Matt Treinish
+chair:  Matt Treinish (mtreinish)
 description:  >
   The OpenStack QA Team holds public weekly meetings. Everyone interested in
   testing, quality assurance, performance engineering, etc, should attend!

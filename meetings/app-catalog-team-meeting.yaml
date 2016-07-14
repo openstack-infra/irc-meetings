@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160107
-chair:  docaedo
+chair:  Christopher Aedo (docaedo)
 description:  >
   The OpenStack Community App Catalog is a collection of ready-to-use
   applications, Heat templates and machine images that you can immediately

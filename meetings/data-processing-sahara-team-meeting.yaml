@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160107
-chair:  Sergey Lukjanov
+chair:  Sergey Lukjanov (SergeyLukjanov)
 description:  >
   The Sahara project team holds a weekly team meeting.
