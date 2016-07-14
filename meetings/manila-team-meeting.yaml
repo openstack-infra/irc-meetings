@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160107
-chair:  bswartz
+chair:  Ben Swartzlander (bswartz)
 description:  >
   If you're interested in management of shared filesystems for OpenStack,
   we have a weekly meeting on IRC. Please feel free to add items to the agenda.

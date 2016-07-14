@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160107
-chair: Carol Barrett (barrett1), Egle Sigler (eglute), Kavit Munshi (kavit), Roland Chan (rolandchan).
+chair: Carol Barrett (barrett1), Egle Sigler (eglute), Kavit Munshi (kavit), Roland Chan (rolandchan)
 description:  >
   This work group will work to ensure that the OpenStack community is an
   inclusive and welcoming place for all people to collaborate to drive

@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
-chair:  SotK or Zara_
+chair:  Adam Coldrick (SotK), Zara Zaimeche (Zara)
 description:  >
   This is the weekly StoryBoard team meeting.

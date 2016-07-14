@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160106
-chair:  Kiall Mac Innes
+chair:  Kiall Mac Innes (kiall)
 description:  >
   The DNSaaS team holds a weekly IRC meeting. Meeting logs are available at
   http://eavesdrop.openstack.org/meetings/designate/

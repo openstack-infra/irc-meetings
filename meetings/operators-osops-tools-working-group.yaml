@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
     start_date: 20160106
-chair: Joseph Bajin
+chair: Joseph Bajin (RaginBajin)
 description:  >
   Bi-Weekly OSOps and Operators Working Group to discuss Monitoring and Tools used to manage clouds.

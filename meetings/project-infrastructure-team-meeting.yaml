@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160112
-chair:  Jeremy Stanley
+chair:  Jeremy Stanley (fungi)
 description:  >
   The OpenStack Project Infrastructure Team holds public weekly team meetings.
   Everyone interested in infrastructure and process surrounding automated

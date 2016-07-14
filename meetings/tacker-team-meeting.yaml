@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160510
-chair:  Sridhar Ramaswamy
+chair:  Sridhar Ramaswamy (sridhar_ram)
 description:  >
   Tacker team weekly meeting
   <https://wiki.openstack.org/wiki/Tacker>

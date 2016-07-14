@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160711
-chair: Liam young (IRC gnuoy), Alex Kavanagh (IRC tinwood), David Ames (IRC thedac), James Page (IRC jamespage), Carlos Gonzales (IRC cargonza)
+chair: Liam young (gnuoy), Alex Kavanagh (tinwood), David Ames (thedac), James Page (jamespage), Carlos Gonzales (cargonza)
 description:  >
   This is the weekly OpenStack charms meeting. Everyone is welcome to join
   and add items to the agenda.
