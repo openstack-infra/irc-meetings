@@ -5,7 +5,7 @@ schedule:
   - time:       '1700'
     day:        Tuesday
     irc:        openstack-meeting-4
-    frequency:  weekly
+    frequency:  biweekly-even
     start_date: 20160112
 chair:  Balazs Gibizer
 description:  >
