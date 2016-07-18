@@ -1,0 +1,11 @@
+project:  Diskimage Builder Team Meeting
+meeting_id: diskimage-builder
+agenda_url: https://wiki.openstack.org/w/index.php?title=Meetings/Diskimage-Builder
+schedule:
+  - time:       '2000'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+chair:  Greg Haynes (greghaynes) & Stephanie Miller (cinerama)
+description:  >
+  This is the weekly diskimage-builder team meeting.
