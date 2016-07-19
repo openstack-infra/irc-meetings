@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
-chair:  jraim
+chair:  Jarret Raim (jraim)
 description:  >
   The Barbican project team holds a weekly team meeting on IRC.
   The blueprints that are used as a basis for the Barbican project can be
