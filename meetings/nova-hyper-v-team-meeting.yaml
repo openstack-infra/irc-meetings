@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160106
-chair:  Peter Pouliot
+chair:  Claudiu Belu (claudiub)
 description:  >
   This is the Hyper-V meeting.
