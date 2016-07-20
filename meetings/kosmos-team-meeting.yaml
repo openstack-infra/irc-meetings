@@ -6,7 +6,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160112
-chair:  Graham Hayes
+chair:  Graham Hayes (mugsie)
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Kosmos
 description:  >
   The Kosmos team holds a weekly IRC meeting. Meeting logs are available at

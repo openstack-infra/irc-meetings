@@ -9,7 +9,7 @@ schedule:
     # that.
     frequency:  biweekly-odd
     start_date: 20160107
-chair:  Tom Fifield
+chair:  Tom Fifield (fifieldt)
 description:  >
   This is the Monthly Openstack Tags team meeting.
   The Ops-tag Team purpose is to define tags for Operators, allowing them to

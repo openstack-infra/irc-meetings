@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160112
-chair: EmilienM
+chair: Emilien Macchi (EmilienM)
 description:  >
   Team meeting for discussing Puppet OpenStack modules that help to bring
   scalable and reliable IT automation to OpenStack cloud deployments.

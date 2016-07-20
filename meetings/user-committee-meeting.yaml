@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-even
     start_date: 20160210
-chair:  Shilla Saebi
+chair:  Shilla Saebi (ShillaSaebi)
 description:  >
   This is the monthly User Committee team meeting for multiple regions.
   The user committee's role is to represent the needs of the diverse range of OpenStack users.

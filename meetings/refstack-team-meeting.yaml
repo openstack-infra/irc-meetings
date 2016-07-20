@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160510
-chair: Catherine Diep
+chair: Catherine Diep (catherineD)
 description:  >
   Weekly meeting for the refstack development team.

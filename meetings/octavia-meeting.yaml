@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160106
-chair:  sbalukoff
+chair:  Stephen Balukoff (sbalukoff)
 description:  >
   Octavia meeting.

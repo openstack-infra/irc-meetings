@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160112
-chair:  adrian_otto
+chair:  Adrian Otto (adrian_otto)
 description:  >
   The Containers project team holds a weekly team meeting.

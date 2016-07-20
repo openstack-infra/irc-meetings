@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160516
-chair:  Fei Long Wang(flwang) / Flavio Percoco(flaper87)
+chair:  Fei Long Wang (flwang), Flavio Percoco (flaper87)
 description:  >
   The Zaqar project team holds a weekly team meeting.

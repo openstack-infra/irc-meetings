@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
     start_date: 20160108
-chair:  Piet Kruithof
+chair:  Piet Kruithof (Piet)
 description:  >
   This is the biweekly OpenStack UX working group meeting to discuss all things UX, which include design efforts, design reviews, user research, usability studies, and other UX-related activities.  Everyone is welcome to attend.

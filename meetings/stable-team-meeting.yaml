@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160112
-chair: Matt Riedemann
+chair: Matt Riedemann (mriedem)
 description:  >
   This is the weekly OpenStack stable branch team meeting.

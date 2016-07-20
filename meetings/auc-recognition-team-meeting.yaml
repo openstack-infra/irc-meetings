@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160609
-chair:  Shamail Tahir (shamail) and Maish Saidel-Keesing (maishsk)
+chair:  Shamail Tahir (shamail), Maish Saidel-Keesing (maishsk)
 description:  >
   The AUC Recognition WG meets weekly to discuss topics related
   to defining the user committee constituency.  This definition will

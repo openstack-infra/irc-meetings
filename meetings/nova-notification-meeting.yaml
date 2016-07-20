@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160112
-chair:  Balazs Gibizer
+chair:  Balazs Gibizer (gibi)
 description:  >
   This is the weekly meeting of the Nova notification subteam
