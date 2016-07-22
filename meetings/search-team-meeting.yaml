@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160107
-chair:  Travis Tripp (TravT), Nikhil Komawar (nikhil_k)
+chair:  Travis Tripp (TravT)
 description: >
   Searchlight has a mission to provide advanced and scalable indexing and
   search across multi-tenant cloud resources. Everyone is welcome to attend
