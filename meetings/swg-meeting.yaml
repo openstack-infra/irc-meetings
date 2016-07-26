@@ -7,7 +7,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-3
     frequency:  biweekly-odd
-    start_date: 20160728
+    start_date: 20160726
 chair:  Colette Alexander (gothicmindfood), Amrith Kumar (amrith), Doug Hellmann (dhellmann), Thierry Carrez (ttx)
 description:  >
     The Stewardship Working Group (SWG) will be responsible for producing actionable
