@@ -1,0 +1,9 @@
+Code-Review+1: Bogdan Dobrelya <bdobrelia@mirantis.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 26 Jul 2016 21:11:32 +0000
+Reviewed-on: https://review.openstack.org/346584
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
