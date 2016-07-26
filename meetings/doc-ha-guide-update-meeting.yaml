@@ -2,10 +2,10 @@ project:  Documentation HA Guide update Meeting
 meeting_id: ha_guide
 agenda_url: https://wiki.openstack.org/wiki/Documentation/HA_Guide_Update
 schedule:
-  - time:       '1700'
+  - time:       '2300'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
-chair: Bogdan Dobrelya (bogdando)
+chair: Andrew Beekhof (beekhof)
 description:  >
   HA Guide update meeting.
