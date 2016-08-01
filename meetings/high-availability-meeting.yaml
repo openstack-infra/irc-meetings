@@ -2,7 +2,7 @@ project:  High Availability Meeting
 meeting_id: ha
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HATeamMeeting
 schedule:
-  - time:       '0800'
+  - time:       '0900'
     day:        Monday
     irc:        openstack-meeting
     frequency:  weekly
