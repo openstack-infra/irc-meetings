@@ -24,7 +24,7 @@ h2,h3 {margin-top: 30px;}
 </style>
 <title>OpenStack IRC meetings</title>
 </head>
-<body>
+<body onload="startTime();">
 <div class="masterheader">
   <h1>OpenStack IRC meetings</h1>
 </div>
@@ -45,6 +45,30 @@ use in your favorite calendaring app:</p>
 <div class="well"><span class="glyphicon glyphicon-download"></span>&nbsp;
 <a href="irc-meetings.ical">iCalendar Complete Meeting Schedule</a>
 </div>
+
+<h2>Clock</h2>
+<p>NB: All the meeting times are listed in Coordinated Universal Time (UTC).
+Below is the current time in UTC for reference.</p>
+<div class="well"><span class="glyphicon glyphicon-time"></span>&nbsp;
+  <p id="utc_time" style="display: inline;">Your browser does not support JavaScript.</p>
+  {# the JavaScript unsupported message above disappears when the body loads #}
+</div>
+<script type="text/javascript">
+function startTime() {
+    var d = new Date();
+    document.getElementById('utc_time').innerHTML =
+    d.getUTCHours() + ":" + checkTime(d.getUTCMinutes());
+    setTimeout(startTime, 30000);
+}
+
+function checkTime(i) {
+    if (i < 10) {
+        i = "0" + i;
+    }
+    return i;
+}
+</script>
+
  <h2>Meeting details</h2>
   <small>
   <div class="meeting_index">
