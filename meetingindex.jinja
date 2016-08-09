@@ -66,7 +66,11 @@ use in your favorite calendaring app:</p>
 {% for schedule in meeting.schedules %}
    <div><span class="glyphicon glyphicon-time"></span>&nbsp;
 {{ schedule.recurrence }} on {{ schedule.day }} at
-<a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
+<a data-toggle="tooltip" data-placement="top" title="NotFilledInYet" utctime="{{schedule.utc}}" weekday="{{schedule.day}}"
+    href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0" 
+    class="timelink">
+        {{ schedule.utc }} UTC
+</a>
 in <a href="ircs://irc.freenode.net:6697/{{ schedule.irc }}">#{{ schedule.irc }}</a>
 (IRC <a href="https://webchat.freenode.net/?randomnick=1&channels=%23{{ schedule.irc }}&prompt=1&uio=d4">webclient</a>)
    </div>
@@ -92,5 +96,60 @@ Logs from <a href="http://eavesdrop.openstack.org/meetings/{{meeting.extras.meet
 {% endfor %}
  <small>Page generated on {{ timestamp }} UTC</small>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script>
+function setTimeTooltips() {
+    var timelinks = [].slice.call(document.getElementsByClassName('timelink'));
+    for (var i in timelinks) {
+        var link = timelinks[i];
+        var local_date = new Date();
+        var local_zone_name = local_date.toLocaleString('en', {timeZoneName:'short'}).split(' ').pop();
+        var offset = local_date.getTimezoneOffset() / 60 * 100;
+        var utc_meeting_time = link.getAttribute('utctime');
+        var local_meeting_time = parseInt(utc_meeting_time) - offset;
+        var day_offset = 0;
+        if (local_meeting_time < 0) {
+            day_offset = -1;
+            local_meeting_time += 2400;
+        } else if (local_meeting_time > 2400) {
+            day_offset = 1;
+            local_meeting_time -= 2400;
+        }
+        local_meeting_time = checkUTC4DigitString(String(local_meeting_time));
+        var weekday = link.getAttribute('weekday');
+        weekday = moveWeekday(weekday, day_offset);
+        weekday = toTitleCase(weekday);
+        link.title = weekday + ' at ' + local_meeting_time + ' ' + local_zone_name;
+    }
+}
+function toTitleCase(str) {
+    return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+}
+function checkUTC4DigitString(s) { // turns '100' into '0100'
+    return repeat('0', 4 - s.length) + s;
+}
+function repeat(s, n){
+    var a = [];
+    while(a.length < n){
+        a.push(s);
+    }
+    return a.join('');
+}
+function moveWeekday(day, offset) {
+    var days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
+    var i = days.indexOf(day.toLowerCase());
+    i += offset;
+    if (i < 0)
+        i += 7;
+    else if (i > 6)
+        i -= 7;
+    return days[i];
+}
+$(document).ready(function(){
+    setTimeTooltips()
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
 </body>
 </html>
