@@ -1,6 +1,6 @@
-project:  Smaug Project Meeting
-meeting_id: smaug
-agenda_url: https://wiki.openstack.org/wiki/Meetings/smaug
+project:  Karbor Project Meeting
+meeting_id: karbor
+agenda_url: https://wiki.openstack.org/wiki/Meetings/karbor
 schedule:
   - time:       '1500'
     day:        Tuesday
@@ -14,5 +14,5 @@ schedule:
     start_date: 20160621
 chair: Saggi Mizrahi (saggi)
 description:  >
-  This weekly meeting is about discussing smaug implementation
+  This weekly meeting is about discussing karbor implementation
   progress and future feature design and requirements.
