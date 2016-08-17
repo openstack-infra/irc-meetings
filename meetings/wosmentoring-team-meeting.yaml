@@ -1,0 +1,11 @@
+project:  Women of OpenStack Mentoring Team meeting
+meeting_id: wos-mentoring
+agenda_url: https://etherpad.openstack.org/p/WOS_mentoring_12_3
+schedule:
+  - time:       '2000'
+    day:        Wednesday
+    irc:        openstack-meeting-2
+    frequency:  biweekly-odd
+chair:  Emily Kate Hugenbruch (ekhugen)
+description:  >
+  This is the biweekly meeting to talk about the Women of OpenStack's mentoring initiatives
