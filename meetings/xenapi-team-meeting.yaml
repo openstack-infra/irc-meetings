@@ -4,7 +4,7 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/XenAPI
 schedule:
   - time:       '0930'
     day:        Wednesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-alt
     frequency:  biweekly-even
     start_date: 20160113
 chair:  Bob Ball (BobBall)
