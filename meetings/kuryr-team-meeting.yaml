@@ -2,19 +2,12 @@ project:  Kuryr Project Meeting
 meeting_id: kuryr
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Kuryr
 schedule:
-  - time:       '0300'
-    day:        Tuesday
-    irc:        openstack-meeting-4
-    frequency:  biweekly-even
-    start_date: 20160119
   - time:       '1400'
     day:        Monday
     irc:        openstack-meeting-4
-    frequency:  biweekly-odd
+    frequency:  weekly
     start_date: 20160111
 chair:  Antoni Segura Puimedon (apuimedo)
 description:  >
-  Kuryr is a Docker network plugin that uses Neutron to provide networking
-  services to Docker containers. It is available standalone and in a
-  containerized way, making it possible to use the common Neutron plugins
-  to plug the containers into the Neutron networking.
+  Kuryr is a project aimed on bringing OpenStack networking and storage
+  to container platforms like Docker, Kubernetes and Mesos.
