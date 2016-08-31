@@ -1,0 +1,12 @@
+project:  Networking OVN Meeting
+meeting_id: networking_ovn
+agenda_url: https://etherpad.openstack.org/p/networking-ovn-meeting
+schedule:
+  - time:       '1800'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160908
+chair:  Russell Bryant (russellb), Richard Theis (rtheis)
+description:  >
+  Discuss OpenStack Networking service integration with OVN (networking-ovn).
