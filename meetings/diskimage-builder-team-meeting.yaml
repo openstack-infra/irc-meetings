@@ -1,5 +1,6 @@
 project:  Diskimage Builder Team Meeting
 meeting_id: diskimage-builder
+agenda_url: https://wiki.openstack.org/wiki/Meetings/diskimage-builder
 schedule:
   - time:       '2000'
     day:        Thursday
