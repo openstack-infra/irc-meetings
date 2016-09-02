@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+1: Ken'ichi Ohmichi <ken1ohmichi@gmail.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Sep 2016 22:40:08 +0000
+Reviewed-on: https://review.openstack.org/364065
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
