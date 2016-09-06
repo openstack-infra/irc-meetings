@@ -75,7 +75,7 @@ def calculate_meeting_counts(meetings):
 
     for meeting in meetings:
         if 'meeting_id' in meeting:
-            meeting_id = ('http://%s/meetings/%s/%04d/?C=N;O=D'.format(
+            meeting_id = ('http://{}/meetings/{}/{:4d}/?C=N;O=D'.format(
                 EAVESDROP, meeting['meeting_id'].replace('-', '_'), now.year))
         else:
             meeting_id = meeting['filefrom']
