@@ -1,0 +1,16 @@
+project:  Interop Challenge
+meeting_id: interop_challenge
+agenda_url: https://wiki.openstack.org/wiki/Interop_Challenge#Meeting_Information
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-defcore
+    frequency:  weekly
+    start_date: 20160914
+chair:  Brad Topol (topol)
+description:  >
+  The interop challenge was started in July 2016 to create a set of common
+  workloads/tests to be executed across multiple OpenStack distributions
+  and/or cloud deployment models. The participants in this challenge will
+  work together to prove once and for all that OpenStack-Powered clouds are
+  interoperable. Please join us if you are interested in particpating!
