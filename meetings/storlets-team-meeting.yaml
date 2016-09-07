@@ -1,0 +1,12 @@
+project:  Storlets Team Meeting
+meeting_id: storlets
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Storlets
+schedule:
+  - time:       '0800'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20160106
+chair:  Eran Rom (eranrom)
+description:  >
+  This is the Storlets team meeting.
