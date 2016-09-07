@@ -1,5 +1,6 @@
 project:  Kolla Team Meeting
 meeting_id: kolla
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Kolla
 schedule:
   - time:       '1600'
     day:        Wednesday
