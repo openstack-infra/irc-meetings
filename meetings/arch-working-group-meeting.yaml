@@ -1,0 +1,13 @@
+project: Architecture Working Group
+meeting_id: arch_wg
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Arch-WG#Agenda
+schedule:
+  - time:       '1900'
+    day:        Thursday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+    start_date: 20160908
+chair: Clint Byrum (SpamapS)
+description:  >
+  Discussion and coordination of efforts to document and improve
+  OpenStack's architecture.
