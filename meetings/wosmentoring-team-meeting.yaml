@@ -5,7 +5,7 @@ schedule:
   - time:       '2000'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
+    frequency:  weekly
     start_date: 20160831
 chair:  Emily Kate Hugenbruch (ekhugen)
 description:  >
