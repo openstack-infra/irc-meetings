@@ -2,8 +2,8 @@ project: Documentation Operations Guide and Architecture Design Guide Team Meeti
 meeting_id: ops_guide
 agenda_url: https://wiki.openstack.org/wiki/Documentation/OpsGuide
 schedule:
-  - time:       '2130'
-    day:        Thursday
+  - time:       '2100'
+    day:        Monday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160107
