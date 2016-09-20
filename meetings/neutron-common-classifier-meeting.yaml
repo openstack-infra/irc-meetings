@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160517
-chair: Cathy Zhang (Cathy)
+chair: Cathy Zhang (cathy_), Igor Duarte Cardoso (igordcard)
 description:  >
   IRC chat meeting for Neutron Common Classifier
