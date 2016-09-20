@@ -1,0 +1,10 @@
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: cathy <cathy.h.zhang@huawei.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 20 Sep 2016 23:31:54 +0000
+Reviewed-on: https://review.openstack.org/370653
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
