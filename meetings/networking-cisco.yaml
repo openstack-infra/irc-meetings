@@ -1,0 +1,13 @@
+project:  Networking Cisco Meeting
+meeting_id: networking_cisco
+agenda_url: https://wiki.openstack.org/wiki/Meetings/networking-cisco
+schedule:
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
+    start_date: 20161011
+chair:  Sam Betts (sambetts)
+description:  >
+  This is the Networking Cisco meeting.
+  Everyone is encouraged to attend.
