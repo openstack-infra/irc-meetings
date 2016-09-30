@@ -32,7 +32,7 @@ def check_chair(chair):
     msg = ''
     for chair in chairs:
         chair = chair.rstrip().lstrip()
-        ok = bool(re.match(r'^[\w .-]+\([\w\d_-]+\)$', chair))
+        ok = bool(re.match(r"^[\w '.-]+\([\w\d_-]+\)$", chair))
         all_good &= ok
         msg += "\t%s: %s\n" % (chair, BOOL_STR[ok])
 
