@@ -16,6 +16,7 @@ from __future__ import print_function
 
 import argparse
 import re
+import sys
 
 from yaml2ical import meeting
 
@@ -56,11 +57,14 @@ A tool that checks a meeting chair matches the canonical format.
 
     args = parser.parse_args()
     meetings = meeting.load_meetings(args.yaml_dir)
+    return_code = 0
     for m in meetings:
             ok, msg = check_chair(m.chair)
             if not ok:
+                return_code = 1
                 print(m.filefrom)
                 print(msg.rstrip())
+    return return_code
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
