@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160216
-chair:  Markus Zoeller (markus_z)
+chair:  Augustina Ragwitz (auggy)
 description:  >
   This is the weekly Nova Bugs Team meeting to maintain Nova's bug list.
   The mission, scope and agenda of this meeting are available at
