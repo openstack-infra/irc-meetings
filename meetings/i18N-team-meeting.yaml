@@ -2,7 +2,7 @@ project:  I18N Team Meeting
 meeting_id: openstack_i18n_meeting
 agenda_url: https://wiki.openstack.org/wiki/Meetings/I18nTeamMeeting
 schedule:
-  - time:       '0600'
+  - time:       '0700'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-chair:  Ying Chun Guo (daisy)
+chair:  Ian Y. Choi, Kato Tomoyuki, JF Taltavull
 description:  >
   Discuss translation/i18n/l10n related topics here.
