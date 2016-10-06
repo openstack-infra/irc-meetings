@@ -1,0 +1,10 @@
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Dean Troyer <dtroyer@gmail.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 06 Oct 2016 21:16:58 +0000
+Reviewed-on: https://review.openstack.org/379768
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
