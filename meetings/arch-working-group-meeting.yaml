@@ -7,6 +7,17 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160908
+    end_date: 20160929
+  - time:       '1900'
+    day:        Thursday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-even
+    start_date: 20161013
+  - time:       '0100'
+    day:        Thursday
+    irc:        openstack-meeting-alt
+    frequency:  biweekly-odd
+    start_date: 20161006
 chair: Clint Byrum (SpamapS)
 description:  >
   Discussion and coordination of efforts to document and improve
