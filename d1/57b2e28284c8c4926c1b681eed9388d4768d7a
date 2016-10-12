@@ -1,0 +1,11 @@
+Code-Review+1: Brian Haley <brian.haley@hpe.com>
+Code-Review+1: Miguel Lavalle <malavall@us.ibm.com>
+Code-Review+1: John Davidge <john.davidge@rackspace.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 12 Oct 2016 21:06:49 +0000
+Reviewed-on: https://review.openstack.org/385082
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
