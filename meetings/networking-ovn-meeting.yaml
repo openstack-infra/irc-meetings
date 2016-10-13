@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160908
-chair:  Russell Bryant (russellb), Richard Theis (rtheis)
+chair:  Russell Bryant (russellb)
 description:  >
   Discuss OpenStack Networking service integration with OVN (networking-ovn).
