@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160107
-chair: Kevin Carter (cloudnull)
+chair: Major Hayden (mhayden)
 description:  >
   OpenStack+Ansible
