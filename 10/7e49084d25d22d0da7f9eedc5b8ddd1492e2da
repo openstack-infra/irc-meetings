@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Kevin Carter (cloudnull) <kevin@cloudnull.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 22 Oct 2016 03:41:35 +0000
+Reviewed-on: https://review.openstack.org/389728
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
