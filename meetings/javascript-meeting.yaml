@@ -4,12 +4,12 @@ schedule:
   - time:       '1400'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-even
     start_date: 20160622
 agenda_url: https://etherpad.openstack.org/p/javascript-meeting
 chair: Michael Krotscheck (krotscheck), Vitaly Kramskikh (vkramskikh)
-description:  >
-  This is the weekly meeting for OpenStack JavaScript Tooling and SDK projects.
-  Here we engage in design discussions, notify each other of new initiatives,
-  collaborate on code reviews, and try to advance the state of JavaScript for
-  OpenStack.
+description: >
+  This is the biweekly meeting for OpenStack JavaScript Tooling and SDK
+  projects. Here we engage in design discussions, notify each other of
+  new initiatives, collaborate on code reviews, and try to advance the state of
+  JavaScript for OpenStack.
