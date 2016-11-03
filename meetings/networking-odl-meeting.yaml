@@ -1,0 +1,12 @@
+project:  Networking ODL Meeting
+meeting_id: networking_odl
+agenda_url: https://wiki.opendaylight.org/view/NeutronNorthbound:Meetings
+schedule:
+  - time:       '1600'
+    day:        Monday
+    irc:        opendaylight-neutron
+    frequency:  weekly
+    start_date: 20161114
+chair:  Isaku Yamahata (yamahata)
+description:  >
+  Discuss OpenStack Networking service integration with ODL (networking-odl).
