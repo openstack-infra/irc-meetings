@@ -1,11 +1,11 @@
 project:  Release Team Meeting
 meeting_id: releaseteam
 schedule:
-  - time:       '1400'
+  - time:       '1500'
     day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20160108
+    start_date: 20161111
 chair:  Doug Hellmann (dhellmann)
 description:  >
   The release team (part of the Release Management project team) will hold
