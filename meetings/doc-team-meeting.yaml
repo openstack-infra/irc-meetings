@@ -2,18 +2,14 @@ project:  Documentation Team Meeting
 meeting_id: docteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
-  - time:       '0030'
-    day:        Wednesday
-    irc:        openstack-meeting
+  - time:       '2100'
+    day:        Thursday
+    irc:        openstack-meeting-alt
     frequency:  biweekly-even
-    start_date: 20160113
-  - time:       '1900'
-    day:        Wednesday
-    irc:        openstack-meeting
-    frequency:  biweekly-odd
-    start_date: 20160301
+    start_date: 20161110
 chair: Lana Brindley (loquacities)
 description:  >
   If you are interested in documentation and the web content for OpenStack, we
-  hold public meetings weekly on IRC at alternating times for different
-  timezones.
+  hold public meetings on IRC every two weeks. This meeting includes reports
+  from documentation speciality teams, notes are distributed in the docs
+  newsletter ``What's Up, Doc?`` after each meeting.
