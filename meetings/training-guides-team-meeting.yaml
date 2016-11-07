@@ -1,12 +1,13 @@
 project:  Training-guides Team Meeting
 meeting_id: training_guides
-agenda_url: https://wiki.openstack.org/wiki/Meetings/training-guides
+agenda_url: https://etherpad.openstack.org/p/training-guides-meeting-agenda
 schedule:
-  - time:       '1700'
-    day:        Monday
-    irc:        openstack-meeting
+  - time:       '1300'
+    day:        Tuesday
+    irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160111
 chair:  Matjaz Pancur (matjazp)
 description:  >
-  The training-guides team meets weekly on IRC.
+  The Training guides team creates open source OpenStack Upstream training
+  and other OpenStack training materials.
