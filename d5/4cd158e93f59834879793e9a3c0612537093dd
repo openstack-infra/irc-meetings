@@ -1,0 +1,12 @@
+Code-Review+1: Jim Rollenhagen <jim@jimrollenhagen.com>
+Code-Review+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Colette Alexander <colettealexander@gmail.com>
+Code-Review+1: amrith <amrith@tesora.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 17:31:57 +0000
+Reviewed-on: https://review.openstack.org/395057
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
