@@ -1,0 +1,14 @@
+project:  Keystone/Horizon Collaboration Meeting
+meeting_id: keystone-horizon
+agenda_url: https://etherpad.openstack.org/p/ocata-keystone-horizon
+schedule:
+  - time:       '2000'
+    day:        Thursday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+    start_date: 20161108
+chair: Steve Martinelli (stevemar), Richard Jones (r1chardj0n3s)
+description:  >
+  This meeting is focused on tackling long standing usability issues between
+  OpenStack identity system and dashboard (keystone and horizon). Members from
+  each community interested in working on these issues are encouraged to join.
