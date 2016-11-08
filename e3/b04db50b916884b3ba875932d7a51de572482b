@@ -1,0 +1,10 @@
+Code-Review+1: Henry Gessau <HenryG@gessau.net>
+Code-Review+1: Doug Wiegley <dougwig@parkside.io>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 22:53:44 +0000
+Reviewed-on: https://review.openstack.org/395034
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
