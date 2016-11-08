@@ -1,0 +1,10 @@
+Code-Review+1: Christophe Sauthier <christophe.sauthier@objectif-libre.com>
+Code-Review+1: Stéphane Albert <sheeprine@nullplace.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 10:43:57 +0000
+Reviewed-on: https://review.openstack.org/394838
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
