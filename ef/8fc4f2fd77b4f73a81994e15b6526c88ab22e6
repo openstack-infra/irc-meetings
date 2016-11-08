@@ -1,0 +1,9 @@
+Code-Review+1: Lenny Verkhovsky <lennyb@mellanox.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 06:40:17 +0000
+Reviewed-on: https://review.openstack.org/394533
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
