@@ -1,0 +1,9 @@
+Code-Review+1: Anne Gentle <annegentle@justwriteclick.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 14:51:53 +0000
+Reviewed-on: https://review.openstack.org/394843
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
