@@ -1,0 +1,10 @@
+Code-Review+1: lvdongbing <dongbing.lv@kylin-cloud.com>
+Code-Review+1: Li Yingjun <yingjun.li@kylin-cloud.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Nov 2016 10:44:30 +0000
+Reviewed-on: https://review.openstack.org/394842
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
