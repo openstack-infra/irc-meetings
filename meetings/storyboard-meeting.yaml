@@ -2,7 +2,7 @@ project:  StoryBoard Meeting
 meeting_id: storyboard
 agenda_url: https://wiki.openstack.org/wiki/Meetings/StoryBoard
 schedule:
-  - time:       '1500'
+  - time:       '1900'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
