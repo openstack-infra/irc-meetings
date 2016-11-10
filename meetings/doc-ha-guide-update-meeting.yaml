@@ -6,6 +6,7 @@ schedule:
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  biweekly-even
+    start_date: 20160127
 chair: Andrew Beekhof (beekhof)
 description:  >
   HA Guide update meeting.

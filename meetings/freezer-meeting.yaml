@@ -6,6 +6,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  weekly
+    start_date: 20160211
 chair: Guillermo Garcia (m3m0)
 description:  >
   The Freezer project team holds a weekly team meeting on IRC.
