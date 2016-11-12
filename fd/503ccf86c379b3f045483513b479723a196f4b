@@ -1,0 +1,10 @@
+Code-Review+1: Egle <ushnishtha@hotmail.com>
+Code-Review+1: Carol Barrett <carol.l.barrett@intel.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 12 Nov 2016 15:44:23 +0000
+Reviewed-on: https://review.openstack.org/394875
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
