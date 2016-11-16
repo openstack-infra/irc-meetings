@@ -1,0 +1,17 @@
+project:  Keystone Policy Meeting
+meeting_id: policy
+agenda_url: https://etherpad.openstack.org/p/keystone-policy-meeting
+schedule:
+  - time:       '1600'
+    day:        Wednesday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+    start_date: 20161123
+chair: Lance Bragstad (lbragstad)
+description:  >
+  After hearing the recaps from the summit, it sounds like policy was a hot
+  topic (per usual). This is also reinforced by the fact every release we have
+  specifications proposed to re-do policy in some way. It's no doubt policy in
+  OpenStack needs work. Let's dedicate an hour a week to policy, analyze what
+  we have currently, design an ideal solution, and aim for that.
+
