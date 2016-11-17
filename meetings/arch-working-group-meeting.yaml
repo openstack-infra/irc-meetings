@@ -2,11 +2,11 @@ project: Architecture Working Group
 meeting_id: arch_wg
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Arch-WG#Agenda
 schedule:
-  - time:       '1900'
+  - time:       '2000'
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  biweekly-even
-    start_date: 20161013
+    start_date: 20161101
   - time:       '0100'
     day:        Thursday
     irc:        openstack-meeting-alt
