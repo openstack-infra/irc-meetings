@@ -1,5 +1,6 @@
 project:  Zuul Meeting
 meeting_id: zuul
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Zuul
 schedule:
   - time:       '2200'
     day:        Monday
