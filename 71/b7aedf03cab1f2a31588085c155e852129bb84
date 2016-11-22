@@ -1,0 +1,11 @@
+Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+1: Richard Avelar <csravelar@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 22 Nov 2016 00:13:58 +0000
+Reviewed-on: https://review.openstack.org/398500
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
