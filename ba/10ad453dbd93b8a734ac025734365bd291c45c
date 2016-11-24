@@ -1,0 +1,10 @@
+Code-Review+1: Lenny Verkhovsky <lennyb@mellanox.com>
+Code-Review+1: lidong <lidongbj@inspur.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 24 Nov 2016 11:21:05 +0000
+Reviewed-on: https://review.openstack.org/401352
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
