@@ -1,0 +1,12 @@
+project:  Public Cloud Working Group
+meeting_id: publiccloud_wg
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-even
+    start_date: 20161207
+agenda_url: https://wiki.openstack.org/wiki/PublicCloudWorkingGroup
+chair: Matt Jarvis ( dc_mattj )
+description: >
+  This is the biweekly meeting for the Public Cloud Working Group
