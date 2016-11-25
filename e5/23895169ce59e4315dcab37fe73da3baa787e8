@@ -1,0 +1,9 @@
+Code-Review+1: Andrew Beekhof <abeekhof@redhat.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 25 Nov 2016 03:50:09 +0000
+Reviewed-on: https://review.openstack.org/401988
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
