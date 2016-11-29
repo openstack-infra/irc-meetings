@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
-  - time:       '0200'
+  - time:       '0600'
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
