@@ -3,9 +3,9 @@ meeting_id: javascript
 schedule:
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160622
+    irc:        openstack-meeting-4
+    frequency:  biweekly-odd
+    start_date: 20161207
 agenda_url: https://etherpad.openstack.org/p/javascript-meeting
 chair: Michael Krotscheck (krotscheck), Vitaly Kramskikh (vkramskikh), Corentin Ardeois (cardeois)
 description: >
