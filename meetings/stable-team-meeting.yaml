@@ -4,7 +4,7 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/StableTeam
 schedule:
   - time:       '2100'
     day:        Monday
-    irc:        openstack-meeting-3
+    irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160118
   - time:       '1000'
