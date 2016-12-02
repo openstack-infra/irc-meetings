@@ -1,0 +1,10 @@
+Code-Review+1: Ryan Petrello <ryan@ryanpetrello.com>
+Code-Review+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Dec 2016 17:08:24 +0000
+Reviewed-on: https://review.openstack.org/406028
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
