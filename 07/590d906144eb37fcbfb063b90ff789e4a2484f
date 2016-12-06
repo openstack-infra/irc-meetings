@@ -1,0 +1,9 @@
+Code-Review+1: Carol Barrett <carol.l.barrett@intel.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 06 Dec 2016 00:10:03 +0000
+Reviewed-on: https://review.openstack.org/404446
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
