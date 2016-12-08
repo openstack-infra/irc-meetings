@@ -1,5 +1,5 @@
 project:  OpenStack Stewardship Working Group Meeting
-meeting_id: swg
+meeting_id: openstack-swg
 agenda_url: https://wiki.openstack.org/wiki/Meetings/SWGMeeting
 schedule:
   - time:       '1400'
