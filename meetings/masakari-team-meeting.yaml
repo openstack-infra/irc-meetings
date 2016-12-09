@@ -1,0 +1,13 @@
+project:  Masakari Team Meeting
+meeting_id: masakari
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Masakari
+schedule:
+  - time:       '0400'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20161213
+
+chair:  Sampath Priyankara (samP)
+description:  >
+  This is the weekly Masakari team meeting.
