@@ -3,7 +3,7 @@ meeting_id: ha
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HATeamMeeting
 schedule:
   - time:       '0900'
-    day:        Monday
+    day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160111
