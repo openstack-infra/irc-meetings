@@ -3,8 +3,8 @@ meeting_id: ha
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HATeamMeeting
 schedule:
   - time:       '0900'
-    day:        Monday
-    irc:        openstack-meeting
+    day:        Wednesday
+    irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
 chair:  Adam Spiers (aspiers)
