@@ -1,0 +1,12 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Andrew Beekhof <abeekhof@redhat.com>
+Code-Review+1: Ethan Lynn <xuanlangjian@gmail.com>
+Code-Review+1: Hauke Bruno Wollentin <ich@haukebruno.de>
+Code-Review+1: Bogdan Dobrelya <bdobrelia@mirantis.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 12 Dec 2016 10:32:21 +0000
+Reviewed-on: https://review.openstack.org/409551
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
