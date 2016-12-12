@@ -4,9 +4,9 @@ agenda_url: https://wiki.openstack.org/wiki/Interop_Challenge#Meeting_Informatio
 schedule:
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-cp
+    irc:        openstack-meeting-5
     frequency:  weekly
-    start_date: 20160914
+    start_date: 20161214
 chair:  Brad Topol (topol)
 description:  >
   The interop challenge was started in July 2016 to create a set of common
