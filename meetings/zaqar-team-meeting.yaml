@@ -2,11 +2,11 @@ project:  Zaqar Team Meeting
 meeting_id: zaqar
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Zaqar
 schedule:
-  - time:       '1800'
-    day:        Monday
+  - time:       '0200'
+    day:        Tuesday
     irc:        openstack-meeting-3
-    frequency:  weekly
-    start_date: 20160516
-chair:  Fei Long Wang (flwang), Flavio Percoco (flaper87)
+    frequency:  biweekly-odd
+    start_date: 20170110
+chair:  Fei Long Wang (flwang)
 description:  >
-  The Zaqar project team holds a weekly team meeting.
+  The Zaqar project team holds a biweekly team meeting.
