@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
-chair:  Ihar Hrachyshka (ihrachyshka)
+chair:  Ihar Hrachyshka (ihrachyshka), korzen (Artur Korzeniewski)
 description:  >
   Weekly meeting to discuss all things upgrade in Neutron.
