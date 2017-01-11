@@ -1,10 +1,10 @@
 project:  Neutron QoS Meeting
 meeting_id: neutron_qos
 schedule:
-  - time:       '1400'
-    day:        Wednesday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
     start_date: 20160113
 chair:  Miguel Angel Ajo (ajo), Slawek Kaplonski (slaweq), Rodolfo Alonso (ralonsoh)
 description:  >
