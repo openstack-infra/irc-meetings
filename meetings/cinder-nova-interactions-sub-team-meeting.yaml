@@ -3,10 +3,10 @@ meeting_id: cinder_nova_api_changes
 agenda_url: https://etherpad.openstack.org/p/cinder-nova-api-changes
 schedule:
   - time:       '1700'
-    day:        Monday
+    day:        Thursday
     irc:        openstack-meeting-cp
     frequency:  weekly
-    start_date: 20160517
+    start_date: 20170202
 chair: Ildiko Vancsa (ildikov)
 description:  >
   In order to provide support for the volume multi-attach feature
