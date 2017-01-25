@@ -6,7 +6,12 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160106
-chair: Mark Voelker (markvoelker), Egle Sigler (eglute)
+  - time:       '0130'
+    day:        Wednesday
+    irc:        openstack-meeting-5
+    frequency:  weekly
+    start_date: 20170201
+chair: Mark Voelker (markvoelker), Egle Sigler (eglute), Tong Li (tongli)
 description:  >
   This is the weekly meeting of the Interop Working Group.  During this meeting
   we will cover process changes as well as capabilities scoring and other
