@@ -7,9 +7,9 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160518
-  - time:       '0900'
+  - time:       '1300'
     day:        Wednesday
-    irc:        openstack-meeting-4
+    irc:        openstack-meeting-alt
     frequency:  biweekly-odd
     start_date: 20160525
 chair:  Antoine Cabot (acabot)
