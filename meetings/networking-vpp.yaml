@@ -1,0 +1,11 @@
+project:  networking-vpp team meeting
+meeting_id: networking-vpp
+agenda_url: https://wiki.openstack.org/wiki/Meetings/networking-vpp
+schedule:
+  - time:       '1600'
+    day:        Monday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-odd
+chair:  Ian Wells (ijw)
+description:  >
+  This is the biweekly VPP mechanism driver team meeting.
