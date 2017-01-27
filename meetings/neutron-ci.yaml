@@ -1,0 +1,14 @@
+project:  Neutron CI team
+meeting_id: neutron_ci
+agenda_url: https://wiki.openstack.org/wiki/Meetings/NeutronCI
+schedule:
+  - time:       '1600'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20170131
+chair: Ihar Hrachyshka (ihrachys)
+description:  >
+  This meeting is for the neutrons team members to discuss CI needs,
+  gate failures and everything that pertains upstream testing efforts.
+  Everyone is encouraged to attend.
