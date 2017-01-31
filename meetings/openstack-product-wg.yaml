@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160405
-chair:  Carol Barrett (carolbarrett)
+chair: Yih Leong Sun (leong), Shamail Tahir (shamail), Kei Tokunaga/regional (kei)
 description:  >
   The OpenStack Product WG meets twice a week (to accomodate different
   regions) to discuss progress on user stories and any other group
