@@ -4,15 +4,10 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/HeatAgenda
 schedule:
   - time:       '1500'
     day:        Wednesday
-    irc:        openstack-meeting-4
-    frequency:  biweekly-odd
-    start_date: 20160106
-  - time:       '0800'
-    day:        Wednesday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160113
-chair:  Thomas Herve (therve)
+    irc:        openstack-meeting-5
+    frequency:  weekly
+    start_date: 20170208
+chair:  Rico Lin (ricolin)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is
   welcome. The blueprints that are used as a basis for the heat project can be
