@@ -1,0 +1,8 @@
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 04 Feb 2017 17:58:53 +0000
+Reviewed-on: https://review.openstack.org/428576
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
