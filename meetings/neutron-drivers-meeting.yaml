@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160112
-chair:  Armando Migliaccio (armax)
+chair:  Kevin Benton (kevinbenton)
 description:  >
   This meeting is for the neutron-drivers team to discuss RFE bugs.
   Everyone is encouraged to attend.

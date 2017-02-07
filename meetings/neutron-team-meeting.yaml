@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160202
-chair:  Armando Migliaccio (armax), Jakub Libosvar (jlibosva)
+chair:  Kevin Benton (kevinbenton), Jakub Libosvar (jlibosva)
 description:  >
   The OpenStack Networking Team (Neutron) holds public meetings in IRC.
   Everyone is encouraged to attend.
