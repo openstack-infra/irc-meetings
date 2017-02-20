@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  biweekly-odd
     start_date: 20160525
-chair:  Antoine Cabot (acabot)
+chair:  Alexander Chadin (alexchadin)
 description:  >
   Watcher provides a flexible and scalable resource
   optimization service for multi-tenant OpenStack-based clouds.
