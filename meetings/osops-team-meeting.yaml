@@ -1,0 +1,15 @@
+project:  OpenStack OSOps Team
+meeting_id: osops_team_meeting
+agenda_url: https://wiki.openstack.org/wiki/osops
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-operators
+    frequency:  biweekly-odd
+    start_date: 20160106
+chair: Melvin Hillsman (mrhillsman)
+description:  >
+  OSOps provides the opportunity for the unique challenges Operators face
+  day-to-day work with OpenStack powered clouds. During this meeting we discuss
+  issues around host maintenance, monitoring, operational scale, and more. Refer
+  to the wiki for more: https://wiki.openstack.org/wiki/osops
