@@ -2,12 +2,12 @@ project:  Oslo Team Meeting
 meeting_id: oslo
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Oslo
 schedule:
-  - time:       '1600'
+  - time:       '1400'
     day:        Monday
-    irc:        openstack-meeting-alt
+    irc:        openstack-meeting-3
     frequency:  weekly
-    start_date: 20160111
-chair:  Joshua Harlow (harlowja)
+    start_date: 20160312
+chair:  ChangBo Guo (gcb)
 description:  >
   Oslo will hold IRC meetings on demand at the time scheduled below.
   If there's an Oslo topic you think warrants a project meeting, please add it
