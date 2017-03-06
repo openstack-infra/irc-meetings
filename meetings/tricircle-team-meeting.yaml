@@ -2,14 +2,14 @@ project:  Tricircle Meeting
 meeting_id: tricircle
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Tricircle
 schedule:
-  - time:       '1300'
+  - time:       '1400'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
-chair:  Zhipeng Huang (zhipengh)
+chair:  Chaoyi Huang (joehuang)
 description:  >
-  Weekly Tricircle Team Meeting. Tricircle mainly aims to solve OpenStack
-  deployments across multiple sites via a extension layer.  More information
+  Weekly Tricircle Team Meeting. Tricircle mainly aims to provide networking
+  automation in OpenStack multi-region deployments.  More information
   could be found at https://wiki.openstack.org/wiki/Tricircle.  Please feel
   free to join us if you are interested!
