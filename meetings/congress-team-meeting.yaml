@@ -1,6 +1,6 @@
 project:  Congress Team Meeting
 meeting_id:  congressteammeeting
-agenda_url:  https://wiki.openstack.org/wiki/Meetings/Congress
+agenda_url:  https://etherpad.openstack.org/p/congress-meeting-topics
 schedule:
   - time:       '0000'
     day:        Thursday
