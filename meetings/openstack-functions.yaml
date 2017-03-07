@@ -1,0 +1,12 @@
+project:  Picasso (Functions as a Service) Team Meeting
+meeting_id: functions
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Picasso
+schedule:
+  - time:       '1700'
+    day:        Tuesday
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+    start_date: 20170307
+chair:  Derek Schultz (dschultz)
+description:  >
+  The Picasso project team holds a biweekly team meeting.
