@@ -2,9 +2,9 @@ project:  Mistral Meeting
 meeting_id: mistral
 agenda_url: https://wiki.openstack.org/wiki/Meetings/MistralAgenda
 schedule:
-  - time:       '1600'
+  - time:       '1500'
     day:        Monday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160111
 chair:  Renat Akhmerov (rakhmerov)
