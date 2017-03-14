@@ -1,0 +1,9 @@
+Code-Review+1: Renat Akhmerov <renat.akhmerov@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 14 Mar 2017 10:06:59 +0000
+Reviewed-on: https://review.openstack.org/445167
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
