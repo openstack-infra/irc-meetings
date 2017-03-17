@@ -1,12 +1,12 @@
-project:  Neutron Common Classifier meeting
+project:  Neutron Common Classification Framework
 meeting_id: network_common_flow_classifier
 agenda_url: https://wiki.openstack.org/wiki/Neutron/CommonFlowClassifier
 schedule:
-  - time:       '1700'
+  - time:       '1400'
     day:        Tuesday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
-    start_date: 20160517
+    frequency:  biweekly-even
+    start_date: 20170307
 chair: Cathy Zhang (cathy_), Igor Duarte Cardoso (igordcard)
 description:  >
-  IRC chat meeting for Neutron Common Classifier
+  IRC chat meeting for the Neutron Common Classification Framework
