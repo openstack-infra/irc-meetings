@@ -7,11 +7,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160215
-  - time:       '0300'
-    day:        Wednesday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160210
 chair:  Shilla Saebi (ShillaSaebi)
 description:  >
   This is the monthly User Committee team meeting for multiple regions.
