@@ -1,0 +1,12 @@
+project:  Mogan Meeting
+meeting_id: mogan
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Mogan
+schedule:
+  - time:       '0200'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  weekly
+    start_date: 20170323
+chair:  Zhenguo Niu (zhenguo)
+description:  >
+  Mogan (Baremetal Computing service) weekly IRC meeting, welcome to join!
