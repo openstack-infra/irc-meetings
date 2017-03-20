@@ -1,0 +1,17 @@
+project: OpenStack Upstream Institute
+meeting_id: openstack_upstream_institute
+agenda_url: https://etherpad.openstack.org/p/openstack-upstream-institute-meetings
+schedule:
+  - time:       '2000'
+    day:        Monday
+    irc:        openstack-meeting-3
+    frequency:  weekly
+    start_date: 20170320
+chair: Ildiko Vancsa (ildikov)
+description:  >
+  This is the meeting series for the OpenStack Upstream Institiute
+  horizontal team which is working on providing the Upstream
+  Collaboration Trainings prior to the Summits and as part of
+  smaller local events. The meeting is needed to discuss the training
+  format and content along with the actual topics in connection to
+  on-boarding new contributors to OpenStack.
