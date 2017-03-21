@@ -2,9 +2,9 @@ project:  Neutron Team Meeting
 meeting_id: networking
 agenda_url: https://wiki.openstack.org/wiki/Network/Meetings
 schedule:
-  - time:       '2100'
+  - time:       '2000'
     day:        Monday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-4
     frequency:  biweekly-even
     start_date: 20160125
   - time:       '1400'
