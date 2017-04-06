@@ -2,12 +2,12 @@ project:  RPM packaging Meeting
 meeting_id: rpm_packaging
 agenda_url: https://wiki.openstack.org/wiki/Rpm-packaging/Meetings
 schedule:
-  - time:       '1300'
+  - time:       '1200'
     day:        Thursday
     irc:        openstack-meeting-alt
     frequency:  weekly
-    start_date: 20160224
-chair:  Dirk Mueller (dmllr)
+    start_date: 20170406
+chair:  Igor Yozhikov (IgorYozhikov)
 description:  >
   The RPM packaging team meets weekly to discuss the current progress, goals for
   the next release and welcomes new people who are interested in the project.
