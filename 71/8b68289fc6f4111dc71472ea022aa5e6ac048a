@@ -1,0 +1,11 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Javier Peña <jpena@redhat.com>
+Code-Review+1: Igor Yozhikov <medput@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Apr 2017 08:38:22 +0000
+Reviewed-on: https://review.openstack.org/454094
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
