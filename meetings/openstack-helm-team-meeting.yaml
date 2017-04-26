@@ -1,0 +1,14 @@
+project:  OpenStack-Helm Team Meeting
+meeting_id: openstack-helm
+agenda_url: https://etherpad.openstack.org/p/openstack-helm-meeting-agenda
+schedule:
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-meeting-5
+    frequency:  weekly
+    start_date: 20160502
+chair:  Brandon B. Jozsa (v1k0d3n)
+description:  >
+  This is the weekly meeting of OpenStack-Helm team. Goal of the
+  project is to provide Helm charts for OpenStack services that
+  allow to deploy OpenStack on top of Kubernetes using Helm.
