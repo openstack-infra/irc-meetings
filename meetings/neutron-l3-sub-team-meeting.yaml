@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160107
-chair:  Miguel Lavalle (mlavalle), Ryan Tidwell (tidwellr)
+chair:  Miguel Lavalle (mlavalle), Brian Haley (haleyb)
 description:  >
   Meetings, with their notes and logs, will be found under
   http://eavesdrop.openstack.org/meetings/neutron_l3
