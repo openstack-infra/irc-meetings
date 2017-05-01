@@ -2,7 +2,7 @@ project:  Tricircle Meeting
 meeting_id: tricircle
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Tricircle
 schedule:
-  - time:       '1400'
+  - time:       '0100'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  weekly
