@@ -1,0 +1,9 @@
+Code-Review+1: Rob Cresswell <robert.cresswell@outlook.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 05 May 2017 09:28:12 +0000
+Reviewed-on: https://review.openstack.org/462569
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
