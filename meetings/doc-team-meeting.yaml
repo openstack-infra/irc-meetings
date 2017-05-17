@@ -2,12 +2,12 @@ project:  Documentation Team Meeting
 meeting_id: docteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
-  - time:       '2100'
+  - time:       '1600'
     day:        Thursday
-    irc:        openstack-meeting-alt
+    irc:        openstack-meeting
     frequency:  biweekly-even
     start_date: 20161110
-chair: Lana Brindley (loquacities)
+chair: Alexandra Settle (asettle)
 description:  >
   If you are interested in documentation and the web content for OpenStack, we
   hold public meetings on IRC every two weeks. This meeting includes reports
