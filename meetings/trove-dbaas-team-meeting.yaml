@@ -2,11 +2,11 @@ project:  Trove (DBaaS) Team Meeting
 meeting_id: trove
 agenda_url: https://wiki.openstack.org/wiki/Meetings/TroveMeeting
 schedule:
-  - time:       '1800'
+  - time:       '1500'
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-    start_date: 20160106
+    start_date: 20170524
 chair:  Amrith Kumar (amrith), Mariam John(johnma), Peter Stachowski (peterstac), Craig Vyvial (cp16net), Nikhil Manchanda (slicknik)
 description:  >
   Want to add an agenda item? Please append your item to the upcoming weekly
