@@ -1,4 +1,4 @@
-project:  Higgins Team Meeting
+project:  Zun Team Meeting
 meeting_id: higgins
 schedule:
   - time:       '0300'
@@ -8,4 +8,4 @@ schedule:
     start_date: 20160524
 chair:  Hongbin Lu (hongbin)
 description:  >
-  The Higgins project team holds a weekly team meeting.
+  The Zun project team holds a weekly team meeting.
