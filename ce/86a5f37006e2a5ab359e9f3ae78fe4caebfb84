@@ -1,0 +1,9 @@
+Code-Review+1: Moshe Levi <moshele@mellanox.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 23 May 2017 13:59:19 +0000
+Reviewed-on: https://review.openstack.org/467081
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
