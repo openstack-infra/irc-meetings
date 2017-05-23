@@ -1,0 +1,16 @@
+project:  OpenStack Operators Meet Ups
+meeting_id: ops-meetup
+agenda_url: https://wiki.openstack.org/wiki/Meetings/OpsMeetup
+schedule:
+  - time:       '1400'
+    day:        Tuesday
+    irc:        openstack-operators
+    frequency:  weekly
+    start_date: 20170530
+chair: Chris Morgan (mihalis68)
+description:  >
+  OpenStack Operators hold a meet up planning session each Tuesday
+  at the time shown. You can get agend items added by emailing
+  openstack-operators@lists.openstack.org
+  Meeting typically covers the most urgent meeting (mid-cycle
+  or summit) and one out (summit or mid-cycle).
