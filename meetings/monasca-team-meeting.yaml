@@ -2,9 +2,9 @@ project:  Monasca Team Meeting
 meeting_id:  monasca
 agenda_url:  https://etherpad.openstack.org/p/monasca-team-meeting-agenda
 schedule:
-  - time:       '1500'
+  - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-3
+    irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
 chair:  Roland Hochmuth (rhochmuth)
