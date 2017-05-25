@@ -2,11 +2,11 @@ project:  Murano Meeting
 meeting_id: murano
 agenda_url: https://wiki.openstack.org/wiki/Meetings/MuranoAgenda
 schedule:
-  - time:       '1700'
+  - time:       '1600'
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-    start_date: 20160112
-chair:  Serg Melikyan (sergmelikyan)
+    start_date: 20170530
+chair: Felipe Monteiro (felipemonteiro)
 description:  >
   Murano holds a weekly meeting on IRC.
