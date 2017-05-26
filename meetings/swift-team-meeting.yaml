@@ -7,6 +7,11 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
+  - time:       '0700'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20170531
 chair:  John Dickinson (notmyname)
 description:  >
   This is the Swift team meeting.
