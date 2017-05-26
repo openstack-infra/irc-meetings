@@ -5,7 +5,9 @@ schedule:
   - time:       '2000'
     day:        Thursday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
-chair:  Greg Haynes (greghaynes), Stephanie Miller (cinerama)
+    frequency:  biweekly-even
+chair:  Ian Wienand (ianw), Yolanda Robla (yrobla)
 description:  >
-  This is the weekly diskimage-builder team meeting.
+  This is the weekly diskimage-builder team meeting. Please note that
+  this will be a rotating meeting, hold bi-weekly at different timings:
+  one Thursday at 20:00 UTC and next one at 15:00 UTC
