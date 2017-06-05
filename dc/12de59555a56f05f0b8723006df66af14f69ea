@@ -1,0 +1,9 @@
+Code-Review+1: Idan Narotzki <idan.narotzki@nokia.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 05 Jun 2017 10:10:19 +0000
+Reviewed-on: https://review.openstack.org/470866
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
