@@ -5,8 +5,13 @@ schedule:
   - time:       '2000'
     day:        Monday
     irc:        openstack-meeting-3
-    frequency:  weekly
-    start_date: 20170320
+    frequency:  biweekly-odd
+    start_date: 20170619
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-meeting-3
+    frequency:  biweekly-even
+    start_date: 20170613
 chair: Ildiko Vancsa (ildikov)
 description:  >
   This is the meeting series for the OpenStack Upstream Institiute
