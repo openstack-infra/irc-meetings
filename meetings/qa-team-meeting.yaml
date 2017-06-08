@@ -7,11 +7,11 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-  - time:       '0900'
+  - time:       '0800'
     day:        Thursday
     irc:        openstack-meeting
     frequency:  biweekly-even
-    start_date: 20160114
+    start_date: 20170615
 chair:  Andrea Frittoli (andreaf)
 description:  >
   The OpenStack QA Team holds public weekly meetings. Everyone interested in
