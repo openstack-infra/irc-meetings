@@ -2,9 +2,9 @@ project:  Storlets Team Meeting
 meeting_id: storlets
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Storlets
 schedule:
-  - time:       '0800'
+  - time:       '0700'
     day:        Tuesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160913
 chair:  Eran Rom (eranrom)
