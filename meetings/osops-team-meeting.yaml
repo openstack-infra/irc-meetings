@@ -1,5 +1,5 @@
 project:  OpenStack OSOps Team
-meeting_id: osops_team_meeting
+meeting_id: osops
 agenda_url: https://wiki.openstack.org/wiki/osops
 schedule:
   - time:       '1400'
