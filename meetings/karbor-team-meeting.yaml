@@ -2,17 +2,12 @@ project:  Karbor Project Meeting
 meeting_id: karbor
 agenda_url: https://wiki.openstack.org/wiki/Meetings/karbor
 schedule:
-  - time:       '1500'
-    day:        Tuesday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160607
   - time:       '0900'
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160621
-chair: Saggi Mizrahi (saggi)
+chair: Yuval Brik (yuval)
 description:  >
   This weekly meeting is about discussing karbor implementation
   progress and future feature design and requirements.
