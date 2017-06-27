@@ -8,12 +8,12 @@ schedule:
     frequency:  biweekly-even
     start_date: 20160517
 
-  - time:       '0900'
+  - time:       '1100'
     day:        Wednesday
     irc:        openstack-meeting
     frequency:  biweekly-odd
-    start_date: 20160525
-chair:  Blair Bethwaite (b1airo), Stig Telfer (oneswig)
+    start_date: 20170705
+chair:  Blair Bethwaite (b1airo), Stig Telfer (oneswig), Martial Michel (martial)
 description:  >
   The Scientific Working Group is dedicated to representing and advancing the
   use-cases and needs of research and high-performance computing atop
