@@ -2,11 +2,11 @@ project:  Octavia Meeting
 meeting_id: octavia
 agenda_url: https://wiki.openstack.org/wiki/Octavia/Weekly_Meeting_Agenda#Agenda
 schedule:
-  - time:       '2000'
+  - time:       '1700'
     day:        Wednesday
-    irc:        openstack-meeting-alt
+    irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20160106
-chair:  Stephen Balukoff (sbalukoff)
+    start_date: 20170628
+chair: Michael Johnson (johnsom)
 description:  >
   Octavia meeting.
