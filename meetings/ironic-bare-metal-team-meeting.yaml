@@ -5,7 +5,7 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  weekly
     start_date: 20160111
-chair:  Jim Rollenhagen (jroll)
+chair:  Dmitry Tantsur (dtantsur)
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic
 meeting_id: ironic
 description:  >
