@@ -1,0 +1,9 @@
+Code-Review+1: John L. Villalovos <openstack.org@sodarock.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 04 Jul 2017 08:00:30 +0000
+Reviewed-on: https://review.openstack.org/479901
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
