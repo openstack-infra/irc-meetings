@@ -1,0 +1,12 @@
+project:  Jenkins Job Builder Team Meeting
+meeting_id: jjb
+agenda_url: https://wiki.openstack.org/wiki/Meetings/JenkinsJobBuilder
+schedule:
+  - time:       '1400'
+    day:        Friday
+    start_date: 20170714
+    irc:        openstack-meeting
+    frequency:  biweekly-even
+chair:  Thanh Ha (zxiiro), Darragh Bailey (electrofelix)
+description:  >
+  This is the bi-weekly Jenkins Job builder team meeting.
