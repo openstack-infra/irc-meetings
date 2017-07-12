@@ -2,7 +2,7 @@ project:  Requirements Team Meeting
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Requirements#Agenda_for_next_meeting
 meeting_id: requirements
 schedule:
-  - time:       '1500'
+  - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
