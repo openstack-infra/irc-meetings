@@ -2,11 +2,11 @@ project:  Requirements Team Meeting
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Requirements#Agenda_for_next_meeting
 meeting_id: requirements
 schedule:
-  - time:       '1500'
+  - time:       '1200'
     day:        Wednesday
     irc:        openstack-meeting-3
     frequency:  weekly
-    start_date: 20161102
+    start_date: 20170719
 chair: Davanum Srinivas (dims_), Tony Breeds (tonyb), Matthew Thode (prometheanfire)
 description:  >
   This is the weekly Requirements team meeting to discuss issues related to
