@@ -7,6 +7,11 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160107
-chair:  Flavio Percoco (flaper87)
+chair:  Brian Rosmaita (rosmaita)
 description: >
-  This is the Glance meeting.
+  This is the Glance meeting.  Glance is the OpenStack Image service.
+  Our mission is to provide services and associated libraries to store,
+  browse, share, distribute and manage bootable disk images, other data
+  closely associated with initializing compute resources, and metadata
+  definitions.  If you are interested in any of the above, please join
+  us!
