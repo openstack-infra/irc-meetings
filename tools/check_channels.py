@@ -19,7 +19,8 @@ from yaml2ical import meeting
 
 channels = set(['openstack-meeting', 'openstack-meeting-alt',
                 'openstack-meeting-3', 'openstack-meeting-4',
-                'openstack-meeting-5', 'openstack-meeting-cp'])
+                'openstack-meeting-5', 'openstack-meeting-cp',
+                'puppet-openstack'])
 
 
 def main():
