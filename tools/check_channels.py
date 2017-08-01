@@ -42,6 +42,8 @@ fully functional MeetBot.
     meetings = meeting.load_meetings(args.yaml_dir)
     for m in meetings:
         for s in m.schedules:
+            if s.freq == 'adhoc':
+                continue
             if s.irc not in channels:
                 raise ValueError(("%s: IRC channel: %s not in (%s)") %
                                  (s.filefrom, s.irc,
