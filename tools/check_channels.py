@@ -19,7 +19,8 @@ from yaml2ical import meeting
 
 channels = set(['openstack-meeting', 'openstack-meeting-alt',
                 'openstack-meeting-3', 'openstack-meeting-4',
-                'openstack-meeting-5', 'openstack-meeting-cp'])
+                'openstack-meeting-5', 'openstack-meeting-cp',])
+                
 
 
 def main():
@@ -42,6 +43,7 @@ fully functional MeetBot.
     meetings = meeting.load_meetings(args.yaml_dir)
     for m in meetings:
         for s in m.schedules:
+            if s.freq == 'adhoc': continue
             if s.irc not in channels:
                 raise ValueError(("%s: IRC channel: %s not in (%s)") %
                                  (s.filefrom, s.irc,

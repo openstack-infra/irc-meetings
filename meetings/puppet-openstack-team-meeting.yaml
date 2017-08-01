@@ -4,10 +4,10 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/Puppet
 schedule:
   - time:       '1500'
     day:        Tuesday
-    irc:        openstack-meeting-4
-    frequency:  weekly
+    irc:        puppet-openstack
+    frequency:  adhoc
     start_date: 20160112
-chair: Emilien Macchi (EmilienM)
+chair: Alex Schultz (mwhahaha)
 description:  >
   Team meeting for discussing Puppet OpenStack modules that help to bring
   scalable and reliable IT automation to OpenStack cloud deployments.
