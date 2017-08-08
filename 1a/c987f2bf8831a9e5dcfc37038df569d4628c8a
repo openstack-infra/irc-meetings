@@ -1,0 +1,9 @@
+Code-Review+1: Matt Jarvis <matt@mattjarvis.org.uk>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Aug 2017 16:40:16 +0000
+Reviewed-on: https://review.openstack.org/491769
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
