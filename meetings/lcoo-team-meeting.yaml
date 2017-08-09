@@ -1,0 +1,16 @@
+project:  LCOO-WG-general
+meeting_id: lcoo
+agenda_url: https://openstack-lcoo.atlassian.net/wiki/spaces/LCOO/pages/8847424
+schedule:
+  - time:       '1400'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20170817
+chair: Jamey McCabe (jamemcc)
+description:  >
+  The LCOO (Large Contributing OpenStack Operators) working group
+  is a group of organizations merging our requirements and upstream 
+  community teams.  Typically we are operating openstack for our own internal business needs in a distributed/multi-cloud arrangement. Join us to introduce and investigte collaboration.  The LCOO
+  holds a bi-weekly team meeting on IRC and in Skype for Business.  Link to agenda and logistics at: https://openstack-lcoo.atlassian.net/wiki/spaces/LCOO
+
