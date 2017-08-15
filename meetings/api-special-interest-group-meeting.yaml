@@ -1,6 +1,6 @@
-project: API Working Group
-meeting_id: api_wg
-agenda_url: https://wiki.openstack.org/wiki/Meetings/API-WG#Agenda
+project: API Special Interest Group
+meeting_id: api_sig
+agenda_url: https://wiki.openstack.org/wiki/Meetings/API-SIG#Agenda
 schedule:
   - time:       '1600'
     day:        Thursday
