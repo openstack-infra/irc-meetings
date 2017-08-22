@@ -6,7 +6,7 @@ schedule:
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-    start_date: 20160510
-chair: Catherine Diep (catherineD)
+    start_date: 20170822
+chair: Chris Hoge (hogepodge)
 description:  >
   Weekly meeting for the refstack development team.
