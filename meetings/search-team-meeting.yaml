@@ -5,9 +5,9 @@ schedule:
   - time:       '1500'
     day:        Thursday
     irc:        openstack-meeting-4
-    frequency:  weekly
-    start_date: 20160107
-chair:  Travis Tripp (TravT)
+    frequency:  biweekly-odd
+    start_date: 20170318
+chair:  Steve McLellan (sjmc7)
 description: >
   Searchlight has a mission to provide advanced and scalable indexing and
   search across multi-tenant cloud resources. Everyone is welcome to attend
