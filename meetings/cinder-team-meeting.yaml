@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
-chair:  Sean McGinnis (smcginnis)
+chair:  Jay Bryant (jungleboyj)
 description:  >
   If you're interested in Cinder or Block Storage in general for OpenStack,
   we have a weekly meeting on IRC. Please feel free to add items to the
