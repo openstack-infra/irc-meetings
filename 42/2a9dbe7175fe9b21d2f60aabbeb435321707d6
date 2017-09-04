@@ -1,0 +1,10 @@
+Code-Review+1: Thomas Morin <tmmorin.orange@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Bernard Cafarelli <bcafarel@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 04 Sep 2017 16:33:07 +0000
+Reviewed-on: https://review.openstack.org/500588
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
