@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160601
-chair:  Devdatta Kulkarni (devkulkarni)
+chair: Rong Zhu (zhurong)
 description:  >
   If you're interested in Solum, we hold public meetings weekly on IRC.
