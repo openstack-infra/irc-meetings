@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20170406
-chair:  Igor Yozhikov (IgorYozhikov)
+chair:  Thomas Bechtold (toabctl)
 description:  >
   The RPM packaging team meets weekly to discuss the current progress, goals for
   the next release and welcomes new people who are interested in the project.
