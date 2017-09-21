@@ -1,0 +1,9 @@
+Code-Review+1: Xavi León <xavi.leon@midokura.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 21 Sep 2017 12:50:37 +0000
+Reviewed-on: https://review.openstack.org/506059
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
