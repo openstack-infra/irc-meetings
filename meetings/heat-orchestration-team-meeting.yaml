@@ -2,13 +2,14 @@ project:  Heat (Orchestration) Team Meeting
 meeting_id: heat
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HeatAgenda
 schedule:
-  - time:       '1500'
+  - time:       '1300'
     day:        Wednesday
-    irc:        openstack-meeting-5
+    irc:        heat
     frequency:  weekly
-    start_date: 20170208
+    start_date: 20170927
 chair:  Rico Lin (ricolin)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is
   welcome. The blueprints that are used as a basis for the heat project can be
-  found at: https://blueprints.launchpad.net/heat
+  found at `https://blueprints.launchpad.net/heat`. And Bugs can be found
+  at `https://bus.launchpad.net/heat`.
