@@ -2,8 +2,8 @@ project:  Firewall as a Service (FWaaS) Team Meeting
 meeting_id: fwaas
 schedule:
   - time:       '1400'
-    day:        Tuesday
-    irc:        openstack-meeting-4
+    day:        Thursday
+    irc:        openstack-fwaas
     frequency:  weekly
     start_date: 20161109
 chair:  Sridar Kandaswamy (SridarK), German Eichburger (xgerman), Nate Johnston (njohnston), Yushiro Furukawa (yushiro)
