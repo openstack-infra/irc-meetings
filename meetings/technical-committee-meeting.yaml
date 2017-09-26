@@ -7,6 +7,21 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160112
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-tc
+    frequency:  weekly
+    start_date: 20170616
+  - time:       '0100'
+    day:        Wednesday
+    irc:        openstack-tc
+    frequency:  weekly
+    start_date: 20170616
+  - time:       '1500'
+    day:        Thursday
+    irc:        openstack-tc
+    frequency:  weekly
+    start_date: 20170616
 chair:  Thierry Carrez (ttx)
 description:  >
   The OpenStack Technical Committee is one of the governing bodies of the
