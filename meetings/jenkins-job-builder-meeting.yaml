@@ -5,7 +5,7 @@ schedule:
   - time:       '1400'
     day:        Friday
     start_date: 20170714
-    irc:        openstack-meeting
+    irc:        openstack-jjb
     frequency:  biweekly-even
 chair:  Thanh Ha (zxiiro), Darragh Bailey (electrofelix)
 description:  >
