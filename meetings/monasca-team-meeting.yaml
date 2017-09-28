@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160106
-chair:  Roland Hochmuth (rhochmuth)
+chair:  Witek Bedyk (witek)
 description: >
     To provide a multi-tenant, highly scalable, performant, fault-tolerant
     monitoring-as-a-service solution for metrics, complex event processing
