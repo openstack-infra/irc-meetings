@@ -2,16 +2,11 @@ project:  OpenStack Data Processing (Sahara) Team Meeting
 meeting_id: sahara
 agenda_url: https://wiki.openstack.org/wiki/Meetings/SaharaAgenda
 schedule:
-  - time:       '1800'
-    day:        Thursday
-    irc:        openstack-meeting-alt
-    frequency:  biweekly-odd
-    start_date: 20160114
   - time:       '1400'
     day:        Thursday
     irc:        openstack-meeting-3
-    frequency:  biweekly-even
+    frequency:  weekly
     start_date: 20160107
-chair:  Sergey Lukjanov (SergeyLukjanov)
+chair:  Telles Nobrega (tellesnobrega)
 description:  >
   The Sahara project team holds a weekly team meeting.
