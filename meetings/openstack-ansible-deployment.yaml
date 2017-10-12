@@ -2,10 +2,10 @@ project:  OpenStack Ansible Deployment Meeting
 meeting_id: openstack_ansible_meeting
 schedule:
   - time:       '1600'
-    day:        Thursday
-    irc:        openstack-meeting-4
+    day:        Tuesday
+    irc:        openstack-ansible
     frequency:  weekly
     start_date: 20160107
-chair: Major Hayden (mhayden)
+chair: Jean-Philippe Evrard (evrardjp)
 description:  >
   OpenStack+Ansible
