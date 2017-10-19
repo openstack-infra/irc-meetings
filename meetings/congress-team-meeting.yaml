@@ -2,11 +2,11 @@ project:  Congress Team Meeting
 meeting_id:  congressteammeeting
 agenda_url:  https://etherpad.openstack.org/p/congress-meeting-topics
 schedule:
-  - time:       '0000'
-    day:        Thursday
+  - time:       '0230'
+    day:        Friday
     irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20160107
+    start_date: 20171103
 chair:  Tim Hinrichs (thinrichs), Masahito Muroi (masahito), Eric Kao (ekcs), Anusha Ramineni (ramineni)
 description:  >
   If you're interested in Congress, we hold public meetings weekly on IRC.
