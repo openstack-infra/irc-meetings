@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160107
-chair:  Tim Hinrichs (thinrichs), Masahito Muroi (masahito), Eric Kao (ekcs), Anusha Ramineni (ramineni)
+chair:  Tim Hinrichs (thinrichs), Masahito Muroi (masahito), Eric Kao (ekcs), Eric Kao (ekcs_), Anusha Ramineni (ramineni), Anusha Ramineni (ramineni_)
 description:  >
   If you're interested in Congress, we hold public meetings weekly on IRC.
   We use the logs of previous meetings to record action items, and we do a
