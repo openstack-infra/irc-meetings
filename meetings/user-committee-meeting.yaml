@@ -5,9 +5,14 @@ schedule:
   - time:       '1800'
     day:        Monday
     irc:        openstack-meeting
-    frequency:  weekly
-    start_date: 20160215
-chair:  Edgar Magana (emagana), Melvin Hillsman (mrhillsman), Shamail Tahir (shamail), Jon Proulx (jproulx), Shilla Saebi (ShillaSaebi)
+    frequency:  biweekly-even
+    start_date: 20171023
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20171030
+chair:  Edgar Magana (emagana), Melvin Hillsman (mrhillsman), Shamail Tahir (shamail), Matt Van Winkle (VW), Saverio Proto (zioproto)
 description:  >
   This is the monthly User Committee team meeting for multiple regions.
   The user committee's role is to represent the needs of the diverse range of OpenStack users.
