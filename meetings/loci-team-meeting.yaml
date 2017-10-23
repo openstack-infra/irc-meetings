@@ -1,0 +1,12 @@
+project: LOCI Development Meeting
+meeting_id: loci
+agenda_url: https://wiki.openstack.org/wiki/Meetings/LOCI
+schedule:
+  - time:       '1300'
+    day:        Tuesday
+    irc:        openstack-meeting-4
+    frequency:  weekly
+    start_date: 20171024
+chair: Sam Yaple (SamYaple)
+description:  >
+  Weekly meeting for the LOCI development team.
