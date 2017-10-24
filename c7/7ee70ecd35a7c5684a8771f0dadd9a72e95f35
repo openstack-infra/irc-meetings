@@ -1,0 +1,8 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 24 Oct 2017 21:35:15 +0000
+Reviewed-on: https://review.openstack.org/513863
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
