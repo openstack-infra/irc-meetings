@@ -3,10 +3,10 @@ meeting_id: neutron_drivers
 agenda_url: https://wiki.openstack.org/wiki/Meetings/NeutronDrivers
 schedule:
   - time:       '1400'
-    day:        Thursday
-    irc:        openstack-neutron
+    day:        Friday
+    irc:        openstack-meeting
     frequency:  biweekly-odd
-    start_date: 20171012
+    start_date: 20171017
   - time:       '2200'
     day:        Thursday
     irc:        openstack-meeting
