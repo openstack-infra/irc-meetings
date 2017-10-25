@@ -1,6 +1,6 @@
 project: Scientific Working Group
-meeting_id: scientific_wg
-agenda_url: https://wiki.openstack.org/wiki/Scientific_working_group
+meeting_id: scientific_sig
+agenda_url: https://wiki.openstack.org/wiki/Scientific_SIG
 schedule:
   - time:       '2100'
     day:        Tuesday
@@ -15,7 +15,7 @@ schedule:
     start_date: 20170705
 chair:  Blair Bethwaite (b1airo), Stig Telfer (oneswig), Martial Michel (martial)
 description:  >
-  The Scientific Working Group is dedicated to representing and advancing the
+  The Scientific SIG is dedicated to representing and advancing the
   use-cases and needs of research and high-performance computing atop
   OpenStack, as well as providing a forum for cross-institutional
   collaboration. If you are (or would like to) run OpenStack to support
