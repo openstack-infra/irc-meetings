@@ -3,10 +3,10 @@ meeting_id: docteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
   - time:       '1600'
-    day:        Thursday
-    irc:        openstack-meeting
+    day:        Wednesday
+    irc:        openstack-meeting-5
     frequency:  biweekly-even
-    start_date: 20161110
+    start_date: 20171101
 chair: Petr Kovar (pkovar)
 description:  >
   If you are interested in documentation and the web content for OpenStack, we
