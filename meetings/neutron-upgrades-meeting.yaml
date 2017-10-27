@@ -2,7 +2,7 @@ project:  Neutron Upgrades Meeting
 meeting_id: neutron_upgrades
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-Upgrades-Subteam
 schedule:
-  - time:       '1400'
+  - time:       '1300'
     day:        Thursday
     irc:        openstack-meeting-5
     frequency:  weekly
