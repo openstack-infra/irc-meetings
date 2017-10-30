@@ -4,7 +4,7 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
   - time:       '1600'
     day:        Wednesday
-    irc:        openstack-meeting-5
+    irc:        openstack-doc
     frequency:  biweekly-even
     start_date: 20171101
 chair: Petr Kovar (pkovar)
