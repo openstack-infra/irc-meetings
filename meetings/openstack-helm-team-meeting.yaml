@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-5
     frequency:  weekly
     start_date: 20160502
-chair:  Brandon B. Jozsa (v1k0d3n)
+chair: Matt McEuen (mattmceuen)
 description:  >
   This is the weekly meeting of OpenStack-Helm team. Goal of the
   project is to provide Helm charts for OpenStack services that
