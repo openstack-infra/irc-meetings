@@ -1,0 +1,12 @@
+project:  Women of OpenStack Meeting
+meeting_id: women_of_openstack
+agenda_url: https://etherpad.openstack.org/p/WOS_11_27_17
+schedule:
+  - time:       '2000'
+    day:        Monday
+    irc:        openstack-women
+    frequency:  biweekly-odd
+    start_date: 20171113
+chair:  Amy Marrich (spotz)
+description:  >
+  This is the biweekly meeting of the Women of OpenStack
