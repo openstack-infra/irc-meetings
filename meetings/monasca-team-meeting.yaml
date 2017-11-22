@@ -2,11 +2,11 @@ project:  Monasca Team Meeting
 meeting_id:  monasca
 agenda_url:  https://etherpad.openstack.org/p/monasca-team-meeting-agenda
 schedule:
-  - time:       '1400'
+  - time:       '1500'
     day:        Wednesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-3
     frequency:  weekly
-    start_date: 20160106
+    start_date: 20171122
 chair:  Witek Bedyk (witek)
 description: >
     To provide a multi-tenant, highly scalable, performant, fault-tolerant
