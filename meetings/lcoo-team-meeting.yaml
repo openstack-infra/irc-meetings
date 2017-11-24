@@ -5,12 +5,12 @@ schedule:
   - time:       '1300'
     day:        Thursday
     irc:        openstack-uc
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
     start_date: 20171130
   - time:       '1400'
     day:        Thursday
     irc:        openstack-uc
-    frequency:  biweekly-odd
+    frequency:  biweekly-even
     start_date: 20171130
 chair: Jamey McCabe (jamemcc)
 description:  >
@@ -18,7 +18,7 @@ description:  >
   is a group of organizations merging our requirements and upstream
   community teams.  Typically we are operating openstack for our own
   internal business needs in a distributed/multi-cloud arrangement.
-  Join us to introduce and investigte collaboration.  
+  Join us to introduce and investigte collaboration.
   Meetings are typically every 2 weeks and may be for 1 or 2 hours.
   Check schedule at link above.
-  The LCOO holds meeting's simultaneously in IRC and Webex.  
+  The LCOO holds meeting's simultaneously in IRC and Webex.
