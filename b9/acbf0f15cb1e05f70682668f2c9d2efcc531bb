@@ -1,0 +1,9 @@
+Code-Review+1: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 28 Nov 2017 10:24:54 +0000
+Reviewed-on: https://review.openstack.org/523177
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
