@@ -1,12 +1,7 @@
-project:  Technical Committee Meeting
+project:  Technical Committee Office hours
 meeting_id: tc
 agenda_url: https://wiki.openstack.org/wiki/Meetings/TechnicalCommittee
 schedule:
-  - time:       '2000'
-    day:        Tuesday
-    irc:        openstack-meeting
-    frequency:  weekly
-    start_date: 20160112
   - time:       '0900'
     day:        Tuesday
     irc:        openstack-tc
@@ -28,4 +23,4 @@ description:  >
   OpenStack project. It is an elected group that represents the
   contributors to the project, and has oversight on all technical matters.
   The Technical Committee is formally defined in the OpenStack Foundation
-  bylas and further refined in the Technical Committee charter.
+  bylaws and further refined in the Technical Committee charter.
