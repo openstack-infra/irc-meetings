@@ -4,7 +4,7 @@ agenda_url: https://wiki.openstack.org/wiki/Watcher_Meeting_Agenda
 schedule:
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-4
+    irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160518
   - time:       '1300'
