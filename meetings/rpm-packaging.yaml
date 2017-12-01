@@ -2,11 +2,11 @@ project:  RPM packaging Meeting
 meeting_id: rpm_packaging
 agenda_url: https://wiki.openstack.org/wiki/Rpm-packaging/Meetings
 schedule:
-  - time:       '1300'
+  - time:       '1400'
     day:        Thursday
-    irc:        openstack-meeting-alt
+    irc:        openstack-rpm-packaging
     frequency:  weekly
-    start_date: 20171116
+    start_date: 20171130
 chair:  Thomas Bechtold (toabctl)
 description:  >
   The RPM packaging team meets weekly to discuss the current progress, goals for
