@@ -6,7 +6,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20161111
-chair:  Doug Hellmann (dhellmann)
+chair:  Sean McGinnis (smcginnis)
 description:  >
   The release team (part of the Release Management project team) will hold
-  weekly IRC meetings for team coordination at the start of each week.
+  weekly IRC meetings for team coordination at the end of each week.
