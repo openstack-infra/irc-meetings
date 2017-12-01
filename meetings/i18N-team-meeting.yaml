@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-chair:  Ian Y. Choi (ianychoi), Kato Tomoyuki (katomo), JF Taltavull (jftalta)
+chair:  Frank Kloeker (eumel8)
 description:  >
   Discuss translation/i18n/l10n related topics here.
