@@ -2,9 +2,9 @@ project:  Ironic (Bare Metal) Team Meeting
 schedule:
   - time:       '1700'
     day:        Monday
-    irc:        openstack-meeting-3
+    irc:        openstack-ironic
     frequency:  weekly
-    start_date: 20160111
+    start_date: 20171210
 chair:  Dmitry Tantsur (dtantsur)
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Ironic
 meeting_id: ironic
