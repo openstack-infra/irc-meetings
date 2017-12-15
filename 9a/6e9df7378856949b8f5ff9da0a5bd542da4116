@@ -1,0 +1,14 @@
+Code-Review+1: Christopher Aedo <doc@aedo.net>
+Code-Review+1: Sam Betts <sam@code-smash.net>
+Code-Review+1: Mike Perez <thingee@gmail.com>
+Code-Review+2: Paul Belanger <pabelanger@redhat.com>
+Code-Review+1: Sukhdev Kapur <sukhdevkapur@gmail.com>
+Code-Review+1: John L. Villalovos <openstack.org@sodarock.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 15 Dec 2017 20:45:30 +0000
+Reviewed-on: https://review.openstack.org/523869
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
