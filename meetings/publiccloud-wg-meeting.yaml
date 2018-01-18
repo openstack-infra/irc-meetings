@@ -7,6 +7,6 @@ schedule:
     frequency:  biweekly-odd
     start_date: 20161207
 agenda_url: https://wiki.openstack.org/wiki/PublicCloudWorkingGroup
-chair: Tobias Rydberg (tobberydberg), Sean Handley (seanhandley), Howard Huang (zhipeng)
+chair: Tobias Rydberg (tobberydberg), Howard Huang (zhipeng)
 description: >
   This is the biweekly meeting for the Public Cloud Working Group
