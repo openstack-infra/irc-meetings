@@ -7,7 +7,6 @@
       tox_envlist: ical
 
 - project:
-    name: openstack-infra/irc-meetings
     check:
       jobs:
         - irc-meetings-tox-ical
