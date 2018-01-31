@@ -1,11 +1,11 @@
 project:  Containers Team Meeting
 meeting_id: containers
 schedule:
-  - time:       '1600'
+  - time:       '1000'
     day:        Tuesday
     irc:        openstack-meeting-alt
     frequency:  weekly
-    start_date: 20160112
-chair:  Adrian Otto (adrian_otto)
+    start_date: 20180206
+chair:  Spyros Trigazis (strigazi)
 description:  >
   The Containers project team holds a weekly team meeting.
