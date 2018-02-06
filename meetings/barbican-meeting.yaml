@@ -4,10 +4,10 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/Barbican
 schedule:
   - time:       '2000'
     day:        Monday
-    irc:        openstack-meeting-alt
+    irc:        openstack-barbican
     frequency:  weekly
     start_date: 20160111
-chair: Douglas Mendizabal (redrobot)
+chair:  Ade Lee (alee)
 description:  >
   The Barbican project team holds a weekly team meeting on IRC.
   The blueprints that are used as a basis for the Barbican project can be
