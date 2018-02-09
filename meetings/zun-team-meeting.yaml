@@ -3,7 +3,7 @@ meeting_id: zun
 schedule:
   - time:       '0300'
     day:        Tuesday
-    irc:        openstack-meeting
+    irc:        openstack-zun
     frequency:  weekly
     start_date: 20160524
 chair:  Hongbin Lu (hongbin)
