@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-3
     frequency:  biweekly-even
     start_date: 20160518
-  - time:       '1300'
+  - time:       '0800'
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  biweekly-odd
