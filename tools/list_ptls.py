@@ -20,7 +20,7 @@ import textwrap
 import requests
 import yaml
 
-PROJECTS_LIST = "http://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"  # noqa
+PROJECTS_LIST = "https://git.openstack.org/cgit/openstack/governance/plain/reference/projects.yaml"  # noqa
 
 
 def main():
@@ -44,7 +44,7 @@ def main():
     args = parser.parse_args()
 
     r = requests.get(args.project_list)
-    project_data = yaml.load(r.text)
+    project_data = yaml.safe_load(r.text)
 
     projects = args.project
     if not projects:
