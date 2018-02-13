@@ -44,7 +44,7 @@ def main():
     args = parser.parse_args()
 
     r = requests.get(args.project_list)
-    project_data = yaml.load(r.text)
+    project_data = yaml.safe_load(r.text)
 
     projects = args.project
     if not projects:
