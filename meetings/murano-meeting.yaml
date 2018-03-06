@@ -5,8 +5,8 @@ schedule:
   - time:       '1300'
     day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  weekly
-    start_date: 20170530
+    frequency:  biweekly-odd
+    start_date: 20180312
 chair: Rong Zhu (zhurong)
 description:  >
   Murano holds a weekly meeting on IRC.
