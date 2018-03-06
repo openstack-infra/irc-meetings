@@ -1,0 +1,9 @@
+Code-Review+1: Joe D'Andrea <jdandrea@research.att.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 06 Mar 2018 14:42:46 +0000
+Reviewed-on: https://review.openstack.org/550059
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
