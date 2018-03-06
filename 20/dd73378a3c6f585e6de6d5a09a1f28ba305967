@@ -1,0 +1,9 @@
+Code-Review+1: Bob Ball <bob.ball@citrix.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 06 Mar 2018 14:42:04 +0000
+Reviewed-on: https://review.openstack.org/550058
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
