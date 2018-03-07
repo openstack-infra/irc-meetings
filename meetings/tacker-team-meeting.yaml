@@ -2,11 +2,11 @@ project:  Tacker (NFV Orchestrator and VNF Manager) Team Meeting
 meeting_id: tacker
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Tacker
 schedule:
-  - time:       '0430'
-    day:        Wednesday
+  - time:       '0800'
+    day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20170531
+    start_date: 20180313
 chair: yong sheng gong (gongysh) 
 description:  >
   Tacker team weekly meeting
