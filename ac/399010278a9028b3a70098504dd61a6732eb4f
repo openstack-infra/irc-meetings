@@ -1,0 +1,11 @@
+Code-Review+1: Nguyen Hai <nguyentrihai93@gmail.com>
+Code-Review+1: Cong Phuoc Hoang <hoangphuocbk2.07@gmail.com>
+Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 07 Mar 2018 09:11:53 +0000
+Reviewed-on: https://review.openstack.org/550326
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
