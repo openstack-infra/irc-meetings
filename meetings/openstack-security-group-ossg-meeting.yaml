@@ -1,12 +1,12 @@
-project:  Security meeting
+project:  Security SIG meeting
 meeting_id: security
 schedule:
-  - time:       '1700'
+  - time:       '1500'
     day:        Thursday
-    irc:        openstack-meeting-alt
+    irc:        openstack-meeting
     frequency:  weekly
     start_date: 20160107
-chair:  Rob Clark (hyakuhei)
+chair:  Luke Hinds (lhinds)
 description:  >
-  The OpenStack Security Group holds public meetings on IRC.
+  The OpenStack Security SIG holds public meetings on IRC.
   Everyone is encouraged to attend.
