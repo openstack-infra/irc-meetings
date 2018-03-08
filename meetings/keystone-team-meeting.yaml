@@ -2,12 +2,12 @@ project:  Keystone Team Meeting
 meeting_id: keystone
 agenda_url: https://etherpad.openstack.org/p/keystone-weekly-meeting
 schedule:
-  - time:       '1800'
+  - time:       '1600'
     day:        Tuesday
-    irc:        openstack-meeting
+    irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160112
-chair: Steve Martinelli (stevemar)
+chair: Lance Bragstad (lbragstad)
 description:  >
   If you're interested in identity for OpenStack, we hold public meetings in
   IRC. Please feel free to add items to the agenda with your name and we'll
