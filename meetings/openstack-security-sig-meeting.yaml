@@ -5,7 +5,7 @@ schedule:
     day:        Thursday
     irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20160107
+    start_date: 20180308
 chair: Luke Hinds (lhinds)
 description:  >
   The OpenStack Security SIG holds public meetings on IRC.
