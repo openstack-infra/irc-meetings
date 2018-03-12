@@ -1,0 +1,12 @@
+project:  PowerVM Driver Meeting
+meeting_id: powervm_driver_meeting
+agenda_url: https://etherpad.openstack.org/p/powervm_driver_meeting_agenda
+schedule:
+  - time:       '1400'
+    day:        Tuesday
+    irc:        openstack-meeting-cp
+    frequency:  weekly
+    start_date: 20161115
+chair: Matthew Edmonds (edmondsw)
+description:  >
+  This is the weekly PowerVM driver team meeting.
