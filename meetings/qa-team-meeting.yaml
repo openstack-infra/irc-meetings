@@ -1,22 +1,22 @@
-project:  QA Team Meeting
+project:  QA Team Office hours
 meeting_id: qa
 agenda_url: https://wiki.openstack.org/wiki/Meetings/QATeamMeeting
 schedule:
   - time:       '1700'
     day:        Thursday
-    irc:        openstack-meeting
-    frequency:  biweekly-odd
+    irc:        openstack-qa
+    frequency:  weekly
     start_date: 20160107
-  - time:       '0800'
+  - time:       '0900'
     day:        Thursday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
+    irc:        openstack-qa
+    frequency:  weekly
     start_date: 20170615
-chair:  Andrea Frittoli (andreaf)
+chair:  Ghanshyam Mann (gmann)
 description:  >
-  The OpenStack QA Team holds public weekly meetings. Everyone interested in
+  The OpenStack QA Team holds public weekly Office hours. Everyone interested in
   testing, quality assurance, performance engineering, etc, should attend!
   Rules for adding to the agenda: Anyone is free to add to proposed agenda,
-  please do so by 1 hr before the meeting. If you add an item to the agenda,
+  please do so by 1 hr before the Office hours. If you add an item to the agenda,
   please include your ircnick (i.e. sdague) to the end of your item, so we
   know who did, and who should lead the discussion.
