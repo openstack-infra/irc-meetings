@@ -2,8 +2,8 @@ project:  Barbican Meeting
 meeting_id: barbican
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Barbican
 schedule:
-  - time:       '2000'
-    day:        Monday
+  - time:       '0300'
+    day:        Tuesday
     irc:        openstack-barbican
     frequency:  weekly
     start_date: 20160111
