@@ -3,9 +3,9 @@ meeting_id: solum_team_meeting
 schedule:
   - time:       '1400'
     day:        Wednesday
-    irc:        openstack-meeting-alt
-    frequency:  weekly
-    start_date: 20160601
+    irc:        solum
+    frequency:  biweekly-odd
+    start_date: 20180319
 chair: Rong Zhu (zhurong)
 description:  >
   If you're interested in Solum, we hold public meetings weekly on IRC.
