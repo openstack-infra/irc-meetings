@@ -1,0 +1,18 @@
+project:  Chef OpenStack Team Meeting
+meeting_id: chef_openstack
+agenda_url: https://wiki.openstack.org/wiki/Meetings/ChefCookbook
+schedule:
+  - time:       '0900'
+    day:        Tuesday
+    irc:        openstack-chef
+    frequency:  adhoc
+    start_date: 20180319
+  - time:       '1500'
+    day:        Tuesday
+    irc:        openstack-chef
+    frequency:  adhoc
+    start_date: 20180319
+chair: Samuel Cassiba (scas), Jan Klare (jklare), Christoph Albers (calbers), Lance Albertson (Ramereth)
+description:  >
+  The Chef OpenStack team holds public weekly office hours to discuss the
+  development and general project health of the Chef OpenStack cookbooks.
