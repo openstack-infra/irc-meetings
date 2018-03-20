@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20170131
-chair: Ihar Hrachyshka (ihrachys)
+chair: Slawek Kaplonski (slaweq), Ihar Hrachyshka (ihrachys)
 description:  >
   This meeting is for the neutrons team members to discuss CI needs,
   gate failures and everything that pertains upstream testing efforts.
