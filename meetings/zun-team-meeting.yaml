@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-zun
     frequency:  weekly
     start_date: 20160524
-chair:  Hongbin Lu (hongbin)
+chair:  Hongbin Lu (hongbin), Shengqin Feng (fengshengqin)
 description:  >
   The Zun project team holds a weekly team meeting.
