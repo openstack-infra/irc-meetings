@@ -4,9 +4,9 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/Zaqar
 schedule:
   - time:       '0200'
     day:        Tuesday
-    irc:        openstack-meeting-3
+    irc:        openstack-zaqar
     frequency:  biweekly-odd
-    start_date: 20170110
-chair:  Fei Long Wang (flwang)
+    start_date: 20180326
+chair:  Wang Hao (wanghao)
 description:  >
   The Zaqar project team holds a biweekly team meeting.
