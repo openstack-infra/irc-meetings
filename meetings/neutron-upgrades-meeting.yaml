@@ -7,6 +7,6 @@ schedule:
     irc:        openstack-meeting-5
     frequency:  weekly
     start_date: 20160111
-chair:  Ihar Hrachyshka (ihrachyshka)
+chair:  Lujin Luo (luolujin), Ihar Hrachyshka (ihrachyshka)
 description:  >
   Weekly meeting to discuss all things upgrade in Neutron.
