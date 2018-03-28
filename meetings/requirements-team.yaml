@@ -2,11 +2,11 @@ project:  Requirements Team Meeting
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Requirements#Agenda_for_next_meeting
 meeting_id: requirements
 schedule:
-  - time:       '0700'
+  - time:       '2000'
     day:        Wednesday
-    irc:        openstack-meeting-3
+    irc:        openstack-requirements
     frequency:  weekly
-    start_date: 20171115
+    start_date: 20180404
 chair: Dirk Mueller (dirk), Tony Breeds (tonyb), Matthew Thode (prometheanfire)
 description:  >
   This is the weekly Requirements team meeting to discuss issues related to
