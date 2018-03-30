@@ -5,13 +5,8 @@ schedule:
   - time:       '1400'
     day:        Friday
     irc:        openstack-meeting
-    frequency:  biweekly-odd
-    start_date: 20171017
-  - time:       '2200'
-    day:        Thursday
-    irc:        openstack-meeting
-    frequency:  biweekly-even
-    start_date: 20160112
+    frequency:  weekly
+    start_date: 20180406
 chair:  Miguel Lavalle (mlavalle)
 description:  >
   This meeting is for the neutron-drivers team to discuss RFE bugs.
