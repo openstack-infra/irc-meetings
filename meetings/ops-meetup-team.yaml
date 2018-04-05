@@ -1,0 +1,13 @@
+project:  OpenStack Ops Meetup Team
+meeting_id: ops_meetup_team
+agenda_url: https://etherpad.openstack.org/p/ops-meetups-team
+schedule:
+  - time:       '0200'
+    day:        Tuesday
+    irc:        openstack-operators
+    frequency:  weekly
+    start_date: 20171024
+chair: Chris Morgan (mihalis68)
+description:  >
+  This team is expected to persist, and take a leading role in organizing all
+  future ops meetups.
