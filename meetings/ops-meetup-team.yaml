@@ -2,7 +2,7 @@ project:  OpenStack Ops Meetup Team
 meeting_id: ops_meetup_team
 agenda_url: https://etherpad.openstack.org/p/ops-meetups-team
 schedule:
-  - time:       '0200'
+  - time:       '1400'
     day:        Tuesday
     irc:        openstack-operators
     frequency:  weekly
