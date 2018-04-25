@@ -12,7 +12,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160202
-chair:  Miguel Lavalle (mlavalle), Jakub Libosvar (jlibosva)
+chair:  Miguel Lavalle (mlavalle)
 description:  >
   The OpenStack Networking Team (Neutron) holds public meetings in IRC.
   Everyone is encouraged to attend.
