@@ -2,12 +2,18 @@ project:  Designate (DNSaaS) Meeting
 meeting_id: designate
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Designate
 schedule:
-  - time:       '1400'
+  - time:       '1100'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
-    start_date: 20171129
+    frequency:  quadweekly
+    start_date: 20180606
+  - time:       '1700'
+    day:        Wednesday
+    irc:        openstack-meeting
+    frequency:  quadweekly-alternate
+    start_date: 20180606
 chair:  Graham Hayes (mugsie)
 description:  >
-  The DNSaaS team holds a weekly IRC meeting. Meeting logs are available at
+  The DNSaaS team holds a bi weekly IRC meeting, alternating between UTC
+  mornings and evenings. Meeting logs are available at
   http://eavesdrop.openstack.org/meetings/designate/
