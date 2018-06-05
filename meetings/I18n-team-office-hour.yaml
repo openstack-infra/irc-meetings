@@ -1,0 +1,21 @@
+project:  I18N Team Office hours
+meeting_id: openstack_i18n_office_hour
+agenda_url: https://wiki.openstack.org/wiki/Meetings/I18nTeamMeeting
+schedule:
+  - time:       '0700'
+    day:        Thursday
+    irc:        openstack-i18n
+    frequency:  biweekly-even
+    start_date: 20160114
+  - time:       '1300'
+    day:        Thursday
+    irc:        openstack-i18n
+    frequency:  biweekly-odd
+    start_date: 20160107
+chair:  Frank Kloeker (eumel8), Ian Y. Choi (ianychoi)
+description:  >
+  The OpenStack I18n Team holds public weekly office hours.
+  Everyone interested in or having questions on translation,
+  internationalization, and/or localization should attend!
+  If you add an item to the agenda, please include details
+  so we know who did, and who would be best lead for the discussion.
