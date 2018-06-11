@@ -1,0 +1,12 @@
+Code-Review+2: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Code-Review+1: Ben Nemec <openstack@nemebean.com>
+Code-Review+1: Dmitry Galkin <galkindmitrii@gmail.com>
+Code-Review+1: Graham Hayes <gr@ham.ie>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 11 Jun 2018 16:29:22 +0000
+Reviewed-on: https://review.openstack.org/573204
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
