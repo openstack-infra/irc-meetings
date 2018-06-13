@@ -2,11 +2,11 @@ project:  Kolla Team Meeting
 meeting_id: kolla
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Kolla
 schedule:
-  - time:       '1600'
+  - time:       '1500'
     day:        Wednesday
     irc:        openstack-meeting-4
     frequency:  weekly
-    start_date: 20160622
-chair: Steven Dake (sdake)
+    start_date: 20180625
+chair: Jeffrey Zhang (Jeffrey4l)
 description:  >
   If you're interested in Kolla, join this meeting.
