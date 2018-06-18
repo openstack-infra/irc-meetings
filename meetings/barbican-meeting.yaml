@@ -2,7 +2,7 @@ project:  Barbican Meeting
 meeting_id: barbican
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Barbican
 schedule:
-  - time:       '0200'
+  - time:       '1200'
     day:        Tuesday
     irc:        openstack-barbican
     frequency:  weekly
@@ -11,4 +11,4 @@ chair:  Ade Lee (alee)
 description:  >
   The Barbican project team holds a weekly team meeting on IRC.
   The blueprints that are used as a basis for the Barbican project can be
-  found at https://blueprints.launchpad.net/barbican .
+  found at https://storyboard.openstack.org/#!/project_group/81 .
