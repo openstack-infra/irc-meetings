@@ -1,0 +1,9 @@
+Code-Review+1: Douglas Mendizábal <douglas@redrobot.io>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 19 Jun 2018 08:16:39 +0000
+Reviewed-on: https://review.openstack.org/576177
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
