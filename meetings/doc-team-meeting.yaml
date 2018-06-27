@@ -1,4 +1,4 @@
-project:  Documentation Team Meeting
+project:  Documentation Team Office Hours
 meeting_id: docteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
@@ -6,9 +6,9 @@ schedule:
     day:        Wednesday
     irc:        openstack-doc
     frequency:  biweekly-even
-    start_date: 20171101
 chair: Petr Kovar (pkovar)
 description:  >
-  If you are interested in documentation and the web content for OpenStack, we
-  hold public meetings on IRC every two weeks. This meeting includes reports
-  from documentation speciality teams.
+  If you are interested in OpenStack documentation and the content for
+  docs.openstack.org, the Documentation Team holds public office hours on IRC
+  every two weeks. No formal rules for proposing agenda other than being
+  ready to discuss your agenda at the start of office hours.
