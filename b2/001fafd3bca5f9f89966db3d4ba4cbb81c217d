@@ -1,0 +1,11 @@
+Code-Review+1: Eric Fried <efried@us.ibm.com>
+Code-Review+1: Chris Dent <cdent@anticdent.org>
+Code-Review+1: melanie witt <melwittt@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 09 Jul 2018 22:01:58 +0000
+Reviewed-on: https://review.openstack.org/581057
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
