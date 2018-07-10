@@ -1,0 +1,15 @@
+project:  Airship Armada Team Meeting
+meeting_id: airship-armada
+agenda_url: https://etherpad.openstack.org/p/airship-armada-team-meeting-agenda
+schedule:
+  - time:       '2300'
+    day:        Tuesday
+    irc:        airshipit
+    frequency:  biweekly
+chair: Mark Burnett (mark-burnett)
+description:  >
+  This is the biweekly OpenStack Airship Armada team meeting. Armada is
+  a tool for managing multiple Helm charts with dependencies by
+  centralizing all configurations in a single Armada YAML and providing
+  life-cycle hooks for all Helm releases.
+  Note: other Airship components are discussed on `airship` meeting.

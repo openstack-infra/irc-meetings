@@ -1,0 +1,14 @@
+project:  Airship Team Meeting
+meeting_id: airship
+agenda_url: https://etherpad.openstack.org/p/airship-team-meeting-agenda
+schedule:
+  - time:       '1400'
+    day:        Tuesday
+    irc:        airshipit
+    frequency:  biweekly
+chair: Mark Burnett (mark-burnett)
+description:  >
+  This is the weekly OpenStack Airship team meeting. Airship is a
+  collection of tools that provide declarative automated cloud
+  provisioning and management of the cloud.
+  Note: Airship Armada has it's own meeting.
