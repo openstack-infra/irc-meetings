@@ -6,7 +6,15 @@ schedule:
     irc:        openstack-publiccloud
     frequency:  biweekly-odd
     start_date: 20161207
+
+  - time:       '0700'
+    day:        Wednesday
+    irc:        openstack-publiccloud
+    frequency:  biweekly-even
+    start_date: 20180725
 agenda_url: https://wiki.openstack.org/wiki/PublicCloudWorkingGroup
 chair: Tobias Rydberg (tobberydberg), Howard Huang (zhipeng)
 description: >
-  This is the biweekly meeting for the Public Cloud Working Group
+  The Public Cloud Working Group is meeting once every week to 
+  discuss topics related to the projects we run, topics related 
+  to openstack and public clouds. Everyone is welcome to join!
