@@ -1,12 +1,12 @@
-project:  Murano Meeting
+project:  Murano Team Office hours
 meeting_id: murano
 agenda_url: https://wiki.openstack.org/wiki/Meetings/MuranoAgenda
 schedule:
   - time:       '1300'
     day:        Tuesday
-    irc:        openstack-meeting-alt
+    irc:        murano
     frequency:  biweekly-odd
-    start_date: 20180312
+    start_date: 20180813
 chair: Rong Zhu (zhurong)
 description:  >
-  Murano holds a weekly meeting on IRC.
+  Murano holds team office hours on IRC.
