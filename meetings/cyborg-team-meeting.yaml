@@ -1,0 +1,12 @@
+project:  Cyborg Project Team Meeting
+meeting_id: openstack_cyborg_project
+agenda_url: https://wiki.openstack.org/wiki/Meetings/CyborgTeamMeeting
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-cyborg
+    frequency:  weekly
+    start_date: 20180808
+chair:  Li Liu (Li_Liu)
+description:  >
+  This is the weekly meeting of the Cyborg Project.
