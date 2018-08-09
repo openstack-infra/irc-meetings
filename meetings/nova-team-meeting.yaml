@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-chair: Matt Riedemann (mriedem)
+chair: Melanie Witt (melwitt)
 description:  >
   This is the weekly Nova team meeting.
