@@ -2,11 +2,11 @@ project:  Masakari Team Meeting
 meeting_id: masakari
 agenda_url: https://wiki.openstack.org/wiki/Meetings/Masakari
 schedule:
-  - time:       '0300'
+  - time:       '0400'
     day:        Tuesday
     irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20180605
+    start_date: 20180821
 
 chair:  Sampath Priyankara (samP)
 description:  >
