@@ -2,10 +2,10 @@ project:  First Contact SIG Meeting
 meeting_id: fc-sig
 agenda_url: https://wiki.openstack.org/wiki/First_Contact_SIG#Meeting_Agenda
 schedule:
-  - time:       '800'
+  - time:       '700'
     day:        Wednesday
     irc:        openstack-meeting
-    frequency:  weekly
+    frequency:  biweekly-odd
 chair:  Kendall Nelson (diablo_rojo)
 description:  >
   This is the weekly First Contact SIG meeting.
