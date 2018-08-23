@@ -2,11 +2,11 @@ project:  Senlin Team Meeting
 meeting_id: senlin
 agenda_url: https://wiki.openstack.org/wiki/Meetings/SenlinAgenda
 schedule:
-  - time:       '1300'
-    day:        Tuesday
-    irc:        openstack-meeting
+  - time:       '0530'
+    day:        Friday
+    irc:        senlin
     frequency:  weekly
-    start_date: 20160112
-chair: Qiming Teng (Qiming)
+    start_date: 20180824
+chair: Duc Truong (dtruong)
 description:  >
   The Senlin project team holds a weekly team meeting.
