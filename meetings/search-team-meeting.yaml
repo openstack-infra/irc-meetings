@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  biweekly-odd
     start_date: 20170318
-chair:  Steve McLellan (sjmc7)
+chair:  Trinh Nguyen (dangtrinhnt)
 description: >
   Searchlight has a mission to provide advanced and scalable indexing and
   search across multi-tenant cloud resources. Everyone is welcome to attend
