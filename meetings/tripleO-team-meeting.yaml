@@ -3,7 +3,7 @@ meeting_id: tripleo
 schedule:
   - time:       '1400'
     day:        Tuesday
-    irc:        openstack-meeting-alt
+    irc:        tripleo
     frequency:  weekly
     start_date: 20160112
 chair:  Dan Prince (dprince)
