@@ -1,0 +1,10 @@
+Code-Review+1: Juan Antonio Osorio Robles <jaosorior@redhat.com>
+Code-Review+1: Alex Schultz <aschultz@redhat.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 05 Sep 2018 08:43:59 +0000
+Reviewed-on: https://review.openstack.org/599615
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
