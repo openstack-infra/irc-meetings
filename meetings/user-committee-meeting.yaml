@@ -5,16 +5,11 @@ schedule:
   - time:       '1800'
     day:        Monday
     irc:        openstack-uc
-    frequency:  biweekly-odd
+    frequency:  weekly
     start_date: 20171030
-  - time:       '1400'
-    day:        Monday
-    irc:        openstack-uc
-    frequency:  biweekly-even
-    start_date: 20171106
-chair:  Edgar Magana (emagana), Melvin Hillsman (mrhillsman), Shamail Tahir (shamail), Matt Van Winkle (VW), Saverio Proto (zioproto)
+chair:  Melvin Hillsman (mrhillsman), Matt Van Winkle (VW), Amy Marrich (spotz), Yih Leong Sun (leong), Joseph Sandoval (josephrsandoval)
 description:  >
-  This is the monthly User Committee team meeting for multiple regions.
-  The user committee's role is to represent the needs of the diverse range of OpenStack users.
-  The user committee mission includes consolidating user requirements, providing user feedback to dev teams, tracking OpenStack usage and deployment,
+  This is the weekly User Committee team meeting for multiple regions.
+  The User Committee's role is to represent the needs of the diverse range of OpenStack users and operators.
+  The User Committee mission includes consolidating user requirements, providing user feedback to dev teams, tracking OpenStack usage and deployment,
   and working with the user groups worldwide to keep the OpenStack community vibrant and informed.
