@@ -3,15 +3,15 @@ meeting_id: upgrades-sig
 agenda_url: https://etherpad.openstack.org/p/upgrades-sig-meeting
 schedule:
   - time:       '0900'
-    day:        Tuesday
+    day:        Monday
     irc:        openstack-meeting-4
-    frequency:  biweekly-odd
-    start_date: 20180515
+    frequency:  quadweekly
+    start_date: 20181119
   - time:       '1600'
-    day:        Tuesday
+    day:        Monday
     irc:        openstack-meeting-4
-    frequency:  biweekly-even
-    start_date: 20180522
-chair: James Page (jamespage), Lujin Luo (lujinluo), Lee Yarwood (lyarwood)
+    frequency:  quadweekly
+    start_date: 20181119
+chair: James Page (jamespage), Yushiro FURUKAWA (yushiro)
 description:  >
-  Weekly Upgrades SIG meeting covering Asia-Pacific, Europe and North American TZ's
+  Monthly Upgrades SIG meeting covering Asia-Pacific, Europe and North American TZ's
