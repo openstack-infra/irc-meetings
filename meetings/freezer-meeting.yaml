@@ -2,13 +2,13 @@ project:  Freezer Meeting
 meeting_id: freezer
 agenda_url: https://etherpad.openstack.org/p/freezer_meetings
 schedule:
-  - time:       '1400'
-    day:        Thursday
+  - time:       '0900'
+    day:        Tuesday
     irc:        openstack-meeting-alt
-    frequency:  weekly
-    start_date: 20160211
-chair: Guillermo Garcia (m3m0)
+    frequency:  biweekly-odd
+    start_date: 20181009
+chair: Changcai Geng (gengchc)
 description:  >
-  The Freezer project team holds a weekly team meeting on IRC.
+  The Freezer project team holds a biweekly team meeting on IRC.
   The blueprints that are used as a basis for the Freezer project can be
-  found at https://blueprints.launchpad.net/freezer
+  found at https://storyboard.openstack.org/#!/project_group/freezer
