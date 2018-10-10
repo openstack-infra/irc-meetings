@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160621
-chair: Yuval Brik (yuval)
+chair: Pengju Jiao (jiaopengju)
 description:  >
   This weekly meeting is about discussing karbor implementation
   progress and future feature design and requirements.
