@@ -1,0 +1,9 @@
+Code-Review+1: gengchc2 <geng.changcai2@zte.com.cn>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 10 Oct 2018 04:17:28 +0000
+Reviewed-on: https://review.openstack.org/609184
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
