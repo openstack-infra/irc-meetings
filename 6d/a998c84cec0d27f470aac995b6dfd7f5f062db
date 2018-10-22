@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Amy Marrich (spotz) <amy@demarco.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 22 Oct 2018 22:55:58 +0000
+Reviewed-on: https://review.openstack.org/612525
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
