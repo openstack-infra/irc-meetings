@@ -1,0 +1,10 @@
+Code-Review+1: Tobias Urdin <tobias.urdin@binero.se>
+Code-Review+1: Alex Schultz <aschultz@redhat.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 24 Oct 2018 13:54:47 +0000
+Reviewed-on: https://review.openstack.org/612701
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
