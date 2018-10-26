@@ -1,0 +1,9 @@
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 26 Oct 2018 09:05:18 +0000
+Reviewed-on: https://review.openstack.org/612695
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
