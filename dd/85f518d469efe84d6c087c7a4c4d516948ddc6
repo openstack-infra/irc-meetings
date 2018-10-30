@@ -1,0 +1,10 @@
+Code-Review+1: Thanh Ha (zxiiro) <zxiiro@gmail.com>
+Code-Review+1: Darragh Bailey (electrofelix) <daragh.bailey@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 30 Oct 2018 10:31:17 +0000
+Reviewed-on: https://review.openstack.org/612697
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
