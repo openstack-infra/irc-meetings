@@ -1,5 +1,5 @@
 project:  Cyborg Project Team Meeting
-meeting_id: openstack_cyborg_project
+meeting_id: openstack_cyborg
 agenda_url: https://wiki.openstack.org/wiki/Meetings/CyborgTeamMeeting
 schedule:
   - time:       '1400'
