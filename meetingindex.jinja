@@ -74,7 +74,7 @@ use in your favorite calendaring app:</p>
   <div class="panel-body">
 {% for schedule in meeting.schedules %}
    <div><span class="glyphicon glyphicon-time"></span>&nbsp;
-{{ schedule.recurrence }} on {{ schedule.day }} at
+{{ schedule.recurrence }} on {% if schedule.recurrence.day_specifier %}{{ schedule.recurrence.day_specifier }} {% endif %}{{ schedule.day }} at
 <a data-toggle="tooltip" data-placement="top" title="NotFilledInYet" utctime="{{schedule.utc}}" weekday="{{schedule.day}}"
     href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0" 
     class="timelink">
