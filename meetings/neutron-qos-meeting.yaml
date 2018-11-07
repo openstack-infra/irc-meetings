@@ -6,6 +6,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160113
-chair:  Slawek Kaplonski (slaweq)
+chair:  Rodolfo Alonso (ralonsoh), Slawek Kaplonski (slaweq)
 description:  >
   Weekly meeting to discuss QoS in Neutron.
