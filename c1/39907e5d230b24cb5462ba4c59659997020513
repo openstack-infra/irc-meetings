@@ -1,0 +1,9 @@
+Code-Review+1: sapd <saphi070@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 20 Nov 2018 17:04:24 +0000
+Reviewed-on: https://review.openstack.org/618663
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
