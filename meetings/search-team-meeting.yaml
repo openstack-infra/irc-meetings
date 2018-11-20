@@ -2,11 +2,11 @@ project:  Searchlight Team Meeting
 meeting_id: openstack_search
 agenda_url:  https://etherpad.openstack.org/p/search-team-meeting-agenda
 schedule:
-  - time:       '1200'
-    day:        Thursday
-    irc:        openstack-meeting-4
+  - time:       '1330'
+    day:        Monday
+    irc:        openstack-searchlight
     frequency:  biweekly-odd
-    start_date: 20180830
+    start_date: 20181119
 chair:  Trinh Nguyen (dangtrinhnt)
 description: >
   Searchlight has a mission to provide advanced and scalable indexing and
