@@ -1,0 +1,15 @@
+project:  OpenLab Team Meeting
+meeting_id: openlab
+agenda_url: https://etherpad.openstack.org/p/openlab
+schedule:
+  - time:       '1700'
+    day:        Friday
+    irc:        askopenlab
+    frequency:  biweekly-odd
+  - time:       '0200'
+    day:        Tuesday
+    irc:        askopenlab
+    frequency:  biweekly-even
+chair:  Melvin Hillsman (mrhillsman)
+description:  >
+  This is the weekly OpenLab team meeting.
