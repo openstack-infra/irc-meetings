@@ -1,11 +1,17 @@
-project:  Documentation Team Office Hours
+project:  Documentation Team Meeting
 meeting_id: docteam
 agenda_url: https://wiki.openstack.org/wiki/Meetings/DocTeamMeeting
 schedule:
-  - time:       '1600'
-    day:        Wednesday
-    irc:        openstack-doc
+  - time:       '0730'
+    day:        Thursday
+    irc:        openstack-meeting
     frequency:  biweekly-even
+    start_date: 20181206
+  - time:       '1630'
+    day:        Thursday
+    irc:        openstack-meeting
+    frequency:  biweekly-odd
+    start_date: 20181206
 chair: Petr Kovar (pkovar)
 description:  >
   If you are interested in OpenStack documentation and the content for
