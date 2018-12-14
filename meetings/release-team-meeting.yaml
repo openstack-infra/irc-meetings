@@ -1,9 +1,9 @@
 project:  Release Team Meeting
 meeting_id: releaseteam
 schedule:
-  - time:       '1500'
-    day:        Friday
-    irc:        openstack-meeting
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-release
     frequency:  weekly
     start_date: 20161111
 chair:  Sean McGinnis (smcginnis)
