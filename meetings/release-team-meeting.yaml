@@ -1,8 +1,8 @@
 project:  Release Team Meeting
 meeting_id: releaseteam
 schedule:
-  - time:       '1500'
-    day:        Friday
+  - time:       '1600'
+    day:        Thursday
     irc:        openstack-meeting
     frequency:  weekly
     start_date: 20161111
