@@ -2,11 +2,11 @@ project:  Heat (Orchestration) Team Meeting
 meeting_id: heat
 agenda_url: https://wiki.openstack.org/wiki/Meetings/HeatAgenda
 schedule:
-  - time:       '1400'
+  - time:       '0800'
     day:        Wednesday
     irc:        heat
     frequency:  weekly
-    start_date: 20180123
+    start_date: 20181219
 chair:  Rico Lin (ricolin)
 description:  >
   The heat Orchestration project team holds a meeting where everyone is
