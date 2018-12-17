@@ -32,7 +32,9 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(sys.argv[0]), ".."))
 EAVESDROP = 'eavesdrop.openstack.org'
 MEETINGS_PATH = os.path.join(BASE_DIR, 'meetings')
 WEEKDAYS = list(calendar.day_name)
-WEEK_COUNTS = {'weekly': 2, 'biweekly-even': 1, 'biweekly-odd': 1, 'adhoc': 0}
+WEEK_COUNTS = {'first-thursday': 2, 'first-friday': 2, 'weekly': 2,
+               'biweekly-even': 1, 'biweekly-odd': 1,
+               'quadweekly': 1, 'quadweekly-alternate': 1, 'adhoc': 0}
 CHANNELS = ['openstack-meeting', 'openstack-meeting-alt',
             'openstack-meeting-3', 'openstack-meeting-4',
             'openstack-meeting-5']
