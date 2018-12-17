@@ -1,11 +1,11 @@
 project:  Release Team Meeting
 meeting_id: releaseteam
 schedule:
-  - time:       '1500'
-    day:        Friday
-    irc:        openstack-meeting
+  - time:       '1600'
+    day:        Thursday
+    irc:        openstack-release
     frequency:  weekly
-    start_date: 20161111
+    start_date: 20190103
 chair:  Sean McGinnis (smcginnis)
 description:  >
   The release team (part of the Release Management project team) will hold
