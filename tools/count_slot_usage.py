@@ -51,7 +51,7 @@ def main():
 
     print("Day\tUTC Hour")
     available_slots = 2 * len(CHANNELS)
-    full_time_slot = available_slots - 1
+    full_time_slot = available_slots - args.sensitivity
     for day in WEEKDAYS:
         for hour in range(24):
             slot_usage = len(meeting_counts[hour][day])
@@ -166,6 +166,11 @@ def parse_args():
     parser.add_argument(
         '--csv', metavar='FILE_NAME',
         help='If specified, write counts to the specified CSV file')
+    parser.add_argument(
+        '--sensitivity', type=int, default=1,
+        help='Sensitivity of reporting. '
+             'Defaults to 1, which means report if no weekly slot is '
+             'available at the time slots considered.')
 
     args = parser.parse_args()
     return args
