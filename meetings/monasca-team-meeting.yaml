@@ -4,9 +4,15 @@ agenda_url:  https://etherpad.openstack.org/p/monasca-team-meeting-agenda
 schedule:
   - time:       '1500'
     day:        Wednesday
-    irc:        openstack-meeting-3
+    irc:        openstack-monasca
     frequency:  weekly
     start_date: 20171122
+
+  - time:       '0700'
+    day:        Thursday
+    irc:        openstack-monasca
+    frequency:  weekly
+    start_date: 20181220
 chair:  Witek Bedyk (witek)
 description: >
     To provide a multi-tenant, highly scalable, performant, fault-tolerant
