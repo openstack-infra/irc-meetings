@@ -1,0 +1,11 @@
+Code-Review+1: Amir Mofakhar <amir@mofakhar.info>
+Code-Review+1: Doug Szumski <doug@stackhpc.com>
+Code-Review+1: Joseph Davis <joseph.davis@suse.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 18 Dec 2018 16:13:44 +0000
+Reviewed-on: https://review.openstack.org/625609
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
