@@ -4,7 +4,7 @@ agenda_url: https://etherpad.openstack.org/p/openstack-helm-meeting-agenda
 schedule:
   - time:       '1500'
     day:        Tuesday
-    irc:        openstack-meeting-5
+    irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160502
 chair: Matt McEuen (mattmceuen)
