@@ -2,7 +2,7 @@ project:  Diversity Working Group Meeting
 meeting_id: diversity-wg
 agenda_url: https://etherpad.openstack.org/p/diversity-wg-agenda
 schedule:
-  - time:       '1900'
+  - time:       '1700'
     day:        Monday
     irc:        openstack-diversity
     frequency:  biweekly-odd
