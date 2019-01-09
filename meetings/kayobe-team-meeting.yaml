@@ -1,0 +1,12 @@
+project:  Kayobe Team Meeting
+meeting_id: kayobe
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Kayobe
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-kayobe
+    frequency:  biweekly-even
+    start_date: 20190121
+chair: Mark Goddard (mgoddard)
+description:  >
+  If you're interested in Kayobe, join this meeting.
