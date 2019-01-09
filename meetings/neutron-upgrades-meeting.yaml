@@ -4,7 +4,7 @@ agenda_url: https://wiki.openstack.org/wiki/Meetings/Neutron-Upgrades-Subteam
 schedule:
   - time:       '1400'
     day:        Thursday
-    irc:        openstack-meeting-5
+    irc:        openstack-meeting-alt
     frequency:  weekly
     start_date: 20160111
 chair:  Lujin Luo (lujinluo), Ihar Hrachyshka (ihrachyshka)
