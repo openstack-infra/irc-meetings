@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-meeting-4
     frequency:  weekly
     start_date: 20160107
-chair:  Brian Rosmaita (rosmaita)
+chair: Erno Kuvaja (jokke_)
 description: >
   This is the Glance meeting.  Glance is the OpenStack Image service.
   Our mission is to provide services and associated libraries to store,

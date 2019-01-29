@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-glance
     frequency:  biweekly-even
     start_date: 20180319
-chair:  Brian Rosmaita (rosmaita)
+chair: Abhishek Kekane (abhishekk)
 description: >
   Review open bugs for Glance, the OpenStack Image service.
   Meeting is open to anyone with an interest in squashing Glance bugs.
