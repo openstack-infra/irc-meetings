@@ -1,0 +1,9 @@
+Code-Review+1: Josephine Seifert <josephine.seifert@secustack.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 05 Feb 2019 16:18:02 +0000
+Reviewed-on: https://review.openstack.org/634927
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
