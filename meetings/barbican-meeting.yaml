@@ -1,13 +1,13 @@
 project:  Barbican Meeting
 meeting_id: barbican
-agenda_url: https://wiki.openstack.org/wiki/Meetings/Barbican
+agenda_url: https://etherpad.openstack.org/p/barbican-weekly-meeting
 schedule:
   - time:       '1300'
     day:        Tuesday
     irc:        openstack-barbican
     frequency:  weekly
-    start_date: 20160111
-chair:  Ade Lee (alee)
+    start_date: 20190205
+chair:  Douglas Mendizábal (redrobot)
 description:  >
   The Barbican project team holds a weekly team meeting on IRC.
   The blueprints that are used as a basis for the Barbican project can be
