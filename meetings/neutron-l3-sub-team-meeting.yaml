@@ -2,12 +2,12 @@ project:  Neutron L3 Sub-team Meeting
 meeting_id: neutron_l3
 agenda_url: https://etherpad.openstack.org/p/neutron-l3-subteam
 schedule:
-  - time:       '1500'
-    day:        Thursday
-    irc:        openstack-meeting-3
+  - time:       '1400'
+    day:        Wednesday
+    irc:        openstack-meeting
     frequency:  weekly
-    start_date: 20160107
-chair:  Miguel Lavalle (mlavalle), Brian Haley (haleyb)
+    start_date: 20190220
+chair:  Liu Yulong (liuyulong), Brian Haley (haleyb)
 description:  >
   Meetings, with their notes and logs, will be found under
   http://eavesdrop.openstack.org/meetings/neutron_l3
