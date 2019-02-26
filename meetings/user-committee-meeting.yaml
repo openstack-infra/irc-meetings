@@ -7,7 +7,7 @@ schedule:
     irc:        openstack-uc
     frequency:  weekly
     start_date: 20171030
-chair:  Melvin Hillsman (mrhillsman), Matt Van Winkle (VW), Amy Marrich (spotz), Yih Leong Sun (leong), Joseph Sandoval (josephrsandoval)
+chair:  Matt Van Winkle (VW), Amy Marrich (spotz), Joseph Sandoval (josephrsandoval), Belmiro Moreira (belmorei), John Studarus (studarus)
 description:  >
   This is the weekly User Committee team meeting for multiple regions.
   The User Committee's role is to represent the needs of the diverse range of OpenStack users and operators.
