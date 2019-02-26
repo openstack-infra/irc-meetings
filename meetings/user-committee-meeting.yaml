@@ -2,7 +2,7 @@ project:  User Committee Meeting
 meeting_id: uc
 agenda_url: https://wiki.openstack.org/wiki/Governance/Foundation/UserCommittee
 schedule:
-  - time:       '1800'
+  - time:       '1600'
     day:        Monday
     irc:        openstack-uc
     frequency:  weekly
