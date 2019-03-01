@@ -2,7 +2,7 @@ project:  Airship Team Meeting
 meeting_id: airship
 agenda_url: https://etherpad.openstack.org/p/airship-team-meeting-agenda
 schedule:
-  - time:       '1400'
+  - time:       '1600'
     day:        Tuesday
     irc:        airshipit
     frequency:  weekly
