@@ -2,16 +2,11 @@ project:  QA Team Office hours
 meeting_id: qa
 agenda_url: https://wiki.openstack.org/wiki/Meetings/QATeamMeeting
 schedule:
-  - time:       '1700'
+  - time:       '1600'
     day:        Thursday
     irc:        openstack-qa
     frequency:  weekly
     start_date: 20160107
-  - time:       '0900'
-    day:        Thursday
-    irc:        openstack-qa
-    frequency:  weekly
-    start_date: 20170615
 chair:  Ghanshyam Mann (gmann)
 description:  >
   The OpenStack QA Team holds public weekly Office hours. Everyone interested in
