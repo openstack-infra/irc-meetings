@@ -1,0 +1,12 @@
+project:  Placement Team Meeting
+meeting_id: placement
+agenda_url: https://wiki.openstack.org/wiki/Meetings/Placement
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        openstack-meeting-alt
+    frequency:  weekly
+    start_date: 20190325
+chair:  Chris Dent (cdent)
+description: >
+  This is the team meeting for Placement and related projects.
