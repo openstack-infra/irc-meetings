@@ -1,0 +1,9 @@
+Code-Review+1: Javier Peña <jpena@redhat.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 20 Mar 2019 10:18:38 +0000
+Reviewed-on: https://review.openstack.org/644806
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
