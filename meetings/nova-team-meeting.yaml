@@ -12,6 +12,6 @@ schedule:
     irc:        openstack-meeting
     frequency:  biweekly-odd
     start_date: 20160107
-chair: Melanie Witt (melwitt)
+chair: Eric Fried (efried)
 description:  >
   This is the weekly Nova team meeting.
