@@ -2,17 +2,12 @@ project:  Watcher Team Meeting
 meeting_id: watcher
 agenda_url: https://wiki.openstack.org/wiki/Watcher_Meeting_Agenda
 schedule:
-  - time:       '1400'
-    day:        Wednesday
-    irc:        openstack-meeting-3
-    frequency:  biweekly-even
-    start_date: 20160518
   - time:       '0800'
     day:        Wednesday
     irc:        openstack-meeting-alt
     frequency:  biweekly-odd
     start_date: 20160525
-chair:  Alexander Chadin (alexchadin)
+chair: Canwei Li (licanwei)
 description:  >
   Watcher provides a flexible and scalable resource
   optimization service for multi-tenant OpenStack-based clouds.
