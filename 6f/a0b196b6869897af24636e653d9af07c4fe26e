@@ -1,0 +1,10 @@
+Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>
+Code-Review+1: zhurong <aaronzhu1121@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 16 Apr 2019 08:39:26 +0000
+Reviewed-on: https://review.openstack.org/652809
+Project: openstack-infra/irc-meetings
+Branch: refs/heads/master
