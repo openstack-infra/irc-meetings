@@ -1,6 +1,0 @@
-.tox
-doc/build
-*.egg-info
-pbr*.egg
-.*sw?
-output
